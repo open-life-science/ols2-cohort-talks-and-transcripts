@@ -1,0 +1,735 @@
+1
+00:00:00,000 --> 00:00:04,410
+Unknown: I'm here to talk to you
+a about creating a positive
+
+2
+00:00:04,410 --> 00:00:08,250
+culture for contribution and
+collaboration for your open
+
+3
+00:00:08,250 --> 00:00:11,910
+projects. And we will
+specifically be looking at
+
+4
+00:00:11,910 --> 00:00:18,510
+making a contributing guide and
+a code of conduct. So let's get
+
+5
+00:00:18,510 --> 00:00:22,590
+going. And we'll try this
+quickly. So I am Lily, and I'm a
+
+6
+00:00:22,590 --> 00:00:25,350
+product manager for the
+frictionless data project, which
+
+7
+00:00:25,350 --> 00:00:29,130
+is an open source project. And I
+work at the Open Knowledge
+
+8
+00:00:29,130 --> 00:00:35,280
+Foundation. And you can also
+follow me on Twitter. So what is
+
+9
+00:00:35,310 --> 00:00:40,230
+a project culture, the culture
+is very important to think about
+
+10
+00:00:40,230 --> 00:00:45,150
+when you're working on an open
+project, because it isn't just
+
+11
+00:00:45,180 --> 00:00:49,020
+you that's working on this.
+Ideally, you want to be creating
+
+12
+00:00:49,020 --> 00:00:52,620
+a community. And we've just
+heard a little bit about this,
+
+13
+00:00:52,620 --> 00:00:56,130
+like why you would be creating a
+readme document. Part of that is
+
+14
+00:00:56,130 --> 00:01:00,600
+to help build up your community.
+And a healthy project culture
+
+15
+00:01:00,630 --> 00:01:06,060
+has a healthy community, meaning
+it has diverse members that you
+
+16
+00:01:06,060 --> 00:01:09,030
+know, have different backgrounds
+and ideas and talents that can
+
+17
+00:01:09,030 --> 00:01:13,440
+help build your community. So to
+help build and guide your
+
+18
+00:01:13,440 --> 00:01:17,520
+culture, there's a few things
+you need to keep in mind. One is
+
+19
+00:01:17,520 --> 00:01:21,450
+that it's a conscious decision
+that you as a leader need to
+
+20
+00:01:21,450 --> 00:01:29,490
+make. And what I mean by that is
+that a culture will build itself
+
+21
+00:01:29,520 --> 00:01:34,530
+within your project. Regardless
+of whether or not you build it,
+
+22
+00:01:34,560 --> 00:01:39,990
+it's like it will still happen.
+But for it to be the culture
+
+23
+00:01:39,990 --> 00:01:44,340
+that you want to build, you need
+to make some decisions, and help
+
+24
+00:01:44,340 --> 00:01:48,510
+it build according to your
+values. So you need to identify
+
+25
+00:01:48,510 --> 00:01:52,140
+what your values are. And that
+includes things like how should
+
+26
+00:01:52,140 --> 00:02:00,480
+people behave that are part of
+this? Okay, here is a picture
+
+27
+00:02:00,720 --> 00:02:06,060
+example of things to think about
+for your project culture. So
+
+28
+00:02:06,180 --> 00:02:10,770
+this is an XKCD. We're also just
+talking about, can I load it up
+
+29
+00:02:10,770 --> 00:02:14,250
+on your laptop sugar, oh, just
+hit both Shift keys to change
+
+30
+00:02:14,250 --> 00:02:18,030
+over to Qwerty, perhaps like is
+Ctrl spacebar caps lock in to
+
+31
+00:02:18,030 --> 00:02:22,830
+fear scroll means through time
+instead of space. And that dot
+
+32
+00:02:23,160 --> 00:02:26,310
+with the subtitle saying, once
+I've used a computer for a while
+
+33
+00:02:26,340 --> 00:02:29,820
+no one else will ever use it
+again. And this is showing you
+
+34
+00:02:29,850 --> 00:02:35,580
+that the choices that you make
+determine who can or can't also
+
+35
+00:02:35,580 --> 00:02:39,900
+use your project. The project
+culture is more than just its
+
+36
+00:02:39,930 --> 00:02:45,210
+goals. It's also things like the
+language, shared set of norms,
+
+37
+00:02:45,420 --> 00:02:50,340
+your expectations and your
+people's expectations, the tools
+
+38
+00:02:50,340 --> 00:02:53,700
+that you choose to use, and
+things like how decisions are
+
+39
+00:02:53,700 --> 00:03:00,870
+made, and the project's
+identity. So how can you build
+
+40
+00:03:00,870 --> 00:03:04,830
+your projects culture? Two ways
+we're going to talk about today
+
+41
+00:03:04,890 --> 00:03:09,480
+are using clear contributor
+guidelines and a code of conduct
+
+42
+00:03:09,510 --> 00:03:16,020
+that importantly, is
+enforceable. So what is a
+
+43
+00:03:16,020 --> 00:03:20,430
+community? This image was on the
+slides, and I thought it was so
+
+44
+00:03:20,430 --> 00:03:24,000
+cute. And I really like it,
+because it shows that you know,
+
+45
+00:03:24,000 --> 00:03:28,350
+a community is about different
+worlds animals here, but
+
+46
+00:03:28,350 --> 00:03:31,530
+different people, different
+users, and how they all interact
+
+47
+00:03:31,530 --> 00:03:36,180
+together. And maybe you know,
+one part of the community is the
+
+48
+00:03:36,180 --> 00:03:39,270
+base, like the thing that's
+keeping everyone warm. But there
+
+49
+00:03:39,270 --> 00:03:41,280
+are other members of the
+community that also have
+
+50
+00:03:41,280 --> 00:03:44,640
+different goals. And they have
+different reasons for being part
+
+51
+00:03:44,640 --> 00:03:48,390
+of the community. So it's
+important to understand why
+
+52
+00:03:48,390 --> 00:03:51,840
+people are part of the community
+and what they gain from it, and
+
+53
+00:03:51,840 --> 00:03:58,740
+what they can get. What is
+contribution? attribution is a
+
+54
+00:03:58,740 --> 00:04:03,240
+vital part of teamwork. And they
+contributions come in many
+
+55
+00:04:03,240 --> 00:04:07,080
+different forms. And we'll talk
+about those a little bit here.
+
+56
+00:04:07,110 --> 00:04:10,350
+And that they can be like
+writing code, writing,
+
+57
+00:04:10,350 --> 00:04:16,290
+documentation, editing, giving
+ideas, project management,
+
+58
+00:04:16,590 --> 00:04:20,100
+there's all sorts of things that
+team members can do to help the
+
+59
+00:04:20,100 --> 00:04:23,790
+team as a whole. on GitHub,
+there are several ways you can
+
+60
+00:04:23,790 --> 00:04:27,990
+look at contributors and
+contributors is a specific term
+
+61
+00:04:27,990 --> 00:04:31,380
+that gets abuses. And for
+instance, this is from the
+
+62
+00:04:31,380 --> 00:04:34,500
+frictionless data project. They
+work on one of our repositories,
+
+63
+00:04:34,500 --> 00:04:39,600
+we have 23 contributors. So on
+your GitHub projects, you will
+
+64
+00:04:39,600 --> 00:04:41,850
+also see how many contributors
+you have.
+
+65
+00:04:45,000 --> 00:04:49,800
+So a good way that everyone, all
+of your projects should have a
+
+66
+00:04:49,800 --> 00:04:54,660
+contributing document. And you
+can do this on GitHub. It's
+
+67
+00:04:54,660 --> 00:04:58,290
+called a contributing.md. So
+it's a markdown document. And
+
+68
+00:04:58,290 --> 00:05:02,490
+here's an example of one from
+one of our repositories, and so
+
+69
+00:05:02,490 --> 00:05:07,200
+it has some general guidelines
+and this specific document goes
+
+70
+00:05:07,200 --> 00:05:12,810
+on for a long time that it tells
+you in all potential users, how
+
+71
+00:05:12,810 --> 00:05:16,050
+they can help. So it gives you
+instructions for like how to
+
+72
+00:05:16,050 --> 00:05:22,770
+write the code, according to the
+style guide. And it also tells
+
+73
+00:05:22,770 --> 00:05:27,390
+you things like, the language
+that is most commonly used, and
+
+74
+00:05:27,390 --> 00:05:32,820
+it can give tips for beginners.
+And it will tell you things
+
+75
+00:05:32,820 --> 00:05:37,380
+like, you know, this is the
+software that we use. And here's
+
+76
+00:05:37,380 --> 00:05:41,550
+where you can go to find help.
+So everyone should create a
+
+77
+00:05:41,550 --> 00:05:45,210
+contributing.md file. And there
+are I think there's lots of
+
+78
+00:05:45,210 --> 00:05:51,540
+examples, I think, in the notes
+as well for these. Okay, so why
+
+79
+00:05:51,540 --> 00:05:56,700
+and what contributing, MD tells
+you the structure of
+
+80
+00:05:56,700 --> 00:06:00,330
+contributions, it provides
+guidelines, and a standard
+
+81
+00:06:00,330 --> 00:06:04,140
+style. And it's also used to
+improve efficiency. So people
+
+82
+00:06:04,140 --> 00:06:07,320
+don't have to ask the leader
+over and over again, you know,
+
+83
+00:06:07,320 --> 00:06:10,920
+how can I contribute, you can
+point them to this guide. And
+
+84
+00:06:10,920 --> 00:06:13,230
+it's a great way to involve new
+people and build up your
+
+85
+00:06:13,230 --> 00:06:16,620
+community. There are different
+people that you need to consider
+
+86
+00:06:16,620 --> 00:06:20,490
+when making this contributors
+guide, the owners, which would
+
+87
+00:06:20,490 --> 00:06:24,870
+be you know, most of you, owners
+of the organization, or project,
+
+88
+00:06:25,440 --> 00:06:28,410
+all of the contributors, which
+are all members that have done
+
+89
+00:06:28,440 --> 00:06:32,730
+something to help. And then the
+consumers are the users of the
+
+90
+00:06:32,730 --> 00:06:36,570
+project. And, you know,
+sometimes people will fall in
+
+91
+00:06:36,570 --> 00:06:42,330
+all three of these categories.
+Okay, you can also create a
+
+92
+00:06:42,330 --> 00:06:47,100
+contributors or community page
+on your website, if you have a
+
+93
+00:06:47,100 --> 00:06:50,310
+project website that's different
+from the GitHub. And this is a
+
+94
+00:06:50,310 --> 00:06:53,730
+nice example from the
+carpentries. And I'll just leave
+
+95
+00:06:53,730 --> 00:06:56,880
+that there for you guys to look
+through later. But it has a lot
+
+96
+00:06:56,880 --> 00:07:01,500
+of great detail. Alright, so now
+we're going to talk about code
+
+97
+00:07:01,500 --> 00:07:05,130
+of contracts. And why it's
+important to have a code of
+
+98
+00:07:05,130 --> 00:07:09,960
+conduct. And we talked about
+this a little bit already, but
+
+99
+00:07:10,050 --> 00:07:14,280
+your project or route will
+really flourish with a diverse
+
+100
+00:07:14,280 --> 00:07:23,700
+community. But I skipped on,
+hold on, you know, I think I'm
+
+101
+00:07:23,730 --> 00:07:27,990
+just going in the opposite
+direction. Okay, but what if
+
+102
+00:07:27,990 --> 00:07:31,980
+something happens, if something
+happens, you need to have a code
+
+103
+00:07:31,980 --> 00:07:36,150
+of conduct. A Code of Conduct is
+a set of rules that outline the
+
+104
+00:07:36,150 --> 00:07:39,270
+social norms, rules and
+responsibilities of an
+
+105
+00:07:39,270 --> 00:07:43,470
+individual project, party or
+organization. And it's commonly
+
+106
+00:07:43,470 --> 00:07:48,990
+abbreviated as a CRC. So a lot
+of people ask me, do you really
+
+107
+00:07:48,990 --> 00:07:55,290
+need a CRC? Yes, is the short
+answer. But why a code of
+
+108
+00:07:55,290 --> 00:07:58,740
+conduct invites people to your
+project, it sets clear
+
+109
+00:07:58,740 --> 00:08:02,550
+expectations for your community
+members. And it tells
+
+110
+00:08:02,550 --> 00:08:05,550
+contributors that you care about
+your community, and that you
+
+111
+00:08:05,550 --> 00:08:11,340
+care about creating a welcoming
+space for everyone. Here's some
+
+112
+00:08:11,340 --> 00:08:16,860
+links to some examples of code
+of conduct. And I especially
+
+113
+00:08:16,860 --> 00:08:20,670
+like the Python code of conduct,
+it is the most thorough code of
+
+114
+00:08:20,670 --> 00:08:25,650
+conduct that I think I've ever
+seen. And I reference it all of
+
+115
+00:08:25,650 --> 00:08:31,140
+the time. So I really recommend
+the Python code of here's an
+
+116
+00:08:31,140 --> 00:08:34,980
+example from the CSB con put of
+conduct which I helped write
+
+117
+00:08:34,980 --> 00:08:37,950
+this while earlier this year
+when we went to a virtual
+
+118
+00:08:37,950 --> 00:08:43,710
+conference. And it has a lot of
+the basic parts of the code of
+
+119
+00:08:43,710 --> 00:08:48,990
+conduct, it outlines who the
+Code of Conduct is for what kind
+
+120
+00:08:48,990 --> 00:08:53,130
+of behavior is expected, what
+kind of behavior is not allowed,
+
+121
+00:08:53,490 --> 00:08:59,520
+and importantly, the enforcement
+and reporting that would occur
+
+122
+00:08:59,550 --> 00:09:04,950
+if there's a breach of the code
+of conduct. So a code of conduct
+
+123
+00:09:04,950 --> 00:09:10,290
+is not just a box item. And a
+lot of people will create one
+
+124
+00:09:10,290 --> 00:09:13,320
+say, oh, we're done. But you
+actually aren't gun, it's really
+
+125
+00:09:13,320 --> 00:09:15,720
+important to make sure that your
+code of conduct has both
+
+126
+00:09:15,720 --> 00:09:19,800
+enforcement and reporting
+included in and you need to have
+
+127
+00:09:19,800 --> 00:09:25,260
+specific ways that it's clear to
+people how they can report and
+
+128
+00:09:25,260 --> 00:09:29,880
+who they are reporting to. And
+many of you probably heard this,
+
+129
+00:09:29,880 --> 00:09:33,150
+I think yo was mentioning the
+Code of Conduct earlier, and
+
+130
+00:09:33,150 --> 00:09:37,650
+went through a lot of details.
+So, you know, no one likes a
+
+131
+00:09:37,710 --> 00:09:39,570
+code of conduct is also a great
+example.
+
+132
+00:09:41,250 --> 00:09:43,680
+Okay, so getting started, how do
+you start with your code of
+
+133
+00:09:43,680 --> 00:09:47,730
+conduct, you should brainstorm
+some core words that represent
+
+134
+00:09:47,730 --> 00:09:51,060
+your community values. And then
+think about behaviors that you
+
+135
+00:09:51,060 --> 00:09:54,870
+want to encourage or discourage.
+Think through the process for
+
+136
+00:09:54,870 --> 00:09:58,320
+incidents and complaints. And
+then also think about the
+
+137
+00:09:58,320 --> 00:10:01,470
+consequences for people that
+actually Outside of these norms
+
+138
+00:10:01,470 --> 00:10:04,860
+that are defined, and of course,
+you have to understand and
+
+139
+00:10:04,860 --> 00:10:09,000
+accept your role as a project
+lead. And if you are
+
+140
+00:10:09,120 --> 00:10:14,460
+uncomfortable or unsure about
+how to deal with reports, reach
+
+141
+00:10:14,460 --> 00:10:19,140
+out to your community and ask
+for help and support. So tips
+
+142
+00:10:19,140 --> 00:10:23,430
+and takeaways, encourage and
+reward good practice, designate
+
+143
+00:10:23,430 --> 00:10:26,430
+the code of conduct and safety
+committee to help you with this.
+
+144
+00:10:26,820 --> 00:10:30,480
+Make sure your code of conduct
+is posted visible and clear and
+
+145
+00:10:30,480 --> 00:10:34,050
+communicated to your
+contributors and use an existing
+
+146
+00:10:34,050 --> 00:10:36,720
+code of conduct. Many of them
+are openly licensed, which you
+
+147
+00:10:36,720 --> 00:10:38,670
+just learned about and you can
+reuse them.
+

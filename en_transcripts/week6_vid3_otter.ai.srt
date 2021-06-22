@@ -1,0 +1,733 @@
+1
+00:00:00,000 --> 00:00:03,240
+Unknown: My name is Paul Andrea
+marthinus, you can find me on
+
+2
+00:00:03,240 --> 00:00:10,230
+Twitter via my handle or kids
+00. This presentation is open to
+
+3
+00:00:10,230 --> 00:00:14,940
+you by a creative commons CC by
+four International. And I've
+
+4
+00:00:14,940 --> 00:00:18,180
+uploaded to fit chat. So I think
+I tick all the boxes that Alex
+
+5
+00:00:18,180 --> 00:00:23,100
+just mentioned. Great. So from
+the western, you just added on
+
+6
+00:00:23,100 --> 00:00:26,880
+to the MB hack. I hope some of
+these are reproducing this
+
+7
+00:00:26,880 --> 00:00:31,110
+slide. It comes from the World
+Bank, it was an analysis they
+
+8
+00:00:31,110 --> 00:00:37,590
+did with the Open Data handbook
+and the World Bank survey. And
+
+9
+00:00:37,590 --> 00:00:40,080
+they mentioned that open data as
+many things for different
+
+10
+00:00:40,110 --> 00:00:44,610
+people. So it's an opportunity
+to share digital resources, make
+
+11
+00:00:44,610 --> 00:00:47,940
+the community participate and
+empower them by giving them
+
+12
+00:00:47,970 --> 00:00:52,920
+access, giving them transparency
+on how the data was collected,
+
+13
+00:00:52,920 --> 00:00:58,320
+and then share with with
+everyone by having no
+
+14
+00:00:58,320 --> 00:01:03,240
+restrictions and making it
+available. So just to expand on
+
+15
+00:01:03,240 --> 00:01:07,560
+that. I like to give you the
+definition of what open data
+
+16
+00:01:07,560 --> 00:01:13,110
+means by the Open Data
+handbook.org. They say that open
+
+17
+00:01:13,110 --> 00:01:18,060
+data is data that can be freely
+used, reuse, and redistributed
+
+18
+00:01:18,060 --> 00:01:24,270
+by anyone. And on this little
+cartoon on the right side, it
+
+19
+00:01:24,270 --> 00:01:29,760
+says it's an unusually mutation
+for you for anyone to use,
+
+20
+00:01:29,760 --> 00:01:34,500
+modify and enhance your work.
+That's the way that we can build
+
+21
+00:01:34,530 --> 00:01:41,460
+on top of other people's work
+and keep improving them. The
+
+22
+00:01:41,460 --> 00:01:46,560
+concept of open data is actually
+nothing new. It comes from the
+
+23
+00:01:47,520 --> 00:01:52,800
+since internet started this some
+guidelines that people should be
+
+24
+00:01:52,800 --> 00:01:57,480
+following that Tim berners Lee
+put together trying to make it a
+
+25
+00:01:57,480 --> 00:02:04,350
+very simple step by step process
+to make your data open as much
+
+26
+00:02:04,350 --> 00:02:07,500
+as possible. So the first thing
+is whatever you want to share,
+
+27
+00:02:07,500 --> 00:02:11,730
+you can put it online, in would
+have four months you have, but
+
+28
+00:02:11,760 --> 00:02:15,780
+under an open license. So we
+Alex just mentioned, there's
+
+29
+00:02:15,780 --> 00:02:19,080
+different kinds of licenses,
+depending if you have code or if
+
+30
+00:02:19,080 --> 00:02:22,440
+you have text, like in this
+case, I'm using Creative Commons
+
+31
+00:02:22,440 --> 00:02:26,220
+for the license. Then if you
+want to go a step farther you go
+
+32
+00:02:26,220 --> 00:02:30,600
+and make that data available in
+a structured way. So for
+
+33
+00:02:30,600 --> 00:02:34,650
+example, you can put together
+all your data collected in a way
+
+34
+00:02:34,650 --> 00:02:38,610
+that nobody can understand them.
+Or you can categorize your data
+
+35
+00:02:38,670 --> 00:02:42,330
+and put it into different
+sections. How is your process
+
+36
+00:02:42,330 --> 00:02:46,440
+collected? How do you clean your
+data and how it's what's the
+
+37
+00:02:46,470 --> 00:02:52,200
+output of that data. The third
+way is making this data once
+
+38
+00:02:52,200 --> 00:02:54,780
+it's out there, it's on the
+internet, you have put it
+
+39
+00:02:54,780 --> 00:02:57,810
+together kind of in a
+spreadsheet, for example, you
+
+40
+00:02:57,810 --> 00:03:03,630
+can opt to have a nonprofit, or
+open format. For example,
+
+41
+00:03:03,630 --> 00:03:08,040
+instead of having Excel that not
+everyone can open, you can have
+
+42
+00:03:08,040 --> 00:03:10,530
+that as a text file or a comma
+separated
+
+43
+00:03:12,360 --> 00:03:12,900
+file.
+
+44
+00:03:14,280 --> 00:03:17,700
+So that other people who don't
+have access to an Excel
+
+45
+00:03:17,940 --> 00:03:21,900
+spreadsheet software program,
+they can open it with an open
+
+46
+00:03:21,900 --> 00:03:25,560
+source software program that
+exists for other operating
+
+47
+00:03:25,560 --> 00:03:31,890
+systems. The fourth step is that
+you who add a link or URL to the
+
+48
+00:03:31,890 --> 00:03:36,330
+node, what you're sharing, and
+that is the URL. And we would
+
+49
+00:03:36,330 --> 00:03:40,140
+like to have this euro as a
+permanent resource. So something
+
+50
+00:03:40,140 --> 00:03:43,380
+then it's not going to change
+over time. And it's always going
+
+51
+00:03:43,380 --> 00:03:48,480
+to point to the original data
+that you're sharing. Once you
+
+52
+00:03:48,480 --> 00:03:52,920
+have that you make very good
+progress. And the last step that
+
+53
+00:03:52,920 --> 00:03:56,880
+you can make to contribute to
+open data is to link your data.
+
+54
+00:03:56,880 --> 00:04:02,730
+So it's very unusual that you
+have a data that comes by itself
+
+55
+00:04:02,730 --> 00:04:07,440
+stands alone and links to
+nothing. So you have to try to
+
+56
+00:04:07,440 --> 00:04:11,970
+put some extra information about
+how this data links to other
+
+57
+00:04:11,970 --> 00:04:15,780
+data. If you've collected from
+other sources, if you've clean
+
+58
+00:04:15,780 --> 00:04:19,410
+it from other sources, if you
+contributed with other people,
+
+59
+00:04:19,440 --> 00:04:22,740
+all those things are things that
+you can link to your data and
+
+60
+00:04:22,740 --> 00:04:27,120
+you provide context of what the
+result is. So with these steps,
+
+61
+00:04:27,180 --> 00:04:32,190
+you are helping everyone and
+making it possible for others to
+
+62
+00:04:32,190 --> 00:04:37,560
+reuse your data in a much more
+meaningful way. To continue with
+
+63
+00:04:37,560 --> 00:04:40,950
+this presentation, I'll touch on
+this three points. The thing I'm
+
+64
+00:04:40,980 --> 00:04:45,300
+very important when you share
+your data first is ethics. The
+
+65
+00:04:45,300 --> 00:04:48,300
+second one is how you link your
+data a little bit more in
+
+66
+00:04:48,300 --> 00:04:53,730
+details, and then the fair data
+principles. So first, for
+
+67
+00:04:53,730 --> 00:04:57,990
+ethics. A lot of people think
+that the ethics code just at the
+
+68
+00:04:57,990 --> 00:05:00,540
+end so when you try to
+communicate and do distributed
+
+69
+00:05:00,540 --> 00:05:03,480
+your data, you should be ethical
+in what you're sharing. But
+
+70
+00:05:03,480 --> 00:05:09,000
+instead, I want you to remind
+yourself that ethics comes from
+
+71
+00:05:09,000 --> 00:05:12,360
+the moment that you apply for
+funding. Someone is paying for
+
+72
+00:05:12,360 --> 00:05:16,860
+this research, and they want
+this research to be public or
+
+73
+00:05:16,860 --> 00:05:19,980
+know, what's the motivation for
+that? How are you designing your
+
+74
+00:05:19,980 --> 00:05:24,270
+project? Are you being biased?
+Or about your data collection?
+
+75
+00:05:25,500 --> 00:05:29,340
+How are you resourcing your
+data? How is your analysis being
+
+76
+00:05:29,340 --> 00:05:35,130
+done? Are you influencing the
+results of your analysis by any
+
+77
+00:05:35,130 --> 00:05:38,130
+process that you're taking? How
+you interpreting the data? Are
+
+78
+00:05:38,130 --> 00:05:43,350
+you skipping some steps? Are you
+trying to collect what goes in
+
+79
+00:05:43,350 --> 00:05:47,880
+for a better p value on your
+results, all of that it's part
+
+80
+00:05:47,880 --> 00:05:51,960
+of the data ethics. So remember
+that and think that ethics is
+
+81
+00:05:51,990 --> 00:05:57,360
+all the way in your data product
+lifecycle. The other important
+
+82
+00:05:57,360 --> 00:06:02,160
+thing that I think why the open
+data exists, it's to create
+
+83
+00:06:02,160 --> 00:06:05,820
+knowledge. And to create
+knowledge, we have to understand
+
+84
+00:06:05,820 --> 00:06:09,780
+each other. So for that we use
+standards. Also, we use the
+
+85
+00:06:09,780 --> 00:06:14,820
+syntax. So for example, I've
+heard in a presentation about
+
+86
+00:06:14,970 --> 00:06:18,840
+the human genome where people
+were uploading a lot of human
+
+87
+00:06:18,840 --> 00:06:21,990
+genomes that are not ECG,
+correct, but they will some
+
+88
+00:06:21,990 --> 00:06:25,140
+people will name in hormone,
+other people will mimic human,
+
+89
+00:06:25,170 --> 00:06:28,590
+other people will name a man,
+there's so many words that
+
+90
+00:06:28,590 --> 00:06:33,600
+relate to the same thing. But a
+machine will not know this, if
+
+91
+00:06:33,600 --> 00:06:37,530
+they're not part of vocabulary
+or ontology. And to see the
+
+92
+00:06:37,530 --> 00:06:41,370
+difference, I would recommend
+you to go into w three.org. To
+
+93
+00:06:41,370 --> 00:06:44,700
+see how you can build an
+ontology where you can find
+
+94
+00:06:44,700 --> 00:06:48,990
+ontologies are already existent,
+and how you can contribute to
+
+95
+00:06:48,990 --> 00:06:53,460
+those and name your data in a
+reasonable way that has a
+
+96
+00:06:53,460 --> 00:06:56,760
+relationship that has context
+and you provide the connection
+
+97
+00:06:56,760 --> 00:06:57,780
+to what you're sharing.
+
+98
+00:07:00,360 --> 00:07:06,690
+Last, but not least, the fair
+guiding data principles. This is
+
+99
+00:07:06,690 --> 00:07:10,050
+also not a new concept. But
+there was a published paper in
+
+100
+00:07:10,050 --> 00:07:17,130
+2016, about thinking all the
+things you do as a researcher,
+
+101
+00:07:17,130 --> 00:07:20,970
+we usually have this little nice
+picture of our paper that is two
+
+102
+00:07:20,970 --> 00:07:25,020
+or three pages long, that we
+spend two or three years
+
+103
+00:07:25,050 --> 00:07:28,380
+collecting and cleaning and
+putting together, right. So
+
+104
+00:07:28,380 --> 00:07:32,100
+there's a lot of work performed,
+that it's not visible to the
+
+105
+00:07:32,100 --> 00:07:36,540
+public. And we want to emphasize
+all of that we want to leverage
+
+106
+00:07:36,540 --> 00:07:40,800
+the work that you're doing, we
+want you to have credit for the
+
+107
+00:07:40,800 --> 00:07:44,910
+work that you're doing. So
+that's why the principles were
+
+108
+00:07:44,910 --> 00:07:50,610
+put together as a guideline. And
+it has some steps and
+
+109
+00:07:50,610 --> 00:07:54,090
+recommendations that I've
+mentioned before. And on this
+
+110
+00:07:54,090 --> 00:07:57,060
+presentation, you have some
+links that I recommend you to
+
+111
+00:07:57,060 --> 00:08:02,040
+follow. So they go further or
+explain them in Simple English
+
+112
+00:08:02,040 --> 00:08:05,850
+terms about what they are. Then
+there's the fourth 11, fair data
+
+113
+00:08:05,850 --> 00:08:09,000
+principles group. If you want to
+contribute, you can go there
+
+114
+00:08:09,000 --> 00:08:13,470
+and, and help. And a new
+initiative that I'm also part of
+
+115
+00:08:13,470 --> 00:08:19,170
+the chain committee is fair for
+research software. So initially,
+
+116
+00:08:19,170 --> 00:08:23,490
+the guiding principles were only
+for data. And now we want to
+
+117
+00:08:23,490 --> 00:08:27,630
+have software for surface
+citizen having the same
+
+118
+00:08:27,630 --> 00:08:31,500
+principles applied to software.
+They relate a lot to the data
+
+119
+00:08:31,530 --> 00:08:34,350
+principles, but there's some
+modifications that we need to
+
+120
+00:08:34,350 --> 00:08:39,150
+do. And you can also read that
+paper towards first principles
+
+121
+00:08:39,150 --> 00:08:44,820
+for research software that was
+published last year. Some
+
+122
+00:08:44,820 --> 00:08:49,710
+communities that are being part
+of that I'm still part of that
+
+123
+00:08:49,800 --> 00:08:55,050
+you can go and look up for more
+information on the Open Data
+
+124
+00:08:55,050 --> 00:08:59,700
+handled by the Open Knowledge
+Foundation, the last OSL had a
+
+125
+00:08:59,700 --> 00:09:03,000
+presentation by one of the
+members. There's a lot of
+
+126
+00:09:03,000 --> 00:09:06,540
+information in the digital
+curation center, not only about
+
+127
+00:09:06,540 --> 00:09:11,310
+open data, but also licensing,
+and many other topics. You will
+
+128
+00:09:11,310 --> 00:09:16,590
+come to have look this the
+Forster open science that has a
+
+129
+00:09:16,590 --> 00:09:19,620
+lot of open materials that you
+can reuse. It also has
+
+130
+00:09:19,620 --> 00:09:25,200
+tutorials, you can share them,
+they're all attribution base.
+
+131
+00:09:25,470 --> 00:09:29,310
+They're open, as before the
+Turing way that you might have
+
+132
+00:09:29,310 --> 00:09:32,430
+heard many times already. Then
+there's also the open
+
+133
+00:09:32,430 --> 00:09:36,360
+conquerable conference that has
+set later conferences around the
+
+134
+00:09:36,360 --> 00:09:40,620
+world. Now everything is online.
+So you can also start one of
+
+135
+00:09:40,620 --> 00:09:46,200
+those in your locality. And for
+the TOEFL, the topic of open
+
+136
+00:09:46,200 --> 00:09:48,810
+data. The research data
+Alliance, I think is a very
+
+137
+00:09:48,810 --> 00:09:52,260
+valuable resource. It's a group
+of volunteers around the globe,
+
+138
+00:09:52,620 --> 00:09:58,920
+that labels the open sharing and
+reuse of data. There's so many
+
+139
+00:09:58,920 --> 00:10:04,230
+different topics out Welcome you
+to be part of them. And as Alex
+
+140
+00:10:04,230 --> 00:10:09,270
+mentioned, if you want to start
+using open data, what best to
+
+141
+00:10:09,270 --> 00:10:12,900
+put hands on into hackathon for
+example, there's a lot of
+
+142
+00:10:12,900 --> 00:10:15,750
+challenges that you can be
+solving social, economic, and
+
+143
+00:10:15,750 --> 00:10:22,110
+environmental, where Open Data
+can help. With that, I'd like to
+
+144
+00:10:22,110 --> 00:10:29,010
+thank you for your attention.
+This is also an open image by
+
+145
+00:10:29,010 --> 00:10:35,760
+patri. HostIn back. And the the
+open data is just part of the
+
+146
+00:10:35,760 --> 00:10:40,260
+road to open science I think all
+of you are following in. If you
+
+147
+00:10:40,260 --> 00:10:43,290
+have questions, you can contact
+me by by Twitter.
+

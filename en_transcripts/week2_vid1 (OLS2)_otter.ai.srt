@@ -1,0 +1,630 @@
+1
+00:00:00,000 --> 00:00:03,180
+Unknown: Huge welcome. And we're
+excited to be working with you.
+
+2
+00:00:04,380 --> 00:00:08,070
+So what we focus on is helping
+early stage researchers,
+
+3
+00:00:08,070 --> 00:00:10,980
+potential academic leaders, and
+really anyone who has an
+
+4
+00:00:10,980 --> 00:00:15,150
+interest in open science
+practice. So you don't have to
+
+5
+00:00:15,150 --> 00:00:18,090
+be an early stage career, if you
+wants to still go through the
+
+6
+00:00:18,090 --> 00:00:22,290
+program, that's fine as well.
+And one of our focuses is to
+
+7
+00:00:22,290 --> 00:00:25,080
+make sure that you become an
+ambassador for open science. So
+
+8
+00:00:25,080 --> 00:00:27,810
+whilst we we have everyone
+applying with a specific
+
+9
+00:00:27,810 --> 00:00:30,690
+project, so that you may be
+working on, we hope that this
+
+10
+00:00:30,690 --> 00:00:34,140
+will actually apply to all
+aspects of the science and the
+
+11
+00:00:34,140 --> 00:00:36,540
+research that you're working on.
+And that hopefully, this will be
+
+12
+00:00:36,540 --> 00:00:43,110
+something you can also pass on
+to others in the future. And
+
+13
+00:00:43,170 --> 00:00:45,540
+again, we can only really
+advance where we're actually
+
+14
+00:00:45,540 --> 00:00:49,440
+working with with with other
+people rather than against other
+
+15
+00:00:49,440 --> 00:00:54,240
+people and building on each
+other's successes. But one of
+
+16
+00:00:54,240 --> 00:00:56,760
+the problems is that people are
+often afraid of actually
+
+17
+00:00:56,760 --> 00:01:00,600
+sharing, we try and break down
+as many barriers here as we can,
+
+18
+00:01:01,020 --> 00:01:03,720
+as well as some of the fears
+that may or may not actually be
+
+19
+00:01:03,720 --> 00:01:07,080
+things that people tend to
+encounter all that often. So
+
+20
+00:01:07,080 --> 00:01:09,720
+some some of these fears might
+be being criticized or being
+
+21
+00:01:09,720 --> 00:01:18,120
+scoped. But we like to talk
+about working openly without
+
+22
+00:01:18,150 --> 00:01:21,240
+feeling vulnerable, and without
+worry about having to worry so
+
+23
+00:01:21,240 --> 00:01:25,920
+much about something about these
+types of things. So we will be
+
+24
+00:01:25,920 --> 00:01:30,090
+working one step at a time to go
+through some of these steps. So
+
+25
+00:01:30,090 --> 00:01:32,610
+you may have already looked at
+the open life science syllabus,
+
+26
+00:01:32,610 --> 00:01:34,680
+in fact, if you've applied,
+there's a very good chance
+
+27
+00:01:34,680 --> 00:01:38,940
+you've spent quite a long time
+looking at this. But because we
+
+28
+00:01:38,940 --> 00:01:43,560
+have this over a whole 16 weeks
+sort of means that we touch on a
+
+29
+00:01:43,560 --> 00:01:46,050
+few concepts, and then you have
+a week or two to actually apply
+
+30
+00:01:46,050 --> 00:01:49,620
+it to your project. And then we
+touch on more concepts. And this
+
+31
+00:01:49,620 --> 00:01:52,620
+means that rather than this
+being a concentrated, you know,
+
+32
+00:01:52,620 --> 00:01:54,960
+one week program or something,
+it means that you have a lot of
+
+33
+00:01:54,960 --> 00:01:58,740
+time to reflect and reapply and
+work on things in between all of
+
+34
+00:01:58,740 --> 00:02:01,680
+the cohort calls. And then
+there's also your mentors who
+
+35
+00:02:01,680 --> 00:02:04,080
+will speak with you on every
+other week to actually chat
+
+36
+00:02:04,080 --> 00:02:07,740
+about how this is going and
+reflect and figure out and act
+
+37
+00:02:07,740 --> 00:02:14,550
+as an external viewpoint. And
+so, the cohort covers the cohort
+
+38
+00:02:14,550 --> 00:02:17,340
+based training. So sweet things
+like today, today is largely an
+
+39
+00:02:17,340 --> 00:02:20,580
+intro, but we will go into a lot
+more specific subjects over the
+
+40
+00:02:20,580 --> 00:02:24,270
+next 16 weeks, we also have the
+one on one mentoring. And then
+
+41
+00:02:24,270 --> 00:02:28,290
+the hands on practice is really
+up to us project lead. So this
+
+42
+00:02:28,290 --> 00:02:30,690
+is the part where you apply what
+we've been learning to your
+
+43
+00:02:30,690 --> 00:02:36,900
+projects. And one thing that you
+will see us talking about a lot
+
+44
+00:02:37,080 --> 00:02:41,040
+is the Mozilla open leadership
+framework. So the open life
+
+45
+00:02:41,040 --> 00:02:46,290
+science was born as a child of
+the Mozilla open leaders, that
+
+46
+00:02:46,290 --> 00:02:48,690
+doesn't run anymore, actually.
+But they've left a lot of
+
+47
+00:02:48,690 --> 00:02:51,330
+amazing materials. You'll see
+occasionally you may see Mozilla
+
+48
+00:02:51,330 --> 00:02:54,270
+and some of our slides or on
+some of the handouts that we
+
+49
+00:02:54,270 --> 00:02:58,620
+provide. Because they launched a
+bunch of different amazing open
+
+50
+00:02:58,620 --> 00:03:01,710
+leadership style programs. This
+one specifically focuses on open
+
+51
+00:03:01,710 --> 00:03:07,440
+science. But this has also been
+applied to AI and to hardware,
+
+52
+00:03:07,500 --> 00:03:12,360
+and to many, many other
+different areas, that people are
+
+53
+00:03:12,360 --> 00:03:14,400
+actually applying the open
+leadership framework and
+
+54
+00:03:14,430 --> 00:03:18,480
+basically as a way of
+structuring building community,
+
+55
+00:03:18,870 --> 00:03:23,820
+and building collaboration and
+pathways into the projects that
+
+56
+00:03:23,820 --> 00:03:28,350
+you're working on. And this is a
+phrase that you will also see a
+
+57
+00:03:28,350 --> 00:03:31,500
+lot of the time, and we often
+bold, different parts of it
+
+58
+00:03:31,500 --> 00:03:34,920
+depending on what we're actually
+talking about. So I'll read it
+
+59
+00:03:34,920 --> 00:03:38,280
+out, open it as design, build
+and empower their projects and
+
+60
+00:03:38,280 --> 00:03:41,910
+communities for understanding
+sharing and participation and
+
+61
+00:03:41,910 --> 00:03:45,210
+inclusion. So depending on the
+lesson that we may be teaching
+
+62
+00:03:45,210 --> 00:03:48,120
+in any given week, we may be
+talking about the empowering, or
+
+63
+00:03:48,120 --> 00:03:50,490
+they'll be talking about the
+designing or some other parts.
+
+64
+00:03:50,490 --> 00:03:53,730
+So you'll see this repeated a
+lot but with a different
+
+65
+00:03:53,730 --> 00:03:58,380
+emphasis each time as we go
+through. And this is part of the
+
+66
+00:03:58,380 --> 00:04:00,570
+Mozilla open leadership
+framework. So this is again, a
+
+67
+00:04:00,570 --> 00:04:04,020
+slide you may see a lot, we will
+highlight different boxes within
+
+68
+00:04:04,020 --> 00:04:08,430
+this or different bullet points
+within this as we go along. But
+
+69
+00:04:08,820 --> 00:04:10,860
+it just sort of gives you an
+idea of some of the focuses that
+
+70
+00:04:10,860 --> 00:04:14,130
+we look into. So we look at
+participation and inclusion and
+
+71
+00:04:14,130 --> 00:04:16,830
+different ways that we can build
+that into the program and
+
+72
+00:04:16,830 --> 00:04:20,220
+empower people. We look at ways
+that we can build sharing into
+
+73
+00:04:20,220 --> 00:04:23,610
+the program. And we also look at
+ways that we can design so that
+
+74
+00:04:23,610 --> 00:04:29,640
+people understand what's going
+on effectively. And so some of
+
+75
+00:04:29,640 --> 00:04:32,280
+the different roles of open
+science communities are some of
+
+76
+00:04:32,280 --> 00:04:35,130
+the different things that we
+will touch upon over the next
+
+77
+00:04:35,340 --> 00:04:39,390
+few weeks will include sharing
+your data. We will talk about
+
+78
+00:04:39,390 --> 00:04:42,720
+sharing your source code if you
+have source code, so we're not
+
+79
+00:04:42,720 --> 00:04:46,890
+expecting everyone to do so. But
+some of you may do so. Equally,
+
+80
+00:04:46,890 --> 00:04:49,650
+we talk about about sharing
+hardware, but again, it's fine
+
+81
+00:04:49,650 --> 00:04:51,150
+if you don't have hardware,
+these are just some of the
+
+82
+00:04:51,150 --> 00:04:54,090
+different things that you may
+encounter. And it's also good to
+
+83
+00:04:54,090 --> 00:04:55,290
+be aware of as well.
+
+84
+00:04:57,420 --> 00:05:00,630
+Now we talk about dissemination
+such as sharing up papers and
+
+85
+00:05:00,630 --> 00:05:03,990
+protocols, the more traditional
+ways that that can be open
+
+86
+00:05:03,990 --> 00:05:07,620
+access, or if you're sharing
+your results early. That's pre
+
+87
+00:05:07,620 --> 00:05:09,630
+printing. I think that's
+actually been highlighted a lot
+
+88
+00:05:09,630 --> 00:05:13,260
+recently with COVID, perhaps
+preprints have become a lot more
+
+89
+00:05:13,260 --> 00:05:17,220
+common and in the spotlight than
+they used to be. We talked about
+
+90
+00:05:17,220 --> 00:05:21,120
+sharing with us your papers,
+sharing training, such as open
+
+91
+00:05:21,120 --> 00:05:24,030
+education, and also
+collaborating openly with a
+
+92
+00:05:24,030 --> 00:05:27,750
+public. Citizen Science may not
+always be pinpointed as a method
+
+93
+00:05:27,750 --> 00:05:30,570
+of open science. But it
+definitely does involve a lot of
+
+94
+00:05:30,570 --> 00:05:34,350
+openness. And also just
+generally networking and
+
+95
+00:05:34,350 --> 00:05:36,930
+connecting with others in your
+fields. And so these are a few
+
+96
+00:05:36,930 --> 00:05:38,820
+of the things that we cover,
+it's definitely not the only
+
+97
+00:05:38,820 --> 00:05:41,580
+things we cover. That's one of
+the things to look forward to
+
+98
+00:05:41,610 --> 00:05:43,710
+over the next few weeks, we'll
+also invite a lot of guest
+
+99
+00:05:43,710 --> 00:05:49,650
+speakers to speak on these
+specific topics. One of the most
+
+100
+00:05:49,650 --> 00:05:52,650
+important premises of open life
+science is that openness should
+
+101
+00:05:52,650 --> 00:05:56,130
+be built in by design to what
+you're doing rather than by
+
+102
+00:05:56,160 --> 00:06:02,040
+accident, or by a default. And
+to explain why that is. So this
+
+103
+00:06:02,040 --> 00:06:07,620
+is a very sort of tech oriented
+explanation. But looking at 160
+
+104
+00:06:07,620 --> 00:06:11,970
+tech companies. This study
+actually found that the level of
+
+105
+00:06:11,970 --> 00:06:14,970
+strategic intent and openness
+tended to correlate with market
+
+106
+00:06:14,970 --> 00:06:19,530
+performance, or to make that
+slightly less techie sounding.
+
+107
+00:06:19,560 --> 00:06:22,020
+Basically, when you
+intentionally design the ways
+
+108
+00:06:22,020 --> 00:06:24,810
+that people interact with you,
+and the ways that people join
+
+109
+00:06:24,810 --> 00:06:27,600
+your community, and the ways
+that people continue to
+
+110
+00:06:27,600 --> 00:06:29,880
+participate in your community,
+it tends to be a lot more
+
+111
+00:06:29,880 --> 00:06:33,210
+effective, then if you simply
+put something online and say,
+
+112
+00:06:33,210 --> 00:06:37,590
+Please come. So we try and focus
+on building these effective
+
+113
+00:06:37,590 --> 00:06:41,190
+useful, inclusive communities
+that actually are designed to
+
+114
+00:06:41,190 --> 00:06:46,380
+have people participating and
+enjoying that participation. But
+
+115
+00:06:46,380 --> 00:06:48,720
+yeah, design openness and your
+work and don't let it be a
+
+116
+00:06:48,720 --> 00:06:49,830
+thoughtless default.
+
+117
+00:06:52,050 --> 00:06:52,800
+So
+
+118
+00:06:54,360 --> 00:06:58,860
+chief positive culture change,
+yes. Okay. Right. So one thing
+
+119
+00:06:58,860 --> 00:07:01,110
+that we're looking at also is
+allowing you to achieve the
+
+120
+00:07:01,110 --> 00:07:03,780
+positive culture change within
+your community. So we don't want
+
+121
+00:07:03,780 --> 00:07:06,330
+to just accept the status quo
+and some places that may be
+
+122
+00:07:06,360 --> 00:07:09,690
+things aren't open or in other
+places that the opening open
+
+123
+00:07:09,690 --> 00:07:14,160
+communities aren't necessarily
+inclusive or empowering. So we
+
+124
+00:07:14,160 --> 00:07:15,150
+like to encourage that
+
+125
+00:07:15,180 --> 00:07:19,500
+we share a leadership we share a
+vision and we push towards the
+
+126
+00:07:19,500 --> 00:07:23,100
+things that are actually
+meaningful. And I think that's
+
+127
+00:07:23,100 --> 00:07:24,330
+everything for the intro.
+

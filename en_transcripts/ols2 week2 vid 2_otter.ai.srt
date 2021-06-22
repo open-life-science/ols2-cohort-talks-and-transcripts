@@ -1,0 +1,733 @@
+1
+00:00:00,000 --> 00:00:05,400
+Unknown: We'll be talking about
+the release. But first, I will
+
+2
+00:00:05,400 --> 00:00:07,740
+introduce myself. My name is
+Natasha Kozak and a community
+
+3
+00:00:07,740 --> 00:00:11,400
+manager at the Netherlands
+Science Center. My background is
+
+4
+00:00:11,430 --> 00:00:16,980
+life sciences, cell biophysics,
+and bioinformatics. And for a
+
+5
+00:00:16,980 --> 00:00:19,710
+while I've been research
+software engineer. So I've been
+
+6
+00:00:19,710 --> 00:00:23,190
+developing research software,
+and for the world for a while
+
+7
+00:00:23,190 --> 00:00:26,790
+now, I'm the community manager
+in the area of research,
+
+8
+00:00:26,790 --> 00:00:29,790
+software engineering. So I
+usually help research software
+
+9
+00:00:29,790 --> 00:00:33,720
+engineers connect to their
+communities and help them help
+
+10
+00:00:33,720 --> 00:00:37,170
+them with their projects. And I
+guess that's why I'm talking
+
+11
+00:00:37,500 --> 00:00:41,400
+about the readme files, because
+that's part of the things how do
+
+12
+00:00:41,400 --> 00:00:45,750
+you interact? Or make the
+interaction better with the
+
+13
+00:00:45,750 --> 00:00:49,260
+community that is interested in
+your software? Or how do you
+
+14
+00:00:49,380 --> 00:00:53,850
+make or get your community
+interested in your projects. And
+
+15
+00:00:54,510 --> 00:00:58,680
+so from this very short talk,
+we'll learn how to use the
+
+16
+00:00:58,680 --> 00:01:01,080
+readme to communicate
+information of your project
+
+17
+00:01:01,080 --> 00:01:05,220
+effectively, how to write clear
+description of the project,
+
+18
+00:01:06,270 --> 00:01:10,890
+which is very important, and
+it's actually quite difficult.
+
+19
+00:01:11,040 --> 00:01:17,880
+Despite the wording, I think
+it's easy to not realize that
+
+20
+00:01:17,880 --> 00:01:21,090
+we're using jargon, or we're
+making things more complicated
+
+21
+00:01:21,090 --> 00:01:25,650
+because of our background. And
+that we know much more than
+
+22
+00:01:25,680 --> 00:01:30,720
+other people. And I do. And
+we'll show some examples are
+
+23
+00:01:30,720 --> 00:01:35,730
+good examples of README files.
+And I guess your assignment will
+
+24
+00:01:35,730 --> 00:01:39,330
+be to either revise or improve
+or start your README file for
+
+25
+00:01:39,330 --> 00:01:45,420
+your project. And so again, we
+have this matrix of, of how,
+
+26
+00:01:45,450 --> 00:01:50,160
+where things are in the or less
+project. So this is part of
+
+27
+00:01:50,160 --> 00:01:53,400
+build for understanding, it's
+about communicating things about
+
+28
+00:01:53,430 --> 00:01:57,390
+your project. It's about
+facilitation, collaboration is
+
+29
+00:01:57,390 --> 00:02:02,940
+about facilitation, maintenance,
+and helping with the project
+
+30
+00:02:02,940 --> 00:02:08,340
+management. And so the readme is
+like a dorm app for your
+
+31
+00:02:08,340 --> 00:02:11,850
+project. It's the first thing
+that people will see when they
+
+32
+00:02:11,850 --> 00:02:14,820
+go to GitHub, they go to your
+GitHub page of the project.
+
+33
+00:02:15,210 --> 00:02:18,090
+That's what they see the the
+content of the of the readme
+
+34
+00:02:18,090 --> 00:02:22,200
+file. So this is like your
+unique opportunity to get to
+
+35
+00:02:22,230 --> 00:02:24,900
+make a good impression. It's
+like the the first impression
+
+36
+00:02:24,900 --> 00:02:29,490
+when you make when you met meet
+someone first time. So this is
+
+37
+00:02:29,520 --> 00:02:33,510
+when your potential contributors
+or users are going to eat your
+
+38
+00:02:33,510 --> 00:02:37,200
+project. And that's why it's
+very important that they don't
+
+39
+00:02:37,200 --> 00:02:40,530
+get discouraged when they see
+it, but they actually get
+
+40
+00:02:40,590 --> 00:02:46,500
+interested. So how can we make
+it happen? And but first, what
+
+41
+00:02:46,500 --> 00:02:50,430
+actually is the readme. And the
+reason is, it's a text file,
+
+42
+00:02:50,760 --> 00:02:55,920
+usually. And it's, it's found in
+the root directory of your
+
+43
+00:02:55,920 --> 00:03:00,930
+repository. So and all of you
+are working now on GitHub, with
+
+44
+00:03:00,930 --> 00:03:04,350
+your projects. And when you
+create a project, GitHub will
+
+45
+00:03:04,380 --> 00:03:07,770
+automatically create a readme
+file for you based on the
+
+46
+00:03:07,860 --> 00:03:10,560
+information that you provided
+when you created the project. So
+
+47
+00:03:10,560 --> 00:03:13,410
+there will be a header which
+will be a name of your project.
+
+48
+00:03:13,410 --> 00:03:16,470
+And then there will be a short
+description, the description of
+
+49
+00:03:16,470 --> 00:03:20,610
+the put in when you created the
+project. So I guess you already
+
+50
+00:03:20,610 --> 00:03:25,320
+started with a readme file, it's
+usually all in caps. So all in
+
+51
+00:03:25,320 --> 00:03:29,700
+caps README, it could be written
+in dot txt, or readme.mark.md,
+
+52
+00:03:29,730 --> 00:03:33,870
+which stands for markdown and
+markdown files are automatically
+
+53
+00:03:33,870 --> 00:03:38,160
+rendered on GitHub in a nice
+way. And they give you more
+
+54
+00:03:38,220 --> 00:03:42,960
+possibility to, to add some
+design things in your README
+
+55
+00:03:43,680 --> 00:03:49,440
+over the text files, simple text
+files. Yeah, and as I already
+
+56
+00:03:49,440 --> 00:03:52,740
+said, this is the first thing
+that people will see. And so
+
+57
+00:03:52,800 --> 00:03:59,010
+what's in the readme? If there
+should be a description of what
+
+58
+00:03:59,010 --> 00:04:04,020
+is your project about why is it
+important, and who is the
+
+59
+00:04:04,020 --> 00:04:07,050
+audience of the project, and
+wonder mode, what makes your
+
+60
+00:04:07,050 --> 00:04:11,010
+project special or exciting,
+like why people would should get
+
+61
+00:04:11,010 --> 00:04:15,330
+excited about it, and how they
+can get started either to use it
+
+62
+00:04:15,330 --> 00:04:19,620
+or collaborate with you or to
+contribute to the project. And
+
+63
+00:04:19,890 --> 00:04:24,510
+where they can find the key
+resources to like start the
+
+64
+00:04:24,510 --> 00:04:25,740
+journey with your project.
+
+65
+00:04:27,210 --> 00:04:32,280
+And you can use the open canvas
+to start your README file. And I
+
+66
+00:04:32,280 --> 00:04:34,920
+will show some examples and
+examples of the things that you
+
+67
+00:04:34,920 --> 00:04:39,990
+can add to make your reading
+more effective. This is the
+
+68
+00:04:39,990 --> 00:04:46,230
+example from the several models
+up and you see here. There is
+
+69
+00:04:46,230 --> 00:04:50,970
+the in in large letters there is
+the name of the project. And
+
+70
+00:04:50,970 --> 00:04:53,730
+then there is the vision of the
+project we already like it's
+
+71
+00:04:53,730 --> 00:04:56,820
+like the first thing you see is
+the name and the vision of the
+
+72
+00:04:56,820 --> 00:04:59,250
+project. So it gives you the
+already the perspective what
+
+73
+00:04:59,280 --> 00:05:02,970
+what is this about? And then
+there's there's this very
+
+74
+00:05:02,970 --> 00:05:08,730
+welcoming message. And there are
+some links to more resources to
+
+75
+00:05:08,730 --> 00:05:13,590
+find out to learn more about the
+project. And usually also have,
+
+76
+00:05:13,740 --> 00:05:17,370
+so the name, the vision, the the
+welcome message, project
+
+77
+00:05:17,370 --> 00:05:20,100
+description, these are all the
+things that we need in the
+
+78
+00:05:20,100 --> 00:05:23,550
+readme file, you can also add
+information how to contribute
+
+79
+00:05:23,580 --> 00:05:28,800
+how to get involved. In the
+principle we already had, it's a
+
+80
+00:05:28,800 --> 00:05:31,230
+good place to put information
+about the license that is used
+
+81
+00:05:31,260 --> 00:05:34,710
+apart from having a license
+file, and also information about
+
+82
+00:05:34,710 --> 00:05:39,390
+the code of conduct and how to
+report violations, because you
+
+83
+00:05:39,390 --> 00:05:43,110
+want people who join to know
+that there is a code of conduct,
+
+84
+00:05:43,140 --> 00:05:46,530
+and that this is the Safe, safe
+place to interact with others.
+
+85
+00:05:47,370 --> 00:05:52,320
+And what else communicate the
+expectations around the
+
+86
+00:05:52,320 --> 00:05:56,730
+readiness? It is important, not
+every project is ready from the
+
+87
+00:05:56,730 --> 00:06:00,960
+start. But you want to make sure
+that you communicated clearly
+
+88
+00:06:00,960 --> 00:06:05,400
+what is the status of the
+project? And is it very early
+
+89
+00:06:05,400 --> 00:06:10,200
+stage? Or is it ready for use?
+and communicate expectations for
+
+90
+00:06:10,200 --> 00:06:13,290
+managing contributions? Like
+what kind of contributions are
+
+91
+00:06:13,290 --> 00:06:18,990
+looking for? And are you like,
+what is the level of your time
+
+92
+00:06:18,990 --> 00:06:21,720
+commitment? How much can you
+support the contributors to your
+
+93
+00:06:21,720 --> 00:06:24,690
+project, because maybe you don't
+have the resources and you can't
+
+94
+00:06:24,900 --> 00:06:30,270
+spend all you have limited
+resources, or you have like
+
+95
+00:06:30,270 --> 00:06:33,630
+specific ways that you would
+like to collaborate with others.
+
+96
+00:06:34,110 --> 00:06:37,830
+And that also means describe
+communication channels. And
+
+97
+00:06:37,830 --> 00:06:41,580
+here's the example from their
+retro hack GitHub repository. So
+
+98
+00:06:41,580 --> 00:06:45,840
+this is the hackathon, which is
+focused on trying to represent
+
+99
+00:06:45,840 --> 00:06:48,780
+research papers. And you see
+here, first of all, there is
+
+100
+00:06:48,780 --> 00:06:52,950
+this welcoming message. But also
+you see the repo status, which
+
+101
+00:06:52,950 --> 00:06:55,710
+is in this case, it's Wi Fi,
+which is working progress so the
+
+102
+00:06:55,710 --> 00:06:59,310
+emphasises it's it's still
+working progress. But it also
+
+103
+00:06:59,310 --> 00:07:03,060
+shows you how you can join the
+conversations by joining slack
+
+104
+00:07:03,150 --> 00:07:06,930
+by pressing the button join
+slack join us. And you can also
+
+105
+00:07:06,930 --> 00:07:09,630
+keep in touch and see what's
+happening by subscribing to the
+
+106
+00:07:09,630 --> 00:07:15,840
+newsletter. And you might be
+already familiar with, with
+
+107
+00:07:15,840 --> 00:07:21,210
+badges. So GitHub uses those
+badges on README files. These
+
+108
+00:07:21,210 --> 00:07:26,940
+are very nice way with a
+colorful way of communicating
+
+109
+00:07:27,210 --> 00:07:30,780
+various things that are about
+your project, there's a version
+
+110
+00:07:30,870 --> 00:07:36,000
+of your software, if you have
+releases, the license, the
+
+111
+00:07:36,000 --> 00:07:41,070
+quality of the code, the
+documentation, testing, doesn't
+
+112
+00:07:41,070 --> 00:07:46,320
+have a continuous integration,
+things like that. And then yeah,
+
+113
+00:07:46,350 --> 00:07:51,240
+you can sprinkle it with emojis
+to be more colorful. Not
+
+114
+00:07:51,240 --> 00:07:54,840
+everyone likes it. But if you if
+you like it, that's also you can
+
+115
+00:07:54,840 --> 00:08:00,810
+make it I think it makes it a
+bit more friendly. And sometimes
+
+116
+00:08:00,810 --> 00:08:02,430
+you need to communicate
+something which is more
+
+117
+00:08:02,430 --> 00:08:06,060
+complicated. You want to show
+how to do something, you could
+
+118
+00:08:06,060 --> 00:08:12,840
+use animated GIF for that. And
+as I was mentioned, is it's very
+
+119
+00:08:12,870 --> 00:08:19,230
+easy to overcomplicate things in
+the readme file or make it
+
+120
+00:08:19,230 --> 00:08:22,830
+difficult for others to
+understand what the project is
+
+121
+00:08:22,830 --> 00:08:26,280
+about because you have an expert
+dancesport you know already much
+
+122
+00:08:26,280 --> 00:08:33,060
+more about it. And and so, this
+is, so how can we make it
+
+123
+00:08:33,060 --> 00:08:36,510
+easier? How can we make sure
+that it's easier and accessible
+
+124
+00:08:36,690 --> 00:08:41,880
+for others? And you might have
+heard about Randall Munroe is
+
+125
+00:08:41,910 --> 00:08:48,600
+the person who draws XKCD comics
+or write sex they're both writes
+
+126
+00:08:48,600 --> 00:08:53,340
+and rich and Joe's and he wrote
+this book things explainer when
+
+127
+00:08:53,340 --> 00:08:53,820
+he
+
+128
+00:08:55,980 --> 00:09:00,780
+basically like a challenge how
+to describe complicated stuff in
+
+129
+00:09:00,780 --> 00:09:05,760
+the word in simple words, so he
+used 10 100 most common words in
+
+130
+00:09:05,760 --> 00:09:09,150
+English language. And he
+described different things like
+
+131
+00:09:09,150 --> 00:09:15,210
+in this case, it's abhor five,
+because the rocket is not one of
+
+132
+00:09:15,210 --> 00:09:20,340
+the 10 100 most popular words,
+and and then there are tools
+
+133
+00:09:20,340 --> 00:09:23,640
+that actually can help you do
+it. You can use the there's the
+
+134
+00:09:23,640 --> 00:09:28,110
+link here to the upgrade or
+five, you can use the editor
+
+135
+00:09:28,140 --> 00:09:32,250
+that will help you to write your
+README file using only those
+
+136
+00:09:32,250 --> 00:09:37,410
+10 100 most popular words. And
+and then there's the other
+
+137
+00:09:37,410 --> 00:09:41,130
+editor that will help you also
+with with accessible read me
+
+138
+00:09:41,160 --> 00:09:47,280
+it's Hemingway up. Yep, I think
+that's it. I don't know if
+
+139
+00:09:47,280 --> 00:09:51,180
+you're young, you're planning
+the exercise in breakouts with
+
+140
+00:09:51,180 --> 00:09:55,080
+the readme files, so that's
+adequate. Okay. Yeah. So that's,
+
+141
+00:09:55,110 --> 00:10:00,000
+that's it for me. And please put
+in if there are more resources
+
+142
+00:10:00,000 --> 00:10:03,450
+So if you want to look up some
+examples of README files that
+
+143
+00:10:03,450 --> 00:10:09,030
+are here, and put in the
+hackathon, the ideas, your ideas
+
+144
+00:10:09,030 --> 00:10:11,820
+for good README file, if you
+know something, if I didn't
+
+145
+00:10:11,820 --> 00:10:14,940
+mention, it's a lot of things
+that I haven't mentioned. So if
+
+146
+00:10:14,940 --> 00:10:18,210
+you have, if you've seen some
+great reading files, you can put
+
+147
+00:10:18,270 --> 00:10:22,470
+examples, they're an IDS. And
+that's it for me. Thank you.
+

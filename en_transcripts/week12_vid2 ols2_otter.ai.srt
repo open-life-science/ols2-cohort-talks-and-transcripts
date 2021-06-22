@@ -1,0 +1,600 @@
+1
+00:00:00,000 --> 00:00:02,970
+Unknown: I'm an experimental
+psychologist by training. I've
+
+2
+00:00:02,970 --> 00:00:07,050
+been at the University of
+Manchester for 17 years now. And
+
+3
+00:00:07,050 --> 00:00:10,710
+this was actually after I spent
+both three years working in
+
+4
+00:00:10,710 --> 00:00:14,370
+industry and doing a couple of
+postdocs. So I've kind of, you
+
+5
+00:00:14,370 --> 00:00:18,210
+know, shifted around a little
+bit over the last few years. And
+
+6
+00:00:18,210 --> 00:00:22,440
+I think talking about academia
+today, and this, you know, brief
+
+7
+00:00:22,440 --> 00:00:25,170
+overview of my view of academia
+today is pretty quite different
+
+8
+00:00:25,170 --> 00:00:28,890
+from what my view would have
+been just just, you know, three
+
+9
+00:00:28,890 --> 00:00:32,640
+or four years or so ago. I'm
+currently Senior Lecturer in the
+
+10
+00:00:32,670 --> 00:00:36,270
+Division of neuroscience, and
+experimental psychology. And I
+
+11
+00:00:36,270 --> 00:00:39,690
+guess, within the UK, there's
+always been a sort of difference
+
+12
+00:00:39,690 --> 00:00:44,400
+between universities in terms of
+their focus on teaching, and
+
+13
+00:00:44,400 --> 00:00:47,790
+research. And I've noticed over
+the last few years, actually,
+
+14
+00:00:48,060 --> 00:00:51,750
+there's a secular shift in terms
+of University's engagement with
+
+15
+00:00:51,750 --> 00:00:55,680
+open research practices. At one
+end of the spectrum, you've got
+
+16
+00:00:55,680 --> 00:00:59,910
+universities such as EU tract
+and UCL are very few others are
+
+17
+00:00:59,910 --> 00:01:03,510
+very much leading the way in
+terms of open research and
+
+18
+00:01:04,500 --> 00:01:08,220
+adopting open research position
+statements. Or on the other end
+
+19
+00:01:08,220 --> 00:01:11,910
+of the extreme, you've got many
+universities, who, you know,
+
+20
+00:01:11,910 --> 00:01:15,180
+think that open research means
+no more than open access
+
+21
+00:01:15,180 --> 00:01:18,240
+publications. And so it's
+interesting seeing universities
+
+22
+00:01:18,240 --> 00:01:21,990
+at different stages of this
+journey. And that's one of the
+
+23
+00:01:21,990 --> 00:01:25,230
+biggest distinctions that I see
+between universities at the
+
+24
+00:01:25,230 --> 00:01:28,950
+moment. And one thing I should
+say, if you're interested in
+
+25
+00:01:29,490 --> 00:01:32,910
+staying within academia, if you
+end up in a more research
+
+26
+00:01:32,910 --> 00:01:36,780
+focused university that hasn't
+yet engaged with open research,
+
+27
+00:01:36,780 --> 00:01:40,500
+or hasn't yet adopted an open
+research position statement,
+
+28
+00:01:40,680 --> 00:01:43,320
+it's actually a great
+opportunity to shape it. And you
+
+29
+00:01:43,320 --> 00:01:46,530
+can put your open leadership
+skills you've developed on this
+
+30
+00:01:46,530 --> 00:01:49,680
+course and practice, you can
+kind of educate others about
+
+31
+00:01:49,680 --> 00:01:54,270
+what openness means to you, and
+have that broader discourse. And
+
+32
+00:01:54,270 --> 00:01:57,210
+one of the challenges I think,
+is also having conversations
+
+33
+00:01:57,210 --> 00:02:01,110
+with people in very different
+disciplines. And a couple weeks
+
+34
+00:02:01,110 --> 00:02:04,350
+time, I'm giving a talk to
+colleagues that will include
+
+35
+00:02:04,680 --> 00:02:07,980
+people with backgrounds in
+Humanities Research. So again,
+
+36
+00:02:07,980 --> 00:02:11,790
+it's just understanding kind of
+the language that they use, that
+
+37
+00:02:11,790 --> 00:02:14,070
+actually describes the same
+things that you're interested
+
+38
+00:02:14,070 --> 00:02:19,110
+in. But just their differences
+in terminology. If you end up in
+
+39
+00:02:19,110 --> 00:02:21,390
+a more teaching focused
+institution, it's a great
+
+40
+00:02:21,390 --> 00:02:25,950
+opportunity as well, to teach
+open and reproducible skills to
+
+41
+00:02:25,950 --> 00:02:29,910
+students. within the UK. It's
+interesting to many
+
+42
+00:02:30,030 --> 00:02:33,810
+undergraduates are now starting
+University, having actually had
+
+43
+00:02:33,810 --> 00:02:39,270
+practice coding in Python and
+scratch at school, my daughter
+
+44
+00:02:39,570 --> 00:02:44,400
+learned how to code in Scratch
+when she was about six or seven
+
+45
+00:02:44,400 --> 00:02:49,530
+years old. So, you know, these
+foundational skills in students
+
+46
+00:02:49,530 --> 00:02:54,090
+are now coming into university
+with I guess, within the context
+
+47
+00:02:54,090 --> 00:02:58,800
+of my own experiences, the
+different talk that I would have
+
+48
+00:02:58,800 --> 00:03:01,470
+given four or five years ago, I
+would probably reflect that my
+
+49
+00:03:01,470 --> 00:03:06,210
+disillusionment with academia,
+as much as anything else, you
+
+50
+00:03:06,210 --> 00:03:09,150
+know, as I'm sure people can
+attest to, academia was
+
+51
+00:03:09,180 --> 00:03:13,410
+certainly was and still is
+highly competitive. Some
+
+52
+00:03:13,410 --> 00:03:16,860
+universities really focused on
+big grants, and papers on high
+
+53
+00:03:16,860 --> 00:03:20,820
+impact journals, rather than
+doing robust and reproducible
+
+54
+00:03:20,820 --> 00:03:24,690
+science. So out of out of my
+disillusionment that kind of
+
+55
+00:03:24,990 --> 00:03:28,830
+encouraged me to engage with the
+broader open research and
+
+56
+00:03:28,830 --> 00:03:33,120
+reproducibility conversations
+that were going on on twitter at
+
+57
+00:03:33,120 --> 00:03:36,960
+the time, you know, two or three
+years ago, and coincidentally,
+
+58
+00:03:36,990 --> 00:03:42,540
+that Coons that occurred when
+the UK reproducibility network
+
+59
+00:03:42,540 --> 00:03:45,960
+was following that. So the UK
+reproducibility network funded
+
+60
+00:03:45,960 --> 00:03:50,220
+by Marcus modaf, who at Bristol
+University is focused on
+
+61
+00:03:50,220 --> 00:03:55,080
+encouraging universities within
+the UK to do more reproducible
+
+62
+00:03:55,080 --> 00:03:59,760
+research, adopt more open
+practices. And as a function of
+
+63
+00:03:59,760 --> 00:04:04,410
+the UK RM developing along with
+colleagues at Manchester on
+
+64
+00:04:04,410 --> 00:04:07,710
+ritual as one of them actually,
+we find that the open research
+
+65
+00:04:07,860 --> 00:04:12,450
+Working Group, which is a
+grassroots Working Group, within
+
+66
+00:04:12,450 --> 00:04:15,330
+academia at Manchester, the
+cross disciplines, we've got,
+
+67
+00:04:15,720 --> 00:04:18,060
+you know, I'm a psychologist,
+computer scientists, we've got
+
+68
+00:04:18,060 --> 00:04:21,870
+biologists, we've got
+biostatisticians. We've got
+
+69
+00:04:21,870 --> 00:04:24,600
+people in the social sciences as
+well.
+
+70
+00:04:25,890 --> 00:04:27,960
+I think that's one of the really
+important things to do. It's
+
+71
+00:04:27,960 --> 00:04:31,200
+actually to build a community
+that crosses those traditional
+
+72
+00:04:31,470 --> 00:04:35,400
+academic disciplines. And one
+thing that's very useful about
+
+73
+00:04:35,430 --> 00:04:38,820
+the open research writing group
+activity that we're all engaged
+
+74
+00:04:38,820 --> 00:04:42,240
+in is it really raises the
+profile of open research and
+
+75
+00:04:42,240 --> 00:04:46,140
+reproducibility within the
+university. The university knew
+
+76
+00:04:46,140 --> 00:04:49,470
+that they needed to do more to
+promote open and reproducible
+
+77
+00:04:49,470 --> 00:04:53,280
+research practices, but they
+didn't know how to do it. So the
+
+78
+00:04:53,280 --> 00:04:56,640
+VP for research at Manchester
+has been hugely supportive of
+
+79
+00:04:56,640 --> 00:04:58,950
+what we've been doing because in
+a sense, we're doing the hard
+
+80
+00:04:58,950 --> 00:05:02,280
+work. We're actually getting The
+community started, we're getting
+
+81
+00:05:02,280 --> 00:05:06,060
+the conversations going. So I
+set on the university level,
+
+82
+00:05:06,300 --> 00:05:10,350
+open research Strategy Group.
+Because up until even when I
+
+83
+00:05:10,350 --> 00:05:14,190
+joined, the group have mainly
+focused on open access side of
+
+84
+00:05:14,190 --> 00:05:17,550
+things because they weren't
+really sure what open research
+
+85
+00:05:17,550 --> 00:05:21,630
+was apart from that. So think
+finding your community is really
+
+86
+00:05:21,630 --> 00:05:24,840
+important or creating a new
+community, within your academic
+
+87
+00:05:24,840 --> 00:05:29,460
+environment, it's important as
+well. One thing that's critical,
+
+88
+00:05:29,460 --> 00:05:32,430
+no matter what career stage
+you're at, is try to find some
+
+89
+00:05:32,430 --> 00:05:36,300
+senior academics in your home
+institution who will effectively
+
+90
+00:05:36,300 --> 00:05:40,380
+be vocal supporters for you and
+introduce you to people, I had a
+
+91
+00:05:40,380 --> 00:05:44,460
+lot of luck at Manchester.
+Because I discovered the SSI the
+
+92
+00:05:44,460 --> 00:05:46,380
+software Sustainability
+Institute has been
+
+93
+00:05:46,380 --> 00:05:50,820
+transformative for both my
+career and my mental well being,
+
+94
+00:05:50,880 --> 00:05:55,020
+I have to say, so meeting people
+in the context of the SSI has
+
+95
+00:05:55,020 --> 00:05:58,770
+been fantastic. And having you
+know, somebody like Carl,
+
+96
+00:05:58,770 --> 00:06:02,580
+Google, or somebody to go and
+talk to, and ask for advice is
+
+97
+00:06:02,580 --> 00:06:06,030
+just fantastic as well, because
+Carl is just a hugely important
+
+98
+00:06:06,030 --> 00:06:10,920
+than financial and wonderful
+mentor to have. And just as
+
+99
+00:06:10,920 --> 00:06:14,670
+these more senior academics will
+amplify your voice, it's always
+
+100
+00:06:14,670 --> 00:06:18,300
+important to remember that you
+can amplify the voice of others
+
+101
+00:06:18,300 --> 00:06:20,910
+in your community. And you
+should do that, because there
+
+102
+00:06:20,910 --> 00:06:23,940
+are always voices that we can,
+we can amplify because of our
+
+103
+00:06:24,180 --> 00:06:29,370
+positions that we're in. So just
+to finish off early wants you to
+
+104
+00:06:29,610 --> 00:06:32,100
+kind of recognize the fact that
+you've all got a very unique
+
+105
+00:06:32,100 --> 00:06:35,520
+skill set. You've got
+discipline, specific knowledge,
+
+106
+00:06:35,730 --> 00:06:38,340
+as well as knowledge about the
+kind of computational tools
+
+107
+00:06:38,340 --> 00:06:41,370
+needed for openness, and
+reproducibility. And actually,
+
+108
+00:06:41,370 --> 00:06:44,610
+not many people have the skills
+and certainly not many senior
+
+109
+00:06:44,610 --> 00:06:48,120
+academics have the skills
+either. So in academia, showing
+
+110
+00:06:48,120 --> 00:06:50,940
+that you're somebody who can
+actually solve problems in new
+
+111
+00:06:50,940 --> 00:06:54,240
+ways, and are those solutions
+aligned with young girls and
+
+112
+00:06:54,240 --> 00:06:57,990
+five years is really powerful
+ability to demonstrate. And you
+
+113
+00:06:57,990 --> 00:07:00,240
+could end up being you know,
+almost the go to collaborator
+
+114
+00:07:00,240 --> 00:07:03,630
+for other academics, wanting to
+adopt up and reproducible
+
+115
+00:07:03,630 --> 00:07:06,930
+practices. So my final three
+points I'm just gonna, I'm just
+
+116
+00:07:06,930 --> 00:07:11,730
+gonna make this probably applies
+outside academia as well. Be
+
+117
+00:07:11,730 --> 00:07:16,470
+aware of institutional politics,
+but try not to get involved, if
+
+118
+00:07:16,470 --> 00:07:20,070
+you can help it. And the other
+thing I really say it's at the
+
+119
+00:07:20,070 --> 00:07:23,370
+end of the day, it's just the
+job and make sure that you've
+
+120
+00:07:23,370 --> 00:07:26,070
+got life and interests outside
+of your work.
+

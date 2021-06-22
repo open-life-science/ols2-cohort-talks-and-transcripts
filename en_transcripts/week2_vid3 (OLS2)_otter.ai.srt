@@ -1,0 +1,590 @@
+1
+00:00:00,000 --> 00:00:03,660
+Unknown: All right, so we are
+still in the open by design.
+
+2
+00:00:04,170 --> 00:00:08,100
+What we want to do is to
+discover how to use a roadmap to
+
+3
+00:00:08,100 --> 00:00:11,580
+plan our work and find
+contribution for our open
+
+4
+00:00:11,580 --> 00:00:16,110
+project. And we're going to also
+look at few examples, as we saw
+
+5
+00:00:16,110 --> 00:00:21,780
+for open canvas. So open leader
+design, and now we're gonna move
+
+6
+00:00:21,780 --> 00:00:25,620
+to a bit about empowering others
+to collaborate within the open
+
+7
+00:00:25,620 --> 00:00:28,680
+communities. And when we think
+about empowering others, it's a
+
+8
+00:00:28,680 --> 00:00:34,230
+lot about knowledge sharing.
+Keeping with this framework, we
+
+9
+00:00:34,230 --> 00:00:37,290
+are at this part, we're still
+designing for participation and
+
+10
+00:00:37,290 --> 00:00:40,440
+inclusion, we want to think
+about what the project's
+
+11
+00:00:40,440 --> 00:00:44,700
+identity is, and what are ways
+people interact with my project.
+
+12
+00:00:46,620 --> 00:00:50,070
+The intention behind this is to
+create an a welcoming space,
+
+13
+00:00:50,490 --> 00:00:53,760
+make a good impression, so
+others know that they are in the
+
+14
+00:00:53,760 --> 00:00:56,700
+right place, and you know, that
+you're communicating well
+
+15
+00:00:56,820 --> 00:01:00,750
+explain how one can get involved
+in your project, and let them
+
+16
+00:01:00,750 --> 00:01:04,050
+know what's happening next. So
+they can decide if this is the
+
+17
+00:01:04,050 --> 00:01:09,570
+right project for them to be
+involved in. What goes into the
+
+18
+00:01:09,570 --> 00:01:12,420
+roadmap, there are three things
+that you will be thinking about
+
+19
+00:01:12,420 --> 00:01:16,620
+the would go into roadmap. First
+is project summary, and you
+
+20
+00:01:16,770 --> 00:01:22,290
+actually creating this welcoming
+space, telling people how to get
+
+21
+00:01:22,290 --> 00:01:25,860
+involved. And what is the
+timeline timeline may be
+
+22
+00:01:25,860 --> 00:01:29,280
+changing quite a lot, but it is
+still a good idea to tell them
+
+23
+00:01:29,280 --> 00:01:34,590
+what you are at what would you
+be doing next. So this project
+
+24
+00:01:34,590 --> 00:01:39,000
+summary in welcoming space would
+require would be required. So
+
+25
+00:01:39,030 --> 00:01:42,510
+people who are visiting your
+project can get oriented with
+
+26
+00:01:42,570 --> 00:01:45,780
+where your project has
+information, what kind of
+
+27
+00:01:45,780 --> 00:01:50,010
+resources do you have, it is
+important for them to understand
+
+28
+00:01:50,070 --> 00:01:54,630
+where they are often in a new
+project, the biggest blocker is
+
+29
+00:01:54,630 --> 00:01:58,320
+that the newness of that space,
+and you want to help them to
+
+30
+00:01:58,320 --> 00:02:03,270
+feel familiar with the space
+that they are in having the
+
+31
+00:02:03,270 --> 00:02:07,500
+project summary as the first
+page. So if you all are familiar
+
+32
+00:02:07,500 --> 00:02:11,100
+with GitHub, you wouldn't be
+calling it as a readme. But if
+
+33
+00:02:11,100 --> 00:02:14,820
+you are familiar with any other
+product, you would always see a
+
+34
+00:02:14,820 --> 00:02:18,210
+summary page, which gives an
+overview of the project, it
+
+35
+00:02:18,210 --> 00:02:21,840
+helps to give a clear focus on
+when writing the rest of the
+
+36
+00:02:21,870 --> 00:02:26,610
+roadmap. Second is how to get
+involved This is about your
+
+37
+00:02:26,610 --> 00:02:30,510
+contributors. It's possible that
+some contributors are available
+
+38
+00:02:30,510 --> 00:02:33,660
+to jump in right away. But they
+can do that only if they know
+
+39
+00:02:33,660 --> 00:02:37,410
+what is the task in hand. And if
+the skills that they have is
+
+40
+00:02:37,410 --> 00:02:40,890
+actually appropriate for your
+project. Some people might not
+
+41
+00:02:40,890 --> 00:02:44,580
+be available right now, but they
+know about your project and want
+
+42
+00:02:44,580 --> 00:02:47,520
+to come back. And they should
+also know how they can get
+
+43
+00:02:47,520 --> 00:02:50,100
+involved when they're coming
+back. So you need to have a
+
+44
+00:02:50,100 --> 00:02:54,900
+documentation that you wish they
+would be able to check out. This
+
+45
+00:02:54,900 --> 00:02:58,620
+is the start of your roadmap,
+the timeline, it organizes tasks
+
+46
+00:02:58,620 --> 00:03:02,550
+to complete your project around
+milestones. This is, again,
+
+47
+00:03:02,550 --> 00:03:05,700
+we're going to come back to all
+these concepts in the future
+
+48
+00:03:05,700 --> 00:03:09,630
+calls for these are for you to
+think about already. How do you
+
+49
+00:03:09,630 --> 00:03:12,900
+see your project in the next
+weeks or so? How do you see your
+
+50
+00:03:12,900 --> 00:03:17,220
+project at the end of wellness?
+Or how do you see it afterwards.
+
+51
+00:03:19,590 --> 00:03:23,490
+So you need to think about
+milestone, these are significant
+
+52
+00:03:23,490 --> 00:03:26,730
+turning points or events that
+will move the project forward.
+
+53
+00:03:26,760 --> 00:03:30,780
+So this is also allowing you to
+assess what the progress of your
+
+54
+00:03:30,780 --> 00:03:34,140
+project has been. You can have a
+status goal, for example, a
+
+55
+00:03:34,140 --> 00:03:38,700
+feature release or minimum
+viable product. You can also be
+
+56
+00:03:38,700 --> 00:03:42,540
+hosting an event for example,
+giving a talk or attending a
+
+57
+00:03:42,540 --> 00:03:47,100
+hackathon or hosting a community
+call. You can have timeframe as
+
+58
+00:03:47,100 --> 00:03:49,650
+well, you can define your
+milestone in three levels, you
+
+59
+00:03:49,650 --> 00:03:53,130
+can have a short term, you can
+have a medium term and a long
+
+60
+00:03:53,130 --> 00:03:57,270
+term goal. Therefore, anyone
+who's available right now can
+
+61
+00:03:57,270 --> 00:03:59,910
+get involved in short term
+people who want to come back
+
+62
+00:03:59,910 --> 00:04:05,370
+they would be looking at medium
+and long term milestones. Then
+
+63
+00:04:05,400 --> 00:04:09,690
+just telling the milestones is
+not enough, you are the project
+
+64
+00:04:09,690 --> 00:04:13,350
+lead and therefore you need to
+define what kind of direction
+
+65
+00:04:13,350 --> 00:04:16,080
+you want to take. And these
+direction can be clarified by
+
+66
+00:04:16,230 --> 00:04:19,260
+listing out the tasks that these
+milestone will involve.
+
+67
+00:04:20,940 --> 00:04:24,810
+You can and these are iterative
+process again, right this is
+
+68
+00:04:24,840 --> 00:04:27,930
+this is not something that we're
+expecting you to complete right
+
+69
+00:04:27,930 --> 00:04:31,470
+away. But this is the process
+you want to implement in your
+
+70
+00:04:31,470 --> 00:04:36,570
+project. So you would want to
+list tasks by stating what needs
+
+71
+00:04:36,570 --> 00:04:40,260
+to be done, what is the success
+looks like and the success in
+
+72
+00:04:40,260 --> 00:04:46,230
+terms of what would complete the
+project milestone one single
+
+73
+00:04:46,230 --> 00:04:48,630
+milestone, you don't need to
+think about the full project at
+
+74
+00:04:48,630 --> 00:04:52,320
+the moment. You also want to
+share pointers to get started
+
+75
+00:04:52,320 --> 00:04:55,860
+and these pointers could be
+skill building resources, or it
+
+76
+00:04:55,860 --> 00:04:59,100
+could be about contribution
+guideline. It could be anything
+
+77
+00:04:59,100 --> 00:05:03,090
+that can help you contributor to
+feel that they are in a position
+
+78
+00:05:03,120 --> 00:05:07,290
+to get involved. And you also
+need to state why this task is
+
+79
+00:05:07,290 --> 00:05:11,430
+important and reinforce your
+vision. And this is very useful
+
+80
+00:05:11,430 --> 00:05:15,030
+because these contributors are
+there to support your project
+
+81
+00:05:15,030 --> 00:05:18,690
+not work for you. So you don't
+need to look at them as someone
+
+82
+00:05:18,690 --> 00:05:22,170
+who will complete a task, but
+they you want to involve them in
+
+83
+00:05:22,170 --> 00:05:27,930
+building a project and make them
+feel as part of your journey. So
+
+84
+00:05:27,930 --> 00:05:31,320
+how to share the roadmap, we you
+can have a file called
+
+85
+00:05:31,320 --> 00:05:36,060
+roadmap.md, which is markdown,
+but you can start as well, with
+
+86
+00:05:36,090 --> 00:05:40,110
+a simple document, which can be
+the first page of your project,
+
+87
+00:05:40,110 --> 00:05:44,430
+if you are thinking of building
+a website, in the GitHub, it
+
+88
+00:05:44,430 --> 00:05:49,440
+could be a readme file, you
+could also create issues. And
+
+89
+00:05:49,440 --> 00:05:53,340
+these issue can have labels, for
+example, you can look at these
+
+90
+00:05:53,340 --> 00:05:58,320
+two examples. Again, as I said,
+you're going to come back to
+
+91
+00:05:58,320 --> 00:06:01,710
+these slides, you will go
+through it slowly, one by one,
+
+92
+00:06:01,740 --> 00:06:04,770
+and you will be able to look at
+these examples. So I'm going to
+
+93
+00:06:04,800 --> 00:06:13,800
+open one example. Because we
+have some time. So this is a
+
+94
+00:06:13,800 --> 00:06:18,180
+roadmap that Open Knowledge maps
+on open discovery have written,
+
+95
+00:06:18,600 --> 00:06:21,540
+this is their road. This is what
+it looks like they have a
+
+96
+00:06:21,540 --> 00:06:25,290
+motivation of what this project
+is about. They give an
+
+97
+00:06:25,290 --> 00:06:28,710
+introduction to Open Knowledge
+maps, and they list out all the
+
+98
+00:06:28,710 --> 00:06:31,590
+resources that they have
+developed, what kind of services
+
+99
+00:06:31,590 --> 00:06:34,410
+they have, what kind of
+infrastructure they have, what
+
+100
+00:06:34,410 --> 00:06:37,740
+kind of community engagement
+plan they have, what openness
+
+101
+00:06:37,740 --> 00:06:40,830
+means to them, what do they
+think their sustainability of
+
+102
+00:06:40,830 --> 00:06:44,160
+the project would be like? And
+what is the governance, so this
+
+103
+00:06:44,160 --> 00:06:47,970
+is a lot of them might be quite
+high level for a new project.
+
+104
+00:06:47,970 --> 00:06:50,790
+But if your project has existed
+for a while, you might want to
+
+105
+00:06:50,790 --> 00:06:55,170
+also think about a product
+detail. And then you have work
+
+106
+00:06:55,170 --> 00:06:58,950
+plan. And let's look at the work
+plan. And the work plan. They
+
+107
+00:06:58,950 --> 00:07:03,150
+have clearly clearly written
+what what are the main three
+
+108
+00:07:03,150 --> 00:07:07,230
+pillars for them are, they
+explain each of them for each of
+
+109
+00:07:07,230 --> 00:07:11,580
+them, they actually provide what
+kind of infrastructure that they
+
+110
+00:07:11,580 --> 00:07:15,990
+are using. And they have gone
+into as much detail as it is
+
+111
+00:07:15,990 --> 00:07:19,500
+required for them to ensure that
+their contributors know about
+
+112
+00:07:19,500 --> 00:07:23,700
+their project. So that this
+might be quite detailed. Over
+
+113
+00:07:23,730 --> 00:07:28,380
+the next few weeks. We will also
+share some examples with you in
+
+114
+00:07:28,380 --> 00:07:33,030
+the slack or in the notes. So
+please have a look at all those
+
+115
+00:07:33,090 --> 00:07:36,960
+and I'm sure you might have your
+own ideal project in mind. It's
+
+116
+00:07:36,960 --> 00:07:39,480
+a good chance for you to go back
+to those projects and look at
+
+117
+00:07:39,480 --> 00:07:45,180
+how they're doing it and why
+they're doing it that way. Okay,
+
+118
+00:07:45,210 --> 00:07:51,990
+so with that, I'll say that we
+can finish this part
+

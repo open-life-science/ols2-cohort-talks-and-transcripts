@@ -1,0 +1,683 @@
+1
+00:00:00,000 --> 00:00:03,030
+Unknown: All I'm going to do is
+take take a little shift and
+
+2
+00:00:03,030 --> 00:00:06,000
+just highlight some things that
+I have come across that have
+
+3
+00:00:06,000 --> 00:00:09,300
+been essential in my journey. So
+I am supposed to be speaking on
+
+4
+00:00:09,300 --> 00:00:13,980
+social enterpreneurship. But
+that is quite difficult to give
+
+5
+00:00:14,700 --> 00:00:19,290
+specific tips around how you get
+there. But I hope in sharing my
+
+6
+00:00:19,290 --> 00:00:22,260
+journey that you'll be able to
+do something still be relevant
+
+7
+00:00:22,260 --> 00:00:27,990
+for you. So, my journey started
+out in Ghana, I lived there for
+
+8
+00:00:27,990 --> 00:00:31,710
+17 years, and I highlights the
+things I was exposed to because
+
+9
+00:00:31,710 --> 00:00:34,740
+some people may not necessarily
+have this background, I grew up
+
+10
+00:00:34,740 --> 00:00:39,300
+in a lower middle class family
+Christian farming family. And
+
+11
+00:00:39,300 --> 00:00:42,510
+then I had the opportunity of
+spending two years in Costa Rica
+
+12
+00:00:42,510 --> 00:00:46,080
+to a scholarship, which really
+changed my life. And my
+
+13
+00:00:46,080 --> 00:00:50,190
+perspective, at that age, being
+in on a campus with students
+
+14
+00:00:50,190 --> 00:00:55,650
+from over 60 different countries
+is just life altering. After
+
+15
+00:00:55,650 --> 00:00:59,460
+that went to the US where I did
+my undergrad in biology and had
+
+16
+00:00:59,460 --> 00:01:02,400
+my Master's in computer science.
+And at that point, I was very
+
+17
+00:01:02,400 --> 00:01:04,620
+much interested in
+bioinformatics research. And
+
+18
+00:01:04,620 --> 00:01:08,790
+that was the trajectory in which
+I thought I was going, then life
+
+19
+00:01:08,790 --> 00:01:12,840
+happened, though, because of a
+regulation which involved the
+
+20
+00:01:12,840 --> 00:01:16,680
+visa that I had, I could stay in
+the US as long as I wanted. But
+
+21
+00:01:16,980 --> 00:01:19,860
+all the jobs that I got, I
+couldn't take them because now
+
+22
+00:01:19,860 --> 00:01:23,610
+my employment authorization was
+taken away. So it was either
+
+23
+00:01:23,610 --> 00:01:27,060
+stay in the US and just be
+there, or I find something else
+
+24
+00:01:27,060 --> 00:01:30,870
+to do. And an opportunity opened
+up for me to come back home to
+
+25
+00:01:30,870 --> 00:01:36,630
+Ghana. And I took that I came to
+work at a tech incubator where
+
+26
+00:01:36,630 --> 00:01:41,640
+we're helping startups build
+their companies from Nigeria,
+
+27
+00:01:41,640 --> 00:01:46,380
+Ghana, and Kenya. And that was
+an opportunity to also become a
+
+28
+00:01:46,380 --> 00:01:50,940
+local Open Data advocate, a
+leader because a lot of these
+
+29
+00:01:51,150 --> 00:01:53,490
+companies were not necessarily
+thinking about the power of
+
+30
+00:01:53,490 --> 00:01:57,810
+data, and an open data became
+the avenue to really leverage on
+
+31
+00:01:57,810 --> 00:02:02,640
+these skills. I quickly became
+known as the Open Data person.
+
+32
+00:02:04,110 --> 00:02:08,310
+And that opened opportunities
+for me to work on for the next
+
+33
+00:02:08,310 --> 00:02:13,290
+four years after that, with
+first Open Knowledge Foundation,
+
+34
+00:02:13,320 --> 00:02:17,700
+which is based in the UK working
+remotely. supporting other
+
+35
+00:02:17,700 --> 00:02:21,570
+organizations, journalists,
+civil society, organizations,
+
+36
+00:02:21,600 --> 00:02:24,870
+governments really thinking
+about how they can make data
+
+37
+00:02:24,870 --> 00:02:30,030
+sets open for different
+purposes. The experience through
+
+38
+00:02:30,030 --> 00:02:33,240
+that has allowed me to work
+across three different countries
+
+39
+00:02:33,240 --> 00:02:38,760
+and five continents. And the
+power of that, interestingly, is
+
+40
+00:02:38,760 --> 00:02:42,930
+not in the technical skills,
+they are relevant from computer
+
+41
+00:02:42,930 --> 00:02:46,830
+science and biology. But it has
+been the understanding of people
+
+42
+00:02:46,860 --> 00:02:49,680
+the ability to connect with
+people and the problems that
+
+43
+00:02:49,680 --> 00:02:53,040
+you're solving, and how to kind
+of sit with them on whatever
+
+44
+00:02:53,040 --> 00:02:57,240
+journey they have, and then be
+able to work backwards and see
+
+45
+00:02:57,240 --> 00:03:00,990
+what tools and skills you can
+provide to them to enable them
+
+46
+00:03:00,990 --> 00:03:07,860
+to get to their destination.
+Last year, I decided to leave my
+
+47
+00:03:07,860 --> 00:03:15,960
+job to become a farmer. Yes. And
+it is because I think looking at
+
+48
+00:03:15,960 --> 00:03:21,630
+my career trajectory, my job.
+All the jobs I've had, I've
+
+49
+00:03:21,630 --> 00:03:26,160
+always been pointing to one
+thing, how do I help enable
+
+50
+00:03:26,580 --> 00:03:31,320
+people become better at what
+they are good at. And I think
+
+51
+00:03:31,320 --> 00:03:33,870
+from working all across these
+jobs, some of the things that
+
+52
+00:03:33,870 --> 00:03:36,630
+stood out to me was that in
+particularly resource
+
+53
+00:03:36,630 --> 00:03:39,630
+constraints, environments, you
+have very talented people
+
+54
+00:03:39,810 --> 00:03:43,800
+dealing with very difficult
+challenges. And all they need to
+
+55
+00:03:44,220 --> 00:03:48,570
+have is for people to point out
+what specific tools or processes
+
+56
+00:03:48,570 --> 00:03:50,940
+they can have access to, for
+them to get along their journey.
+
+57
+00:03:51,450 --> 00:03:55,380
+And for me, growing up in a
+family farming family, I saw an
+
+58
+00:03:55,380 --> 00:03:59,340
+opportunity to help smallholder
+farmers really leverage on some
+
+59
+00:03:59,340 --> 00:04:02,610
+of the skills that I have to
+really make their lives much
+
+60
+00:04:02,610 --> 00:04:06,210
+better. So that is what I'm
+currently working on. And also
+
+61
+00:04:06,330 --> 00:04:10,680
+10% of my time is helping other
+startups really figure out how
+
+62
+00:04:10,680 --> 00:04:14,160
+they can leverage on data to
+solve problems. So one of the
+
+63
+00:04:14,160 --> 00:04:18,090
+startups is trying to figure out
+how to develop simple tools to
+
+64
+00:04:18,090 --> 00:04:23,190
+make migrants where kids have
+better financial literacy. And
+
+65
+00:04:23,190 --> 00:04:25,770
+another one is building
+educational platforms that can
+
+66
+00:04:25,770 --> 00:04:32,370
+educate African children. Just
+quickly, what is going gold
+
+67
+00:04:32,370 --> 00:04:35,670
+farms working on we are working
+on 14 solving problems, you want
+
+68
+00:04:35,670 --> 00:04:38,040
+to figure out ways to
+consistently produce healthy and
+
+69
+00:04:38,040 --> 00:04:40,680
+affordable food using
+sustainable and accessible
+
+70
+00:04:40,680 --> 00:04:41,730
+practices.
+
+71
+00:04:43,050 --> 00:04:46,980
+Then we want to build capacity
+of other farms and farmers to do
+
+72
+00:04:46,980 --> 00:04:50,160
+so sustainability. So transfer
+these skills on a broader
+
+73
+00:04:50,190 --> 00:04:54,120
+distributor level. And then
+another challenge that a lot of
+
+74
+00:04:54,120 --> 00:04:57,630
+smallholder farmers have is that
+they usually produce either one
+
+75
+00:04:57,630 --> 00:05:01,860
+crop depending on on Whether so
+can we think of ways to
+
+76
+00:05:01,860 --> 00:05:07,230
+diversify that, but also move
+their raw materials to process
+
+77
+00:05:07,230 --> 00:05:11,370
+forms. And then finally, make
+farms spaces of attraction,
+
+78
+00:05:11,370 --> 00:05:15,210
+innovation, recreation and fun.
+They are very technical problems
+
+79
+00:05:15,210 --> 00:05:17,730
+that we need to solve all of us
+this, which will leverage on
+
+80
+00:05:17,730 --> 00:05:21,300
+computation economics,
+anthropology. And I think that's
+
+81
+00:05:21,300 --> 00:05:24,900
+what makes it exciting as a
+social intrapreneur. If I can
+
+82
+00:05:24,900 --> 00:05:30,240
+call myself that now. On a
+typical day, I am reading about
+
+83
+00:05:30,240 --> 00:05:33,570
+and implementing research to
+these problems that are listed
+
+84
+00:05:33,570 --> 00:05:38,310
+out. So reading papers around
+geolocation, and how can you
+
+85
+00:05:38,310 --> 00:05:44,220
+figure out that constraint of
+soil in order to determine what
+
+86
+00:05:44,220 --> 00:05:46,770
+crops can grow around that
+without having access to
+
+87
+00:05:46,770 --> 00:05:49,110
+internet. So these are very
+interesting problems to be
+
+88
+00:05:49,110 --> 00:05:53,250
+really thinking through. I think
+the most powerful thing putting
+
+89
+00:05:53,250 --> 00:05:57,060
+together an enable the team of
+people, you can solve this
+
+90
+00:05:57,060 --> 00:06:01,170
+alone. So how do you sell that
+vision to people and allow that
+
+91
+00:06:01,170 --> 00:06:04,590
+team to have the capacity to
+really solve the problem with
+
+92
+00:06:05,760 --> 00:06:08,880
+and then believing in ourselves,
+it's, you get two points where
+
+93
+00:06:08,910 --> 00:06:11,280
+nobody else believes me by
+believing yourself as a team,
+
+94
+00:06:11,280 --> 00:06:14,190
+they keep on working at it, and
+you get encouraged and you keep
+
+95
+00:06:14,190 --> 00:06:16,740
+on going. Because at the core,
+you believe that you're solving
+
+96
+00:06:16,740 --> 00:06:20,190
+something, at least for solving
+and other people. I'm just gonna
+
+97
+00:06:20,190 --> 00:06:24,030
+quickly go through some what I
+call carrier anecdotes, these
+
+98
+00:06:24,030 --> 00:06:28,290
+are just my own reasons. be
+versatile, that's one thing I've
+
+99
+00:06:28,290 --> 00:06:32,460
+learned. One of the things that
+have been important for me is to
+
+100
+00:06:32,460 --> 00:06:37,320
+initially generalize, be able to
+have some understanding of a
+
+101
+00:06:37,320 --> 00:06:40,800
+broad set of different things.
+So if you're a research person
+
+102
+00:06:40,800 --> 00:06:43,500
+still understand how to
+communicate with people still
+
+103
+00:06:43,500 --> 00:06:46,890
+understand how to facilitate how
+to even do comedy, if you want
+
+104
+00:06:46,920 --> 00:06:51,480
+justice, be versatile, at the
+same time to have one thing that
+
+105
+00:06:51,480 --> 00:06:54,570
+you are known for, for me, is
+the ability to take complex
+
+106
+00:06:54,570 --> 00:06:58,770
+things and simplified for other
+people to have and to be able to
+
+107
+00:06:58,770 --> 00:07:06,510
+use. See people and lets people
+see, and what do I mean by that?
+
+108
+00:07:07,260 --> 00:07:12,000
+It is so easy to get bogged down
+and technical things and
+
+109
+00:07:12,000 --> 00:07:16,470
+research and Miss people or
+focus on the job, those are all
+
+110
+00:07:16,470 --> 00:07:20,340
+relevant. But I think when you
+see people in all the jobs I've
+
+111
+00:07:20,340 --> 00:07:22,590
+done, I've had at least one
+person that I still stay in
+
+112
+00:07:22,590 --> 00:07:26,220
+touch with, who knew me for more
+than what I was able to do as
+
+113
+00:07:26,220 --> 00:07:30,270
+part of my role. So they could
+either come talk to me, bounce
+
+114
+00:07:30,270 --> 00:07:34,260
+ideas off me knew about my
+passions outside of work. And
+
+115
+00:07:34,260 --> 00:07:37,140
+even if you find employers that
+will be clear about that, that
+
+116
+00:07:37,140 --> 00:07:39,900
+is actually much more powerful.
+And also let people see you,
+
+117
+00:07:39,900 --> 00:07:45,360
+especially people who are from
+backgrounds that are not
+
+118
+00:07:45,360 --> 00:07:48,660
+necessarily predominance in
+whatever space that you're
+
+119
+00:07:48,660 --> 00:07:52,860
+working in. Make sure that you
+create opportunities for
+
+120
+00:07:52,860 --> 00:07:57,060
+yourself to be seen speak. And I
+know sometimes it can be
+
+121
+00:07:57,060 --> 00:08:00,420
+difficult, but speak,
+participate in events, try as
+
+122
+00:08:00,420 --> 00:08:03,330
+much as possible for people to
+also know that you are more than
+
+123
+00:08:03,330 --> 00:08:09,570
+just your title. And this is
+kind of like a joke, candy
+
+124
+00:08:09,570 --> 00:08:13,620
+identity, no job, no, do not do
+that do not ground the identity
+
+125
+00:08:13,620 --> 00:08:17,580
+in your job, your job will go
+away, it will disappear. Lets
+
+126
+00:08:17,580 --> 00:08:20,730
+your identity be much more than
+that. So that when your job
+
+127
+00:08:20,730 --> 00:08:23,430
+changes, when you want to do
+something else, you still have
+
+128
+00:08:23,430 --> 00:08:26,010
+that identity that will keep you
+going when things fail, you
+
+129
+00:08:26,010 --> 00:08:28,560
+still have that identity now
+keep going. And that's what's
+
+130
+00:08:28,560 --> 00:08:31,650
+been keeping me going. And I
+think in the same sense, people
+
+131
+00:08:31,650 --> 00:08:34,770
+have seen my passions and when
+even I was leaving my job last
+
+132
+00:08:34,770 --> 00:08:37,650
+year, they were encouraging me.
+My team was saying go do it.
+
+133
+00:08:37,650 --> 00:08:42,030
+We'll support you in that. The
+last thing I'll say brief, most
+
+134
+00:08:42,030 --> 00:08:46,350
+important thing in this life is
+your life. Everything else is
+
+135
+00:08:46,350 --> 00:08:50,910
+replaceable. And with that, I'll
+say stay human or humane and be
+
+136
+00:08:50,910 --> 00:08:54,090
+open to to whatever is possible
+given the stuff that you have.
+
+137
+00:08:54,120 --> 00:08:55,950
+So I'll stop here.
+

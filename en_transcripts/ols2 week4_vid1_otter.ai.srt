@@ -1,0 +1,1035 @@
+1
+00:00:00,000 --> 00:00:02,910
+Unknown: This today is a
+background on open licenses
+
+2
+00:00:02,910 --> 00:00:06,450
+specifically for with
+information that might be
+
+3
+00:00:06,450 --> 00:00:09,720
+helpful for your open life
+science projects. Disclaimer
+
+4
+00:00:09,720 --> 00:00:13,500
+number one, I'm not a lawyer.
+You'll hear that again during
+
+5
+00:00:13,500 --> 00:00:18,510
+the talk. So, I'm going to keep
+going if everything's okay,
+
+6
+00:00:18,810 --> 00:00:24,240
+audio video. Okay, so I'm
+Christine Rogers, I see a few
+
+7
+00:00:24,240 --> 00:00:26,610
+people who know me already on
+this call. So shout out to my
+
+8
+00:00:26,610 --> 00:00:31,650
+Montreal, people like Kendra and
+Sam gays crew. I'm part of that
+
+9
+00:00:31,650 --> 00:00:37,020
+open science ecosystem based in
+Montreal. Personally, I'm at
+
+10
+00:00:37,020 --> 00:00:40,110
+McGill University at the
+Montreal Neurological Institute,
+
+11
+00:00:40,110 --> 00:00:45,030
+which is the largest academic
+Open Science Research Institute
+
+12
+00:00:45,060 --> 00:00:51,210
+going. And, specifically, I'm a
+Data Manager, research research
+
+13
+00:00:51,210 --> 00:00:55,590
+project officer on a number of
+open science projects and
+
+14
+00:00:55,590 --> 00:01:00,540
+initiatives. Because I work for
+the Loris databasing group, we
+
+15
+00:01:00,540 --> 00:01:05,520
+make an open source platform,
+that's basically data tool
+
+16
+00:01:05,550 --> 00:01:09,870
+databasing, data sharing for
+neuroscience research. And it's
+
+17
+00:01:09,870 --> 00:01:13,590
+also used in a lot of open
+science initiatives. So that's
+
+18
+00:01:13,590 --> 00:01:18,450
+my context. I have also been a
+part of the open lifesigns
+
+19
+00:01:18,450 --> 00:01:22,050
+cohort that started in January,
+very happy to be
+
+20
+00:01:22,050 --> 00:01:22,530
+back.
+
+21
+00:01:22,979 --> 00:01:28,529
+And I focused in that phase on
+adoptability metrics and support
+
+22
+00:01:28,529 --> 00:01:32,579
+for open source research
+software. I'm also involved in
+
+23
+00:01:32,579 --> 00:01:35,699
+some of Google's open source
+programs in terms of mentoring
+
+24
+00:01:35,699 --> 00:01:39,659
+for Google Summer of Code, and
+Google season docs this fall,
+
+25
+00:01:39,689 --> 00:01:42,359
+and if anyone wants to connect
+with me, you can reach me on
+
+26
+00:01:42,359 --> 00:01:46,499
+Twitter, my handle is at the
+bottom of the slide, and I will
+
+27
+00:01:46,499 --> 00:01:50,579
+take it from there. So today
+we're talking about licensing.
+
+28
+00:01:50,609 --> 00:01:55,439
+The purpose of the presentation,
+for the context of the open Life
+
+29
+00:01:55,439 --> 00:02:01,079
+Science program is that licenses
+are going to allow you and
+
+30
+00:02:01,079 --> 00:02:04,439
+anyone to use, remix and share
+what you're doing on your
+
+31
+00:02:04,439 --> 00:02:08,579
+project. The outcome of today
+and under the exercises you're
+
+32
+00:02:08,579 --> 00:02:11,459
+going through today is that your
+project is going to be openly
+
+33
+00:02:11,459 --> 00:02:15,569
+licensed for use for re mixing
+and for sharing. Today we're
+
+34
+00:02:15,569 --> 00:02:18,779
+doing a short presentation,
+followed by discussion with some
+
+35
+00:02:18,779 --> 00:02:22,379
+practical steps to help you work
+towards adding an open license
+
+36
+00:02:22,379 --> 00:02:26,759
+to your work. The steps are
+really simple, the thinking
+
+37
+00:02:26,759 --> 00:02:30,149
+behind it is worth taking a
+moment to go over. So that's the
+
+38
+00:02:30,149 --> 00:02:34,919
+plan for today. Am I still good
+on the audio visual front? Okay,
+
+39
+00:02:34,919 --> 00:02:39,479
+great. I just have to figure out
+what to click.
+
+40
+00:02:41,940 --> 00:02:44,160
+About. There you go. Yeah. Okay.
+
+41
+00:02:44,550 --> 00:02:48,150
+So how does this fit into the
+open leadership framework? Let's
+
+42
+00:02:48,150 --> 00:02:53,130
+start there. The context of the
+open leadership framework is
+
+43
+00:02:53,130 --> 00:02:56,940
+that open leaders will design
+and build projects that empower
+
+44
+00:02:56,940 --> 00:03:01,410
+others to collaborate within
+inclusive communities. And with
+
+45
+00:03:01,410 --> 00:03:04,320
+licensing, when you think of
+licensing you don't really think
+
+46
+00:03:04,320 --> 00:03:08,730
+of empowering, you think of
+restricting, I think is terms of
+
+47
+00:03:08,730 --> 00:03:11,520
+everyone's experience with user
+licenses would be a really
+
+48
+00:03:11,520 --> 00:03:15,510
+familiar example. For example, a
+lot of people know MATLAB in
+
+49
+00:03:15,510 --> 00:03:18,510
+terms of the context that it's
+available free for use for
+
+50
+00:03:18,510 --> 00:03:21,840
+academia. But if you're trying
+to use the context of company,
+
+51
+00:03:21,870 --> 00:03:26,970
+or privately, suddenly, the
+license costs a lot of money. So
+
+52
+00:03:26,970 --> 00:03:30,900
+user licenses are one
+perspective, we're going to flip
+
+53
+00:03:30,900 --> 00:03:34,440
+the script today, because from
+your point of view, as a creator
+
+54
+00:03:34,680 --> 00:03:38,010
+of a project, you're looking to
+add a license to your project,
+
+55
+00:03:38,340 --> 00:03:41,730
+that's going to tell others,
+what they're free to do with
+
+56
+00:03:41,730 --> 00:03:46,770
+your work, how they can share
+it, reproduce it, adapt it, and
+
+57
+00:03:46,770 --> 00:03:49,170
+what their rights and
+obligations are in that respect.
+
+58
+00:03:49,590 --> 00:03:54,000
+And that also gives you as the
+creator the protection of having
+
+59
+00:03:54,660 --> 00:03:58,800
+those clearly in place, having
+that framework, but at the same
+
+60
+00:03:58,800 --> 00:04:02,580
+time, being able to share what
+you've produced really openly
+
+61
+00:04:02,610 --> 00:04:07,710
+once that is in place. So that's
+how licenses can be a powerful
+
+62
+00:04:07,710 --> 00:04:13,410
+tool for sharing. And that's how
+they also fit into the grid for
+
+63
+00:04:13,410 --> 00:04:17,220
+the open leadership framework.
+under the category of build for
+
+64
+00:04:17,220 --> 00:04:20,880
+sharing, licensing is something
+that really enables you to share
+
+65
+00:04:20,880 --> 00:04:26,580
+your work as you build out your
+project. There's a few key
+
+66
+00:04:26,580 --> 00:04:33,090
+aspects to licensing. I'm not an
+expert. I'm not a lawyer, I'm
+
+67
+00:04:33,090 --> 00:04:37,050
+not your lawyer. But we're going
+to continue on this basis with a
+
+68
+00:04:37,050 --> 00:04:42,660
+bit of background for truly open
+licenses, I think they all have
+
+69
+00:04:42,660 --> 00:04:47,160
+the common elements about use
+modification and sharing of
+
+70
+00:04:47,160 --> 00:04:50,700
+software. So use is just who can
+use the work and for what
+
+71
+00:04:50,700 --> 00:04:54,510
+purpose, whether it's commercial
+or research, only modification
+
+72
+00:04:54,540 --> 00:04:58,020
+can that work be modified, who
+can modify it for what purpose
+
+73
+00:04:58,380 --> 00:05:04,020
+and then sharing so if If you
+make a modification to work, can
+
+74
+00:05:04,020 --> 00:05:08,370
+you share what you produce with
+other people? And how? And can
+
+75
+00:05:08,370 --> 00:05:12,120
+you redistribute the original
+also, there's a definition of
+
+76
+00:05:12,120 --> 00:05:16,170
+open source down below. And I'm
+going to avoid the debate on
+
+77
+00:05:16,170 --> 00:05:19,110
+what open source isn't is not
+today and skip ahead to what you
+
+78
+00:05:19,110 --> 00:05:24,030
+guys need to know about
+licensing. So under those three
+
+79
+00:05:24,060 --> 00:05:28,170
+common elements of truly open
+licensing, the first part where
+
+80
+00:05:28,170 --> 00:05:31,320
+it's important to pay attention
+to how this impacts you is
+
+81
+00:05:31,320 --> 00:05:35,550
+attribution. So most open
+licenses will require others to
+
+82
+00:05:35,550 --> 00:05:39,630
+credit the authors or copyright
+holders of the work. That's a
+
+83
+00:05:39,630 --> 00:05:42,420
+pretty common thing that a lot
+of people are used to examples
+
+84
+00:05:42,420 --> 00:05:45,750
+are with the Creative Commons bi
+license, and almost all the
+
+85
+00:05:45,750 --> 00:05:51,000
+other licenses, you need to
+attribute the work when you use
+
+86
+00:05:51,000 --> 00:05:55,020
+it. To the original authors.
+This is really common, if he's a
+
+87
+00:05:55,020 --> 00:05:58,320
+photo, for example, you're going
+to want to credit the source.
+
+88
+00:05:59,820 --> 00:06:03,990
+There's also a type of license
+that says there's no attribution
+
+89
+00:06:03,990 --> 00:06:07,140
+to be made. And that's a cc zero
+license, which says it's
+
+90
+00:06:07,140 --> 00:06:09,960
+something is effectively in the
+public domain and is actually no
+
+91
+00:06:09,960 --> 00:06:14,580
+copyright holder. So moving on
+from attribution. The next
+
+92
+00:06:14,580 --> 00:06:18,180
+important thing is distribution.
+So when you when you're
+
+93
+00:06:18,600 --> 00:06:22,200
+distributing something to the
+original or something that you
+
+94
+00:06:22,200 --> 00:06:26,370
+modified, what are your rights
+and obligations. So the two main
+
+95
+00:06:26,370 --> 00:06:32,790
+types of open licensing aspects
+are non copyleft and copyleft.
+
+96
+00:06:33,300 --> 00:06:36,990
+Starting with copyleft, this is
+a permissive non reciprocal
+
+97
+00:06:36,990 --> 00:06:41,670
+license. The important point is
+that it's an open license that
+
+98
+00:06:41,670 --> 00:06:44,340
+does not require derivative
+works to be shared using the
+
+99
+00:06:44,340 --> 00:06:50,700
+same license. Examples of the CC
+by license MIT BSD and AAPL 2.0
+
+100
+00:06:50,700 --> 00:06:54,810
+license. On the other hand, you
+have copyleft licenses, these
+
+101
+00:06:54,810 --> 00:06:57,990
+are reciprocal or viral
+licenses. And the idea is that
+
+102
+00:06:57,990 --> 00:07:01,200
+an open license, it's an open
+license that requires all
+
+103
+00:07:01,200 --> 00:07:03,780
+derivative works to be shared
+with the same license. So
+
+104
+00:07:03,780 --> 00:07:08,730
+anything downstream of the
+original code or product needs
+
+105
+00:07:08,730 --> 00:07:12,900
+to be shared using the same
+license. So in that sense,
+
+106
+00:07:12,900 --> 00:07:16,890
+you're restricted to the same
+conditions. So examples of that
+
+107
+00:07:16,890 --> 00:07:21,150
+are the CC by sa license GPL,
+v3, which is really common in
+
+108
+00:07:21,150 --> 00:07:26,100
+the Unix community, and or Linux
+Mint, I should say. Then MPL
+
+109
+00:07:26,100 --> 00:07:32,010
+2.0. So just a bit more context
+about these two aspects, what
+
+110
+00:07:32,010 --> 00:07:34,440
+does it mean to require
+derivative works to be shared
+
+111
+00:07:34,440 --> 00:07:35,940
+with the same license or not?
+
+112
+00:07:37,080 --> 00:07:42,300
+In my context, we make an open
+source tool. And we allow people
+
+113
+00:07:42,300 --> 00:07:46,260
+afford to freely make their own
+adaptations, and then use that
+
+114
+00:07:46,260 --> 00:07:49,770
+for their own purposes. But the
+moment that they want to share
+
+115
+00:07:49,770 --> 00:07:53,610
+what they've done features,
+they've added maybe domain
+
+116
+00:07:53,610 --> 00:07:59,940
+specific tools or content in
+there, the moment they want to
+
+117
+00:07:59,940 --> 00:08:02,340
+share that with, let's say,
+their colleagues in the same
+
+118
+00:08:02,340 --> 00:08:07,380
+field or someone else. Our
+license is a GPL three, which is
+
+119
+00:08:07,380 --> 00:08:10,500
+a copyleft license, and it's
+governs them. So we've
+
+120
+00:08:10,500 --> 00:08:15,000
+effectively required them to
+contribute their modifications
+
+121
+00:08:15,300 --> 00:08:20,880
+back to the community. And the
+idea with that is that anything
+
+122
+00:08:20,940 --> 00:08:27,060
+open needs to stay open. So the
+good side is that the community
+
+123
+00:08:27,090 --> 00:08:33,630
+benefits, that's the idea. The
+downside to think about with
+
+124
+00:08:33,630 --> 00:08:39,120
+copyleft is that it means that
+it might actually be a
+
+125
+00:08:39,120 --> 00:08:42,330
+deterrent, in some cases, from
+letting people use it for
+
+126
+00:08:42,330 --> 00:08:45,750
+private use, because it can't go
+very far without them being
+
+127
+00:08:45,780 --> 00:08:51,180
+obligated to openly share it. On
+the other hand, copyleft also
+
+128
+00:08:51,180 --> 00:08:57,480
+has the benefit that money for
+that statement, non copyleft,
+
+129
+00:08:57,510 --> 00:09:02,100
+some licenses actually enable
+people to take your work and
+
+130
+00:09:02,100 --> 00:09:05,310
+make their own version. And
+technically they could actually
+
+131
+00:09:05,310 --> 00:09:08,610
+sell that version that they
+modify. So that's something to
+
+132
+00:09:08,610 --> 00:09:12,840
+keep in mind with non copyleft
+licenses. There's many things to
+
+133
+00:09:12,840 --> 00:09:15,930
+look at on both sides. But
+that's kind of the context in
+
+134
+00:09:15,930 --> 00:09:23,220
+which these things are
+important. So moving on, for in
+
+135
+00:09:23,220 --> 00:09:26,250
+terms of patent clauses, most
+modern open source software
+
+136
+00:09:26,250 --> 00:09:29,610
+licensing Do you contain a
+clause that is designed to
+
+137
+00:09:29,610 --> 00:09:32,970
+prevent people from using patent
+law to take away open source
+
+138
+00:09:32,970 --> 00:09:36,720
+rights? That's called patent
+snapback and that means that the
+
+139
+00:09:36,720 --> 00:09:40,470
+patent rights sort of by default
+revert to the person who
+
+140
+00:09:40,470 --> 00:09:45,300
+released it. Examples of this
+are NPL, AAPL and GPL v3.
+
+141
+00:09:45,720 --> 00:09:49,530
+Sometimes this isn't applicable
+and older licenses like MIT and
+
+142
+00:09:49,530 --> 00:09:52,590
+BSD, but I don't think that
+would be a concern for people
+
+143
+00:09:52,590 --> 00:09:54,570
+applying licenses here
+necessarily.
+
+144
+00:09:55,860 --> 00:09:56,550
+In terms of how to
+
+145
+00:09:56,550 --> 00:10:00,000
+apply a license, it's actually
+very simple. If you're used
+
+146
+00:10:00,000 --> 00:10:03,660
+GitHub, which I think this
+program still is as a default
+
+147
+00:10:03,660 --> 00:10:09,420
+tool, then you GitHub has a
+really easy, it's not even a
+
+148
+00:10:09,420 --> 00:10:12,390
+workflow. It's like a prompt.
+When you start a new project to
+
+149
+00:10:12,390 --> 00:10:15,780
+add a license, you as you can
+see from the slide, it's a drop
+
+150
+00:10:15,780 --> 00:10:19,500
+down that you just select what
+kind of license you want to use.
+
+151
+00:10:19,740 --> 00:10:23,460
+So couldn't be easier to
+actually apply it on your file.
+
+152
+00:10:24,120 --> 00:10:27,510
+And it's typically in a file
+called license or licensed dot
+
+153
+00:10:27,510 --> 00:10:31,800
+txt, often all caps you stick it
+in the main directory of your
+
+154
+00:10:31,800 --> 00:10:36,270
+project, and GitHub will do that
+for you. So also, in terms of
+
+155
+00:10:36,270 --> 00:10:39,990
+how to apply a license, beyond
+just putting the file in your
+
+156
+00:10:40,020 --> 00:10:43,260
+repository, there are specific
+instructions, you need to follow
+
+157
+00:10:43,260 --> 00:10:47,220
+on certain licenses, details are
+available at those links, choose
+
+158
+00:10:47,220 --> 00:10:50,340
+license, comm
+creativecommons.org, those links
+
+159
+00:10:50,340 --> 00:10:52,920
+will appear again on the last
+slide. So we'll come back to
+
+160
+00:10:52,920 --> 00:10:56,460
+these resources. Also good to
+know is that you can have
+
+161
+00:10:56,460 --> 00:11:00,240
+multiple licenses within a
+single project, some for content
+
+162
+00:11:00,270 --> 00:11:03,390
+and some for the actual software
+part, just as long as you're
+
+163
+00:11:03,390 --> 00:11:06,300
+clear about which goes on which
+and that's typically done in the
+
+164
+00:11:06,300 --> 00:11:13,560
+readme of your project. Details
+on copyleft, non copyleft,
+
+165
+00:11:13,740 --> 00:11:21,990
+patent snapback older licenses
+with no patent clause, versus
+
+166
+00:11:22,050 --> 00:11:25,320
+attribution and no attribution
+is broken down here in this
+
+167
+00:11:25,320 --> 00:11:30,600
+table. There's, you know, choose
+a license comm is a great
+
+168
+00:11:30,600 --> 00:11:34,350
+resource for choosing licenses
+for software for content, people
+
+169
+00:11:34,350 --> 00:11:38,280
+might gravitate towards the
+Creative Commons licensing. And
+
+170
+00:11:38,280 --> 00:11:41,760
+then I'm gonna put a caveat at
+the bottom for data, some people
+
+171
+00:11:41,760 --> 00:11:46,170
+use csio. I am not going to go
+into that today. But I just want
+
+172
+00:11:46,170 --> 00:11:50,370
+to say like from my research
+context, data licensing and data
+
+173
+00:11:50,370 --> 00:11:54,480
+sharing is very special and very
+tricky. There are a lot of
+
+174
+00:11:54,480 --> 00:11:58,980
+considerations. For some of you
+who might be doing a survey for
+
+175
+00:11:58,980 --> 00:12:02,460
+your project, you might include
+one, including presentation
+
+176
+00:12:02,520 --> 00:12:05,850
+consideration, such as
+participant consent, and the
+
+177
+00:12:05,850 --> 00:12:09,450
+ethics of data sharing, if
+you're collecting data, whether
+
+178
+00:12:09,480 --> 00:12:12,780
+the data your data can use for
+commercial purposes, or you just
+
+179
+00:12:12,780 --> 00:12:16,680
+want to use for research
+purposes and what that means. So
+
+180
+00:12:17,250 --> 00:12:20,670
+licensing data as a whole other
+fields, and I'll leave that sort
+
+181
+00:12:20,670 --> 00:12:24,360
+of out of the scope of today's
+talk. If anyone's doing a
+
+182
+00:12:24,360 --> 00:12:28,410
+hardware project just for fun on
+the side hardware licenses are
+
+183
+00:12:28,410 --> 00:12:31,500
+also another specialty. So those
+things are slightly out of the
+
+184
+00:12:31,500 --> 00:12:36,420
+scope today, but still
+definitely relevant domains. So
+
+185
+00:12:36,660 --> 00:12:41,460
+coming to the end, here are some
+links for further reading. There
+
+186
+00:12:41,460 --> 00:12:46,290
+are some books, there are some
+guides. And one thing I would
+
+187
+00:12:46,290 --> 00:12:49,560
+advise is that when you're
+choosing a license, don't go to
+
+188
+00:12:49,560 --> 00:12:52,920
+the Wikipedia page. Yo, this was
+the meme I was gonna make for
+
+189
+00:12:52,920 --> 00:12:58,170
+you don't go to Wikipedia page,
+do actually look around in your
+
+190
+00:12:58,170 --> 00:13:01,590
+community that you're going to
+release your project into that's
+
+191
+00:13:01,590 --> 00:13:05,070
+the code or the the program or
+framework or the data that
+
+192
+00:13:05,070 --> 00:13:08,640
+you're that you're working
+towards, what's the community
+
+193
+00:13:09,300 --> 00:13:13,050
+that's going to use it and
+modify and adapt it and take it
+
+194
+00:13:13,050 --> 00:13:17,820
+further and what licensing is
+the norm or common practice
+
+195
+00:13:17,820 --> 00:13:21,960
+there. Because you are also
+signaling kind of like the
+
+196
+00:13:21,960 --> 00:13:25,110
+values of your project through
+the licensing that you use. And
+
+197
+00:13:25,110 --> 00:13:28,380
+you want to use as much as
+possible a license that people
+
+198
+00:13:28,380 --> 00:13:32,160
+are comfortable with, and
+conforms with the standards that
+
+199
+00:13:33,420 --> 00:13:36,660
+that that are prevalent in the
+community that you're actually
+
+200
+00:13:36,660 --> 00:13:41,220
+trying to attract and build
+with. Okay, and then at the
+
+201
+00:13:41,220 --> 00:13:45,210
+bottom to the license. Zilla,
+open leadership actually has its
+
+202
+00:13:45,210 --> 00:13:48,930
+own page on licensing. So there
+have been a summary there. And
+
+203
+00:13:48,930 --> 00:13:52,050
+then those links again for
+chooser, license calm, which is
+
+204
+00:13:52,050 --> 00:13:54,630
+kind of like choose your own
+adventure, explore licensing,
+
+205
+00:13:55,320 --> 00:14:00,870
+and creative commons.org are
+great resources for getting
+
+206
+00:14:00,870 --> 00:14:05,670
+started on this licensing
+adventure. So I hope that helps
+
+207
+00:14:05,670 --> 00:14:11,370
+with the covering some content
+for licensing. And that's my
+
+208
+00:14:11,370 --> 00:14:11,970
+talk today.
+

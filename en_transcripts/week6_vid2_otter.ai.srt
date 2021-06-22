@@ -1,0 +1,1017 @@
+1
+00:00:00,000 --> 00:00:02,910
+Unknown: Hi, everyone, it's
+really great to be here. Can you
+
+2
+00:00:03,090 --> 00:00:11,010
+see my slides at all? Or not?
+Oh, yes. Can we saw them? Sorry.
+
+3
+00:00:11,640 --> 00:00:16,050
+Oh, sorry, I okay, because I
+couldn't see the green frame
+
+4
+00:00:16,050 --> 00:00:21,330
+round my window. I thought it
+didn't work. It's perfect. Okay,
+
+5
+00:00:21,330 --> 00:00:25,320
+so my name is Alex Savage. I'm
+the training team lead at the
+
+6
+00:00:25,320 --> 00:00:28,650
+software Sustainability
+Institute. I'm based in
+
+7
+00:00:28,650 --> 00:00:31,380
+Manchester and I'll be talking
+to you a bit about open
+
+8
+00:00:31,380 --> 00:00:35,970
+scientific code in research. big
+thank you to yo for borrowing
+
+9
+00:00:35,970 --> 00:00:40,710
+her slides. From her workshop on
+how to contribute to open
+
+10
+00:00:40,710 --> 00:00:44,310
+source. There is a link to that
+workshop as well, if you want
+
+11
+00:00:44,310 --> 00:00:49,140
+to, to visit, she made my life
+much easier. So I just modified
+
+12
+00:00:49,140 --> 00:00:55,560
+her slides slightly. Big, big
+thank you. Okay, so what what do
+
+13
+00:00:55,560 --> 00:01:00,120
+we mean, when we say, open
+source? The first thing to know
+
+14
+00:01:00,120 --> 00:01:05,280
+is that open source is not the
+same thing as being free. So you
+
+15
+00:01:05,280 --> 00:01:09,030
+have some free software, which
+is an open source, so it's free
+
+16
+00:01:09,030 --> 00:01:13,320
+to download, you can you can,
+it's free to use, however, you
+
+17
+00:01:13,320 --> 00:01:18,330
+download some binary executable,
+you don't get to see modify or
+
+18
+00:01:19,260 --> 00:01:23,580
+reuse the source code itself. On
+the other side, you also have
+
+19
+00:01:23,580 --> 00:01:27,690
+some open source software, which
+isn't free, it doesn't happen
+
+20
+00:01:27,690 --> 00:01:31,230
+very often. But for example, you
+have, you have software which is
+
+21
+00:01:31,230 --> 00:01:34,740
+made openly available, however,
+sometimes you have to pay for
+
+22
+00:01:34,740 --> 00:01:39,990
+support from the team, or some
+extra help. So even though the
+
+23
+00:01:39,990 --> 00:01:43,470
+source the source, the software
+is open, you still have to pay
+
+24
+00:01:43,500 --> 00:01:47,700
+for some services. However,
+there is intersection between
+
+25
+00:01:47,700 --> 00:01:50,820
+the two where you have open
+source software that is also
+
+26
+00:01:51,150 --> 00:01:55,620
+free to use. So what is open
+source sexually, it's simply
+
+27
+00:01:55,680 --> 00:01:59,790
+sharing the design of your work
+so that it can be reused and
+
+28
+00:01:59,790 --> 00:02:03,810
+remixed by others. And it can be
+anything, we are talking about
+
+29
+00:02:03,810 --> 00:02:07,770
+open source code, however, it
+can be a methodology that you
+
+30
+00:02:07,770 --> 00:02:12,510
+can make publicly open. It can
+be an algorithm, it can be data,
+
+31
+00:02:12,540 --> 00:02:16,350
+it can be your photos, it can be
+anything that you're working on.
+
+32
+00:02:18,750 --> 00:02:24,060
+Why should you use and promote
+open source source, so just a
+
+33
+00:02:24,060 --> 00:02:31,590
+bit on motivation. So the first
+thing is that once you make your
+
+34
+00:02:31,620 --> 00:02:35,340
+work or your your, your code
+public, it can be peer reviewed
+
+35
+00:02:35,340 --> 00:02:40,800
+and reused by others. So you get
+second pair of eyes, you get
+
+36
+00:02:40,800 --> 00:02:44,010
+more users for your code, there
+is something that we call hacker
+
+37
+00:02:44,010 --> 00:02:48,180
+ethic where, which means nobody
+should have to reinvent the
+
+38
+00:02:48,180 --> 00:02:51,690
+wheel, if you benefited from
+someone else's work, you should
+
+39
+00:02:51,690 --> 00:02:54,900
+give back to the community by
+making your work open as well.
+
+40
+00:02:55,230 --> 00:02:59,400
+This is also making the science
+advance faster, because people
+
+41
+00:02:59,400 --> 00:03:03,780
+don't have to redo the same
+thing all over again. It also
+
+42
+00:03:03,780 --> 00:03:07,470
+helps you get more from the
+community so you can collaborate
+
+43
+00:03:07,530 --> 00:03:11,970
+with more people who might be
+distributed around the world. So
+
+44
+00:03:11,970 --> 00:03:16,230
+you share your work others share
+back and it's it's a bit of a
+
+45
+00:03:16,230 --> 00:03:21,090
+back and forth interaction. And
+ultimately, you want your work
+
+46
+00:03:21,090 --> 00:03:25,320
+and research to to be
+reproducible by others, and
+
+47
+00:03:25,350 --> 00:03:28,500
+making your code and your data
+and your methodology open is the
+
+48
+00:03:28,500 --> 00:03:36,750
+first step on that on that road.
+Again, a bit of motivation, why?
+
+49
+00:03:37,890 --> 00:03:42,270
+Why would you want to make your
+code and your work open, there
+
+50
+00:03:42,270 --> 00:03:46,380
+is a risk associated with with
+with a closed code. So perhaps
+
+51
+00:03:46,380 --> 00:03:51,060
+the picture on the top is, if
+you've probably seen it recently
+
+52
+00:03:51,060 --> 00:03:55,740
+because it puts a spotlight on
+on research code during the
+
+53
+00:03:55,740 --> 00:03:59,670
+pandemic. So the picture on top
+is an mathematical
+
+54
+00:03:59,670 --> 00:04:03,660
+epidemiologist Neil Ferguson
+from the Imperial College. So
+
+55
+00:04:03,930 --> 00:04:08,430
+they his team, they had a
+software on modeling pandemics,
+
+56
+00:04:08,460 --> 00:04:12,240
+and the software was in
+existence over the at least past
+
+57
+00:04:12,270 --> 00:04:16,620
+10 years. However, it was only
+made widely publicly available
+
+58
+00:04:16,650 --> 00:04:20,820
+in March this year. And of
+course, because of the wider
+
+59
+00:04:20,820 --> 00:04:24,990
+scrutiny it was spot on under
+under a magnifying glass loads
+
+60
+00:04:24,990 --> 00:04:29,400
+of loads of bugs were uncovered.
+So perhaps and then the team
+
+61
+00:04:29,400 --> 00:04:33,210
+perhaps unfairly received loads
+of criticism. Now, this is not
+
+62
+00:04:33,240 --> 00:04:37,590
+the criticism of anyone's codes.
+What the point I'm trying to
+
+63
+00:04:37,710 --> 00:04:41,820
+make is if you release your code
+early, and if you release often,
+
+64
+00:04:44,070 --> 00:04:48,540
+you will get more eyes on it. It
+will ultimately improve your
+
+65
+00:04:48,540 --> 00:04:52,740
+code. We all make mistakes and
+there is no code that is that is
+
+66
+00:04:52,740 --> 00:04:56,640
+bug free. However you shouldn't
+be be afraid to make those
+
+67
+00:04:56,640 --> 00:05:02,040
+mistakes. Get it out there. have
+others have a look, it can all
+
+68
+00:05:02,040 --> 00:05:08,820
+make, it can only make your code
+better. It also aids
+
+69
+00:05:08,820 --> 00:05:13,290
+transparency in research, being
+open and publishing your code
+
+70
+00:05:13,290 --> 00:05:18,150
+and software and data. So, these
+top top guidelines for
+
+71
+00:05:18,150 --> 00:05:20,850
+transparency in research have
+been created by a journal
+
+72
+00:05:20,850 --> 00:05:24,660
+founders in societies. And they
+cover not only transparency of
+
+73
+00:05:24,720 --> 00:05:28,260
+your analytical methods and
+software, but anything related
+
+74
+00:05:28,260 --> 00:05:31,110
+to your research data, your
+research plan, all the research
+
+75
+00:05:31,110 --> 00:05:34,680
+materials, everything, if
+possible, always try and make
+
+76
+00:05:34,680 --> 00:05:37,770
+this open. There are obviously
+some constraints, sometimes you
+
+77
+00:05:37,770 --> 00:05:42,210
+can't publish your data due to
+some privacy restrictions. So
+
+78
+00:05:42,210 --> 00:05:45,540
+over 5000 journals have now
+signed up to these top
+
+79
+00:05:45,540 --> 00:05:50,100
+guidelines, it's getting loads
+of traction, you should follow
+
+80
+00:05:50,100 --> 00:05:56,880
+it too. So how do you know if
+software is open source, even if
+
+81
+00:05:56,970 --> 00:06:00,480
+source code is available and
+viewable online, so it's
+
+82
+00:06:00,480 --> 00:06:03,210
+published somewhere where you
+can find it, and you can
+
+83
+00:06:03,210 --> 00:06:07,860
+technically access it. If there
+is not a license associated with
+
+84
+00:06:07,860 --> 00:06:12,360
+the code, it's not illegal to
+reuse it. So that's one of the
+
+85
+00:06:12,360 --> 00:06:14,700
+most important things if you
+wants to make your software
+
+86
+00:06:14,700 --> 00:06:18,660
+public, you need to have a
+license file, stating that it is
+
+87
+00:06:18,660 --> 00:06:22,920
+in fact legal to for your code
+to be reused or remixed in any
+
+88
+00:06:22,920 --> 00:06:28,740
+way. There are different license
+types. It's potentially a
+
+89
+00:06:28,740 --> 00:06:31,680
+minefield as well. However,
+there is loads of help as well
+
+90
+00:06:31,680 --> 00:06:35,670
+on how to choose your your
+license. And once you do it, you
+
+91
+00:06:35,670 --> 00:06:40,350
+need to specify that under a
+filed file, which is named
+
+92
+00:06:40,410 --> 00:06:44,190
+either a license or license that
+txt or licensed attendee, which
+
+93
+00:06:44,190 --> 00:06:47,850
+is stored in the root of your
+open source repository. So make
+
+94
+00:06:47,850 --> 00:06:51,180
+sure that you always add a
+license to your software, or to
+
+95
+00:06:51,180 --> 00:06:54,600
+data or to photos, or whatever
+it is that you publish, if you
+
+96
+00:06:54,600 --> 00:06:59,730
+want everyone else to use it. So
+again, once again, no one can
+
+97
+00:06:59,730 --> 00:07:02,880
+reuse it unless you give it an
+explicit right to do so even in
+
+98
+00:07:02,880 --> 00:07:05,430
+your in your mind, you're
+thinking, Oh, I want to make
+
+99
+00:07:05,430 --> 00:07:09,570
+this open. until until you have
+a license file. It's not legal
+
+100
+00:07:09,570 --> 00:07:15,870
+to to do so. Okay, so how do you
+go about publishing and sharing
+
+101
+00:07:15,870 --> 00:07:19,470
+your open open code. So the
+first steps for publishing and
+
+102
+00:07:19,470 --> 00:07:22,230
+sharing is version control.
+Version Control is a system that
+
+103
+00:07:22,230 --> 00:07:25,860
+record changes to a set of files
+within a folder over time. So
+
+104
+00:07:25,860 --> 00:07:31,770
+you can recall a specific
+version later. It gives you, it
+
+105
+00:07:31,770 --> 00:07:34,920
+gives you basically two things,
+it enables you to publish and
+
+106
+00:07:34,920 --> 00:07:40,530
+share your code. And also, it
+gives you a way to backup and
+
+107
+00:07:40,530 --> 00:07:44,100
+version control your code. So
+you can always go back to a
+
+108
+00:07:44,100 --> 00:07:47,370
+version, jump back in time, it's
+like a time machine for your
+
+109
+00:07:47,370 --> 00:07:52,170
+code. It's a must have these
+days, it gives you as I said, it
+
+110
+00:07:52,170 --> 00:07:54,960
+gives you both aspects,
+publishing and sharing plus
+
+111
+00:07:55,080 --> 00:08:00,540
+backup and version control. It's
+just universally useful. So why
+
+112
+00:08:00,540 --> 00:08:04,950
+is it? What's it useful for it,
+it's going to help you to never
+
+113
+00:08:04,950 --> 00:08:08,190
+mess up again. Well, okay, it's
+not, it's not like you're not
+
+114
+00:08:08,190 --> 00:08:11,520
+going to mess up. But it's going
+to make it easier for you to
+
+115
+00:08:11,520 --> 00:08:16,050
+recover from your mistakes. If
+you overwrite your code or
+
+116
+00:08:16,050 --> 00:08:19,740
+overwrite your data or make some
+make some blunder. It makes
+
+117
+00:08:19,740 --> 00:08:24,330
+collaborating or code so much
+easier. As I said, it also
+
+118
+00:08:24,330 --> 00:08:28,320
+offers off site backups. Because
+you're putting your code in a
+
+119
+00:08:28,320 --> 00:08:33,570
+centrally central server, you
+don't actually have to backup
+
+120
+00:08:33,570 --> 00:08:39,030
+your code on your external drive
+anymore. So for example, if you
+
+121
+00:08:39,030 --> 00:08:42,360
+work on on your desktop at work,
+and then you have your laptop at
+
+122
+00:08:42,360 --> 00:08:46,140
+home, you don't actually have to
+keep copying and backing up your
+
+123
+00:08:46,140 --> 00:08:49,650
+code and transferring between
+these two, you can just easily
+
+124
+00:08:50,610 --> 00:08:53,670
+sync with the central
+repository, and you're good to
+
+125
+00:08:53,670 --> 00:08:57,840
+go. So what's not to like? Well,
+apart from learning how to
+
+126
+00:08:57,840 --> 00:09:01,260
+actually use a version control
+system, which we recommend that
+
+127
+00:09:01,260 --> 00:09:01,710
+you do.
+
+128
+00:09:03,180 --> 00:09:07,650
+So Git and GitHub. Git is one
+type of a version control
+
+129
+00:09:07,650 --> 00:09:11,610
+software. It's not the only one,
+but it's one that is widely used
+
+130
+00:09:12,060 --> 00:09:17,340
+today. And then there is GitHub
+as well, which is a central site
+
+131
+00:09:17,370 --> 00:09:20,760
+that costs Git repositories and
+also gives you a nice user
+
+132
+00:09:20,760 --> 00:09:25,500
+interface to get which is under
+the hood. There are other tools
+
+133
+00:09:25,500 --> 00:09:29,220
+similar to Git and GitHub, you
+have Mercurial and Bitbucket
+
+134
+00:09:29,490 --> 00:09:32,640
+some peculiar, Mercurial is a
+version control system similar
+
+135
+00:09:32,640 --> 00:09:35,790
+to Git Bitbucket is similar to
+GitHub, a user interface where
+
+136
+00:09:35,790 --> 00:09:40,110
+you can host your repositories.
+There is also Git and GitHub. So
+
+137
+00:09:40,110 --> 00:09:42,660
+GitHub is just a slightly
+different user interface to
+
+138
+00:09:42,690 --> 00:09:47,430
+GitHub and uses Git underneath.
+So at the bottom of the slide,
+
+139
+00:09:47,430 --> 00:09:49,950
+you have a link to yours get
+workshop if you want to have a
+
+140
+00:09:49,950 --> 00:09:54,060
+look at that. And also we
+strongly recommending learning,
+
+141
+00:09:54,480 --> 00:09:59,040
+some version control system. It
+doesn't have to be get, but as I
+
+142
+00:09:59,040 --> 00:10:01,830
+said, Everyone seems to be Using
+it's these days Git and GitHub,
+
+143
+00:10:01,860 --> 00:10:05,700
+so it's worthwhile, and it will
+pay off tenfold. There are loads
+
+144
+00:10:05,700 --> 00:10:09,780
+of other workshops to help you
+learn git, or to get you started
+
+145
+00:10:09,780 --> 00:10:15,960
+with GitHub. So just a couple of
+tips to make your work open
+
+146
+00:10:15,960 --> 00:10:16,470
+source.
+
+147
+00:10:23,310 --> 00:10:26,820
+So the first thing I've already
+mentioned at the license file,
+
+148
+00:10:27,150 --> 00:10:30,690
+because unless you have it, it's
+not legal to read your code. Try
+
+149
+00:10:30,690 --> 00:10:33,870
+to avoid jargon, or at least try
+to explain it in plain English.
+
+150
+00:10:33,870 --> 00:10:37,410
+If possible. Edit the readme
+file. It's also one of the must
+
+151
+00:10:37,410 --> 00:10:40,650
+haves to explain what your what
+your project is about how it is
+
+152
+00:10:40,650 --> 00:10:45,240
+used, how you can contribute how
+to report bugs, consider having
+
+153
+00:10:45,240 --> 00:10:49,110
+a roadmap of allowing others to
+see what what's in your plans,
+
+154
+00:10:49,260 --> 00:10:53,100
+and how you can set your
+priorities. Contributing guide
+
+155
+00:10:53,100 --> 00:10:55,980
+if you can, if you want others
+to contribute, make a file
+
+156
+00:10:55,980 --> 00:10:59,880
+called contributing.md in the
+root of your repository, and set
+
+157
+00:10:59,880 --> 00:11:02,850
+up some guidelines for
+contributors, so that they know
+
+158
+00:11:02,850 --> 00:11:08,730
+what they should do if they want
+to help you out. issues. GitHub
+
+159
+00:11:08,730 --> 00:11:13,050
+has issue tracker. And again,
+other other version control
+
+160
+00:11:13,050 --> 00:11:17,310
+software also have issue
+trackers to record your bugs and
+
+161
+00:11:17,310 --> 00:11:22,290
+supply new features. You can
+also use tags to make it easy to
+
+162
+00:11:22,290 --> 00:11:26,610
+sort your issues, have a code of
+conduct all good projects have
+
+163
+00:11:26,610 --> 00:11:30,300
+it too, to make sure that
+everyone who contributes and is
+
+164
+00:11:30,300 --> 00:11:33,930
+part of the project is treated
+well and state how violations
+
+165
+00:11:33,930 --> 00:11:38,310
+will be handled. GitHub has a
+code of conduct wizard to make
+
+166
+00:11:38,310 --> 00:11:42,840
+it easy for you to add one
+citation. If you use other
+
+167
+00:11:42,870 --> 00:11:46,200
+people's software, you should
+cite it as well as you cite
+
+168
+00:11:46,230 --> 00:11:49,020
+their research papers. And
+similarly, if you write your
+
+169
+00:11:49,020 --> 00:11:52,410
+code, you want some credit for
+it. So in order to help people
+
+170
+00:11:52,410 --> 00:11:55,890
+cite your software, add a
+citation.md file to your
+
+171
+00:11:56,220 --> 00:12:00,300
+repository with the suggested
+citation how to cite you
+
+172
+00:12:01,110 --> 00:12:06,000
+consider getting a DUI for your
+data or code. It's now possible
+
+173
+00:12:06,030 --> 00:12:10,980
+either using zenodo or figshare.
+And you get to dry and then you
+
+174
+00:12:10,980 --> 00:12:14,850
+also can use that to site, your
+site, your project, your
+
+175
+00:12:14,850 --> 00:12:19,650
+software project. Also add how
+to contact yourself and the
+
+176
+00:12:19,650 --> 00:12:23,370
+team. And make sure you have
+your contact details there as
+
+177
+00:12:23,370 --> 00:12:26,970
+well. So this is just a quick
+cookbook for you to get you
+
+178
+00:12:26,970 --> 00:12:30,840
+started with with open source
+development. The ultimate goal
+
+179
+00:12:30,870 --> 00:12:34,410
+is full reproducibility. So you
+have many open computational
+
+180
+00:12:34,410 --> 00:12:38,460
+tools around such as our in
+Python Jupyter Notebook, our
+
+181
+00:12:38,460 --> 00:12:42,150
+lab, our studio, we have Git and
+GitHub that I mentioned already.
+
+182
+00:12:43,350 --> 00:12:47,010
+And then you have binder. So
+consider container container
+
+183
+00:12:47,010 --> 00:12:49,950
+rising your software code and
+data to allow for full
+
+184
+00:12:49,950 --> 00:12:54,870
+reproducibility and binder sort
+of integrates with all these
+
+185
+00:12:54,870 --> 00:13:01,590
+other software tools mentioned
+above on this slide. So just
+
+186
+00:13:01,590 --> 00:13:04,980
+some pointers for further
+reading and some activities for
+
+187
+00:13:04,980 --> 00:13:07,770
+you to get you started or to
+follow up and where to go from
+
+188
+00:13:07,770 --> 00:13:13,500
+here, how to contribute to open
+source software. So think about
+
+189
+00:13:13,500 --> 00:13:17,340
+maybe some software that you
+like or that you use, consider
+
+190
+00:13:17,340 --> 00:13:20,430
+maybe checking some issues and
+see if you can contribute to
+
+191
+00:13:20,430 --> 00:13:24,390
+that software. There is also the
+first timers only toggle on
+
+192
+00:13:24,390 --> 00:13:28,830
+GitHub to help you select some
+projects which are suitable to
+
+193
+00:13:28,830 --> 00:13:32,820
+contribute for someone who is
+just just new to open source
+
+194
+00:13:32,820 --> 00:13:36,510
+development. Or there is a
+website website called first
+
+195
+00:13:36,510 --> 00:13:40,710
+timers.com. You can try and
+participate in Oktoberfest or
+
+196
+00:13:40,710 --> 00:13:45,900
+Mozilla global sprint or 24 pull
+requests projects. They all
+
+197
+00:13:45,900 --> 00:13:49,080
+happen throughout the year.
+There is just the Journal of
+
+198
+00:13:49,080 --> 00:13:52,530
+open science software, you can
+either submit your software or
+
+199
+00:13:52,530 --> 00:13:58,740
+Twitter you can apply to be a
+reviewer. And finally, a great
+
+200
+00:13:58,740 --> 00:14:02,370
+training resource on that
+hearing where your handbook for
+
+201
+00:14:02,370 --> 00:14:06,240
+reproducible data science it
+covers loads of off the aspects
+
+202
+00:14:06,240 --> 00:14:09,900
+of open source but it also gives
+you the bigger picture on how to
+
+203
+00:14:09,900 --> 00:14:15,390
+make your research reproducible.
+And with that, just want to
+
+204
+00:14:15,450 --> 00:14:16,440
+thank you, everyone.
+

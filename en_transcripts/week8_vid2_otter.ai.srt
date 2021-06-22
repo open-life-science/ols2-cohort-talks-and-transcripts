@@ -1,0 +1,679 @@
+1
+00:00:00,000 --> 00:00:04,410
+Unknown: My name is Omar from
+Africa Chi cheery currently
+
+2
+00:00:04,410 --> 00:00:09,780
+based in Malaysia. We are here
+to share with you what a
+
+3
+00:00:09,780 --> 00:00:13,800
+preference is. And in the
+context of open science.
+
+4
+00:00:14,730 --> 00:00:18,120
+Particularly my talks will be
+focused more on the African
+
+5
+00:00:18,120 --> 00:00:23,130
+preference Saba, which is Africa
+archive, which is the largest, I
+
+6
+00:00:23,130 --> 00:00:29,310
+mean, the only African preprint
+server that we have. I am
+
+7
+00:00:29,760 --> 00:00:35,340
+actually a PhD student recently
+got my PhD two months ago. I'm
+
+8
+00:00:35,340 --> 00:00:41,940
+affiliated with Africa archive,
+being a moderator there and also
+
+9
+00:00:42,360 --> 00:00:45,180
+a bioinformatics coordinator
+with science, communication,
+
+10
+00:00:45,180 --> 00:00:48,060
+health Nigeria, and also a
+secretary to the Nigerian
+
+11
+00:00:48,060 --> 00:00:52,920
+bioinformatics and genomics
+network. Before start, Ellie
+
+12
+00:00:52,920 --> 00:00:57,000
+just wants to share with you
+what the preprint servers are.
+
+13
+00:00:57,570 --> 00:01:01,230
+The preprint servers actually
+called a cluster of computers,
+
+14
+00:01:01,260 --> 00:01:05,970
+where scientists or researchers
+are like, from different
+
+15
+00:01:05,970 --> 00:01:09,990
+disciplines up and share them,
+their manuscripts publicly
+
+16
+00:01:09,990 --> 00:01:14,610
+available to community for
+accessibility. So we do have
+
+17
+00:01:14,910 --> 00:01:20,070
+different kinds of Saba based on
+the disciplines that you fall
+
+18
+00:01:20,070 --> 00:01:24,570
+in. The most popular ones, if
+you are in biology is the bio
+
+19
+00:01:24,600 --> 00:01:28,590
+archive, which is based in
+united states currently been
+
+20
+00:01:28,590 --> 00:01:33,240
+hosted by called herbosophy
+laboratories. And you can choose
+
+21
+00:01:33,270 --> 00:01:38,400
+from where you wanted to deposit
+based on your fields beat
+
+22
+00:01:38,400 --> 00:01:42,570
+pharmacology, pathology,
+biology, microbiology can choose
+
+23
+00:01:42,570 --> 00:01:48,450
+the, the preference you may want
+to submit your manuscript to. We
+
+24
+00:01:48,780 --> 00:01:54,150
+also have are the kind of
+archive that holds natural
+
+25
+00:01:54,150 --> 00:01:57,210
+sciences like Mathematics and
+Computer Sciences, as well as
+
+26
+00:01:57,210 --> 00:02:02,820
+quantitative biology. And in the
+context of medical lines, we do
+
+27
+00:02:02,820 --> 00:02:08,010
+have med archive, which covers
+those in public health and
+
+28
+00:02:08,070 --> 00:02:13,260
+Occupational and Environmental
+Health, they usually the
+
+29
+00:02:13,260 --> 00:02:18,420
+positive manuscripts, they're
+wild. For chemistry, they have
+
+30
+00:02:18,870 --> 00:02:23,280
+Chem archive, where you can also
+deposit your research work.
+
+31
+00:02:24,330 --> 00:02:29,790
+While in the African continent,
+we have Africa archive, where we
+
+32
+00:02:29,850 --> 00:02:34,260
+accept all kinds of
+publications, as well as data
+
+33
+00:02:34,260 --> 00:02:37,920
+sets in the print language
+within the continent of Africa.
+
+34
+00:02:37,950 --> 00:02:42,120
+This is so because some
+scientists in Africa
+
+35
+00:02:42,120 --> 00:02:45,690
+particularly they do a kind of
+reset with their languages,
+
+36
+00:02:45,690 --> 00:02:48,660
+local languages, and those
+languages timeout actually
+
+37
+00:02:48,660 --> 00:02:53,190
+visible. Because some of the
+journals that are published are
+
+38
+00:02:53,190 --> 00:02:56,250
+within the African countries are
+mostly not online, they're
+
+39
+00:02:56,250 --> 00:03:00,930
+actually being printed in
+hardcopy forms. So we thought of
+
+40
+00:03:00,990 --> 00:03:04,320
+coming up with this applicant
+archive so that we can help
+
+41
+00:03:05,370 --> 00:03:09,420
+scientists to discover more
+African scientists for maybe
+
+42
+00:03:09,420 --> 00:03:16,710
+collaborations and visibility.
+So what is a preference? A
+
+43
+00:03:16,710 --> 00:03:20,040
+preference is actually a
+complete scientific documents
+
+44
+00:03:20,040 --> 00:03:25,200
+that you may have a manuscript
+so to call back, you can
+
+45
+00:03:25,200 --> 00:03:30,990
+publicly share our make it
+available online freely, to be
+
+46
+00:03:30,990 --> 00:03:33,960
+accessible by communities of
+scientists and researchers
+
+47
+00:03:33,960 --> 00:03:40,410
+alike. And it has some actually
+associated benefits. Like you
+
+48
+00:03:40,410 --> 00:03:44,730
+can get cited before your
+manuscript is being rebuilt in
+
+49
+00:03:44,730 --> 00:03:48,180
+the journals. You can also be
+exposed people will get to know
+
+50
+00:03:48,180 --> 00:03:53,430
+you, especially nowadays that
+most of the free prints they
+
+51
+00:03:53,430 --> 00:03:57,030
+usually have a Twitter handles
+are each day, share your
+
+52
+00:03:57,030 --> 00:04:00,420
+research online, and people will
+get to know you get to know your
+
+53
+00:04:00,420 --> 00:04:04,290
+publications. And you get you
+will likely get funders and
+
+54
+00:04:05,550 --> 00:04:09,000
+I'm saying to be collaborators
+as well. And you can also get
+
+55
+00:04:09,000 --> 00:04:15,180
+some feedback. If you get I
+mean, if the paper maybe need
+
+56
+00:04:15,180 --> 00:04:19,560
+some corrections or other
+things, scientists will give you
+
+57
+00:04:19,560 --> 00:04:23,100
+some kind of feedback before
+your manuscript is clearly built
+
+58
+00:04:23,100 --> 00:04:27,090
+by the journals that you
+submitted to. And also it will
+
+59
+00:04:27,420 --> 00:04:32,280
+be freely available and having a
+DUI. You can get cited as I
+
+60
+00:04:32,280 --> 00:04:38,670
+mentioned. So we have free
+prints repositories. They
+
+61
+00:04:38,670 --> 00:04:42,990
+actually basically divided into
+two which preference and pause
+
+62
+00:04:42,990 --> 00:04:47,250
+prints. The name implies,
+preference is just the complete
+
+63
+00:04:47,280 --> 00:04:50,190
+manuscripts that you have an
+publicly shared before peer
+
+64
+00:04:50,190 --> 00:04:53,220
+reviewed journals, while the
+first print is actually research
+
+65
+00:04:53,250 --> 00:04:56,910
+articles, that is peer reviewed
+and accepted for publications.
+
+66
+00:04:57,390 --> 00:05:01,680
+So I want to make an emphasis
+that A preprint publishing a
+
+67
+00:05:01,680 --> 00:05:06,930
+preprint is not actually
+published in journals. So, you
+
+68
+00:05:06,930 --> 00:05:14,370
+may want to like, check out
+romea to check whether it is
+
+69
+00:05:14,370 --> 00:05:17,280
+allowed by the journal that you
+wanted to submit your manuscript
+
+70
+00:05:17,280 --> 00:05:21,330
+is allow you to submit the
+buttons of your paper in a
+
+71
+00:05:21,360 --> 00:05:26,100
+preference others are not. So it
+is actually advisable for
+
+72
+00:05:26,130 --> 00:05:30,840
+scientists to make use of this
+opportunity is freely online,
+
+73
+00:05:30,870 --> 00:05:37,080
+you can check it and make use of
+the website ShareFile romea. And
+
+74
+00:05:37,080 --> 00:05:40,950
+then you can keep the titles of
+the journals, maybe you can key
+
+75
+00:05:40,950 --> 00:05:44,100
+in maybe something like genome
+biology or nature dependence on
+
+76
+00:05:44,100 --> 00:05:47,910
+the targeted journals that you
+wanted to submit your manuscript
+
+77
+00:05:47,910 --> 00:05:51,840
+to. And it will give you the
+details policy with which the
+
+78
+00:05:51,840 --> 00:05:55,620
+journals is having so that it
+will guide to whether to submit
+
+79
+00:05:55,620 --> 00:06:02,880
+your manuscript to preference or
+not. So there is a number of
+
+80
+00:06:03,240 --> 00:06:08,160
+those African as preprint
+servers around which are
+
+81
+00:06:08,190 --> 00:06:12,690
+basically being a partnership
+with Open Science Center for
+
+82
+00:06:12,690 --> 00:06:16,710
+Open Science, there are options
+infrastructure, and there are
+
+83
+00:06:16,710 --> 00:06:21,450
+regionals and some discipline
+specific reference repositories.
+
+84
+00:06:21,750 --> 00:06:26,340
+So, you can see Africa archive
+is also known among the open
+
+85
+00:06:26,340 --> 00:06:31,740
+source infrastructure around. So
+in Africa archive, what we do is
+
+86
+00:06:32,460 --> 00:06:37,860
+basically, we we provide a
+platform for submissions of
+
+87
+00:06:37,860 --> 00:06:41,760
+multiple publications format. As
+I mentioned before, you can
+
+88
+00:06:41,790 --> 00:06:45,780
+submit your data set your
+presentations, your proposals
+
+89
+00:06:45,810 --> 00:06:49,020
+and your manuscript as well or
+even review papers, because we
+
+90
+00:06:49,050 --> 00:06:52,440
+got to realize that some
+preference like by archives,
+
+91
+00:06:52,470 --> 00:06:58,140
+they don't accept to submitted
+proposals or to submit a review
+
+92
+00:06:58,140 --> 00:07:01,590
+paper or something like that.
+But in African archive, we allow
+
+93
+00:07:02,670 --> 00:07:05,730
+scientists around the African
+countries to submit these kinds
+
+94
+00:07:05,730 --> 00:07:09,600
+of words, because we want to
+make it we want to make them
+
+95
+00:07:09,750 --> 00:07:13,740
+globally known, and people get
+to know them. So they can have
+
+96
+00:07:13,740 --> 00:07:18,510
+collaboration sometimes. So we
+also promote the use of local
+
+97
+00:07:18,510 --> 00:07:23,880
+languages. In that, we do have a
+kind of if we have researched
+
+98
+00:07:23,910 --> 00:07:27,240
+with the local language, we make
+sure that we translated the
+
+99
+00:07:27,240 --> 00:07:32,580
+abstract into English passion so
+that global scientific community
+
+100
+00:07:32,580 --> 00:07:37,440
+can have access. We also build
+collaborations and increase our
+
+101
+00:07:37,440 --> 00:07:41,460
+current research visibility
+across the gloves, also built
+
+102
+00:07:41,460 --> 00:07:44,670
+and customized to fulfill the
+needs of African researchers.
+
+103
+00:07:46,170 --> 00:07:51,570
+And we do all these in
+partnership with zenodo, Open
+
+104
+00:07:51,570 --> 00:07:55,350
+Science Framework and open
+publications as well as signs up
+
+105
+00:07:55,350 --> 00:08:00,810
+and to us. It's like our own
+repository before we built our
+
+106
+00:08:00,810 --> 00:08:05,490
+own personal repository. We do
+that to increase visibility and
+
+107
+00:08:05,490 --> 00:08:09,870
+discoverability, across the
+Africa and globally. Together,
+
+108
+00:08:10,080 --> 00:08:17,220
+we also have a partnership with
+fraserview. Science upon PCI for
+
+109
+00:08:17,220 --> 00:08:20,430
+reviewing the contents of the
+manuscript that is submitted to
+
+110
+00:08:20,430 --> 00:08:25,230
+Africa archive, recently have
+also partnership with fiction
+
+111
+00:08:25,260 --> 00:08:27,150
+and public knowledge,
+
+112
+00:08:28,410 --> 00:08:32,940
+public knowledge project. So
+what we accept in African
+
+113
+00:08:32,970 --> 00:08:36,090
+archives, we allow African
+scientists based in the
+
+114
+00:08:36,090 --> 00:08:40,380
+continent of Africa to submit
+their work to also allow African
+
+115
+00:08:40,380 --> 00:08:43,620
+scientists who are currently
+please like me at other
+
+116
+00:08:43,620 --> 00:08:47,400
+institutions outside Africa to
+also submit their manuscripts
+
+117
+00:08:47,430 --> 00:08:50,880
+there. And also non African
+scientists who report on
+
+118
+00:08:50,880 --> 00:08:55,200
+research conducted in African
+territory, preferably with
+
+119
+00:08:55,200 --> 00:08:59,580
+African co authors listed and
+then we also allow non African
+
+120
+00:08:59,580 --> 00:09:03,360
+scientists who report on
+research related to African
+
+121
+00:09:03,360 --> 00:09:10,620
+Affairs. So here Our team of
+curators and community
+
+122
+00:09:10,620 --> 00:09:16,350
+developers, as well as site
+maintainence, who are actually
+
+123
+00:09:16,440 --> 00:09:22,260
+maintaining the upper concave
+side. And we also have a lot of
+
+124
+00:09:22,260 --> 00:09:27,720
+advisory boards, we have Joyce
+who is the the executive
+
+125
+00:09:27,720 --> 00:09:33,870
+director of of training for
+psycho science in sorry,
+
+126
+00:09:33,870 --> 00:09:37,110
+Training Center in
+communications in Africa. So we
+
+127
+00:09:37,110 --> 00:09:40,950
+have Mahmud who is the Executive
+Director for science
+
+128
+00:09:40,950 --> 00:09:45,780
+communication, hope and African
+literacy science network, whom
+
+129
+00:09:45,780 --> 00:09:51,900
+we put in place as both advisory
+boards to the to be given some
+
+130
+00:09:51,900 --> 00:09:55,950
+kind of advice and directions on
+African archive. So we have
+
+131
+00:09:56,160 --> 00:10:00,000
+multiple channels of
+communications, in which you can
+
+132
+00:10:00,390 --> 00:10:04,380
+Get in touch with us. If you are
+from Africa or if you are
+
+133
+00:10:04,440 --> 00:10:08,340
+African researchers, you can get
+in touch with us through our
+
+134
+00:10:08,340 --> 00:10:12,600
+Twitter handles, email address.
+We also have a slack channels
+
+135
+00:10:12,690 --> 00:10:16,710
+where you can get in touch with
+us by institutions. Are we also
+
+136
+00:10:16,710 --> 00:10:19,050
+looking for collaborations from
+other institution?
+

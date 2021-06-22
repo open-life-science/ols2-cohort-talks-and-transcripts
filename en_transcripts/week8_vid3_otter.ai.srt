@@ -1,0 +1,1291 @@
+1
+00:00:00,000 --> 00:00:02,940
+Unknown: So talk about open
+protocols, and really open
+
+2
+00:00:02,940 --> 00:00:06,180
+methods as a whole within the
+context of open research. So
+
+3
+00:00:07,020 --> 00:00:09,870
+when you think about research we
+have researchers doing in this
+
+4
+00:00:09,870 --> 00:00:12,210
+instance, he has some kind of
+lab research, but it may not be
+
+5
+00:00:12,210 --> 00:00:15,780
+lab research. And we do quite
+well. And there's been a lot of
+
+6
+00:00:15,780 --> 00:00:18,510
+initiatives about making sure we
+have access to the research
+
+7
+00:00:18,510 --> 00:00:23,040
+papers, to the code and the data
+and even the citations, but
+
+8
+00:00:23,040 --> 00:00:26,700
+there hasn't been anywhere near
+the same level of focus on
+
+9
+00:00:26,700 --> 00:00:29,910
+making sure that we actually
+have open methods all the time.
+
+10
+00:00:30,000 --> 00:00:33,570
+So whatever is in the paper, if
+the papers open access, then
+
+11
+00:00:33,570 --> 00:00:36,930
+you'll have access to what part
+of methods is presented in the
+
+12
+00:00:36,930 --> 00:00:41,730
+paper. But that may not actually
+be very comprehensive. And so if
+
+13
+00:00:41,730 --> 00:00:44,790
+we start thinking about
+reproducibility of research, and
+
+14
+00:00:44,790 --> 00:00:49,380
+what it is that it's important
+to have as open for research,
+
+15
+00:00:49,890 --> 00:00:52,770
+the data is great. But if you
+don't know how you actually
+
+16
+00:00:52,770 --> 00:00:56,190
+derive the data, it's not as
+helpful as you think in terms of
+
+17
+00:00:56,190 --> 00:00:59,010
+actually figuring out how it was
+generated and what it means
+
+18
+00:00:59,010 --> 00:01:02,310
+because you don't necessarily
+know how it was generated. As
+
+19
+00:01:02,310 --> 00:01:06,840
+lubei. Why should we care. And
+reproducibility in research has
+
+20
+00:01:06,840 --> 00:01:10,800
+had a lot of really bad, bad
+press in recent years. Some
+
+21
+00:01:10,800 --> 00:01:14,580
+people talk about crisis of
+reproducibility. I'm not a big
+
+22
+00:01:14,610 --> 00:01:18,120
+fan of the crisis terminology,
+because I think this is
+
+23
+00:01:18,120 --> 00:01:22,230
+something that we can easily
+address. But it's clearly if not
+
+24
+00:01:22,260 --> 00:01:25,800
+a crisis, it's still a big
+problem. So these tweets that
+
+25
+00:01:25,800 --> 00:01:29,130
+I'm showing kind of exemplify
+the issue. So in the one in the
+
+26
+00:01:29,160 --> 00:01:32,490
+center, the person is biologist
+was looking for a protocol in a
+
+27
+00:01:32,490 --> 00:01:36,000
+published paper. And that paper
+cites an earlier paper. And the
+
+28
+00:01:36,000 --> 00:01:38,370
+other paper cites on earlier
+paper, which cites another
+
+29
+00:01:38,370 --> 00:01:42,000
+earlier paper, and this is going
+to be pre online content for the
+
+30
+00:01:42,000 --> 00:01:44,160
+most part, and then maybe
+eventually, you hit a paywall,
+
+31
+00:01:44,160 --> 00:01:47,520
+and you just can't access that
+information. So in that
+
+32
+00:01:47,520 --> 00:01:50,730
+instance, this researcher was
+getting very frustrated. And so
+
+33
+00:01:50,730 --> 00:01:54,360
+the, the tweet shows this really
+nicely as they tossed the laptop
+
+34
+00:01:54,360 --> 00:01:58,050
+out the window. It may be that
+previous experimental
+
+35
+00:01:58,050 --> 00:02:01,710
+information only in the real
+kind of details of it might only
+
+36
+00:02:01,710 --> 00:02:04,950
+be in someone else's lab, but
+from years before, and that
+
+37
+00:02:04,980 --> 00:02:08,790
+might have had many coffee
+spills, or being torn or lost or
+
+38
+00:02:08,790 --> 00:02:11,640
+just be illegible, essentially,
+by the time you come to look at
+
+39
+00:02:11,640 --> 00:02:14,040
+it. But that you know, and
+scrolling through someone else's
+
+40
+00:02:14,040 --> 00:02:17,160
+handwritten notes is not a task,
+clicking that anyone would
+
+41
+00:02:17,160 --> 00:02:21,990
+relish it thinking about doing.
+But it's not just biological
+
+42
+00:02:21,990 --> 00:02:25,710
+sciences. So the tweet on the
+right is trying to physicists to
+
+43
+00:02:25,920 --> 00:02:30,210
+hit exactly the same problem of
+trying to get to information
+
+44
+00:02:30,210 --> 00:02:33,780
+about how devices were
+fabricated. And conventional
+
+45
+00:02:33,780 --> 00:02:36,420
+methods in the end was the
+answer, which is not helpful to
+
+46
+00:02:36,420 --> 00:02:40,860
+anybody particularly. And there
+have been some big initiatives
+
+47
+00:02:40,860 --> 00:02:44,970
+in recent times to see if
+researchers could replicate and
+
+48
+00:02:44,970 --> 00:02:48,600
+reproduce some of the results
+from some published studies. So
+
+49
+00:02:48,600 --> 00:02:52,170
+this is a big study by the OSF
+Tim Harrington at the OSF and
+
+50
+00:02:52,170 --> 00:02:54,900
+they, they set out to try and
+replicate and reproduce the
+
+51
+00:02:54,900 --> 00:02:59,880
+results that were arrived at in
+50 published papers about cancer
+
+52
+00:02:59,880 --> 00:03:04,080
+research, as this quote here
+shows, which is from the
+
+53
+00:03:04,080 --> 00:03:07,860
+Atlantic a really nice article
+in The Atlantic by Ed young. And
+
+54
+00:03:08,490 --> 00:03:11,550
+it turned out that it was really
+hard to find any of the details
+
+55
+00:03:11,550 --> 00:03:14,490
+or sufficient amount of
+information about the methods in
+
+56
+00:03:14,490 --> 00:03:17,910
+those papers in order to
+reproduce them. So the part that
+
+57
+00:03:17,910 --> 00:03:21,390
+I've bolded that often, those
+recipes are incomplete, missing
+
+58
+00:03:21,390 --> 00:03:25,290
+out important steps, details or
+ingredients. And in some cases,
+
+59
+00:03:25,320 --> 00:03:29,430
+the recipes aren't described at
+all. One of the researchers
+
+60
+00:03:29,430 --> 00:03:34,800
+actually called this a hopeless
+slog. And the the initiative was
+
+61
+00:03:34,800 --> 00:03:38,100
+stopped after they'd only tried
+18 out of the 50 studies,
+
+62
+00:03:38,100 --> 00:03:40,680
+because it was just impossible.
+And it was proving incredibly
+
+63
+00:03:40,680 --> 00:03:43,920
+expensive as well, to actually
+try and perform these
+
+64
+00:03:43,920 --> 00:03:47,820
+replication studies. So long
+story short, is there's a big
+
+65
+00:03:47,820 --> 00:03:50,460
+problem actually getting to the
+methods information about how
+
+66
+00:03:50,460 --> 00:03:53,940
+people were performing their
+research. And that's where
+
+67
+00:03:53,940 --> 00:03:57,180
+protocols.pi o comes in, which
+is the company that I work for.
+
+68
+00:03:57,210 --> 00:04:00,870
+So we are a for profit, but the
+content that we publish is all
+
+69
+00:04:00,870 --> 00:04:04,350
+open access. And our mission is
+really simple. It's a make it
+
+70
+00:04:04,380 --> 00:04:07,830
+easy to share method details
+before, during and after
+
+71
+00:04:07,830 --> 00:04:12,630
+publication. And it's completely
+free to use as well if you're
+
+72
+00:04:12,630 --> 00:04:15,510
+publishing your content, so
+anyone can come sign up for an
+
+73
+00:04:15,510 --> 00:04:19,410
+account and put in the details
+of their experiments, their
+
+74
+00:04:19,410 --> 00:04:23,160
+protocols. And it looks like a
+recipe I'll show you in a
+
+75
+00:04:23,160 --> 00:04:27,120
+moment. And it's really very,
+very user friendly. So if anyone
+
+76
+00:04:27,120 --> 00:04:30,660
+hasn't had a look, that URL at
+the top with slash welcome is a
+
+77
+00:04:30,660 --> 00:04:35,250
+good place to start to poke
+around in there. And it's really
+
+78
+00:04:35,250 --> 00:04:38,490
+versatile. It was started out
+for lab, bench work biological
+
+79
+00:04:38,490 --> 00:04:41,370
+sciences, but people use it now
+in all research disciplines
+
+80
+00:04:41,370 --> 00:04:42,000
+pretty much.
+
+81
+00:04:43,890 --> 00:04:47,010
+And here's an example of what
+one looks like. So when it's
+
+82
+00:04:47,010 --> 00:04:49,770
+published, it pretty much does
+look like a recipe but also a
+
+83
+00:04:49,770 --> 00:04:52,320
+little bit like a publication.
+So at the top here, you can
+
+84
+00:04:52,320 --> 00:04:55,380
+hopefully see there's a dry on
+this published, published
+
+85
+00:04:55,380 --> 00:04:58,890
+article. So that means that
+you've got a permanent URL link
+
+86
+00:04:59,160 --> 00:05:03,060
+to a pub initial version that
+will stay static. And it's the
+
+87
+00:05:03,060 --> 00:05:05,340
+implement sure that's used for
+all kinds of publishing
+
+88
+00:05:05,340 --> 00:05:10,050
+research. Essentially. These can
+be your your protocols, you can
+
+89
+00:05:10,050 --> 00:05:12,510
+keep them private to you don't
+need to make them public and
+
+90
+00:05:12,510 --> 00:05:15,690
+give them do it. So you can work
+on them with your colleagues and
+
+91
+00:05:15,990 --> 00:05:18,630
+fiddle faddle around as you
+develop them and optimize them,
+
+92
+00:05:18,630 --> 00:05:21,660
+share them with your team, as
+you're working on making them
+
+93
+00:05:21,660 --> 00:05:26,790
+perfect, before you're ready to
+publish them. They are amazing
+
+94
+00:05:26,790 --> 00:05:29,520
+for reproducibility. They're so
+rich in the metadata that can be
+
+95
+00:05:29,520 --> 00:05:32,160
+added. And people can when
+they've been published, if they
+
+96
+00:05:32,160 --> 00:05:35,460
+repeat an experiment, they can
+take, they can kind of press
+
+97
+00:05:35,550 --> 00:05:38,100
+this works for me button, which
+shows that someone else has
+
+98
+00:05:38,100 --> 00:05:42,720
+managed to replicate the study.
+It's incredibly interactive,
+
+99
+00:05:42,720 --> 00:05:45,690
+people can comment so it's great
+for teamwork, others can comment
+
+100
+00:05:45,690 --> 00:05:49,620
+and access and there can be full
+on discussions on the protocol
+
+101
+00:05:49,620 --> 00:05:53,190
+questions about it. And what's
+happening for entrepreneurs to
+
+102
+00:05:53,190 --> 00:05:58,260
+try and move. videos around
+because I'm blocking the slides
+
+103
+00:05:58,260 --> 00:06:01,950
+for myself. And the do II is
+something that you can drop into
+
+104
+00:06:01,950 --> 00:06:05,100
+your research article. And I'll
+show you how you might do that
+
+105
+00:06:05,100 --> 00:06:07,830
+in a minute. But what's really
+brilliant about that is that you
+
+106
+00:06:07,830 --> 00:06:10,920
+can also create new versions. So
+after you've published your
+
+107
+00:06:10,950 --> 00:06:15,510
+protocol, if you spot a mistake
+down the line and want to update
+
+108
+00:06:15,510 --> 00:06:18,090
+it or clarify something, it's
+become clear, it's not very easy
+
+109
+00:06:18,090 --> 00:06:21,900
+for someone to follow, then you
+create a new version. And if
+
+110
+00:06:21,900 --> 00:06:26,220
+people follow the link from the
+published paper, they will see
+
+111
+00:06:26,220 --> 00:06:32,070
+that there's a new version. So
+in I'll just give you a couple
+
+112
+00:06:32,070 --> 00:06:35,340
+of examples of papers with
+protocols in them. So this is a
+
+113
+00:06:35,340 --> 00:06:40,290
+plus genetics paper actually
+contains links to 42 individual
+
+114
+00:06:40,290 --> 00:06:43,320
+protocols. So when you've got a
+really method, heavy paper, you
+
+115
+00:06:43,320 --> 00:06:46,710
+can create a protocol for every
+single one of those. And so each
+
+116
+00:06:46,710 --> 00:06:49,800
+of these green do I links in the
+materials and methods of the
+
+117
+00:06:49,800 --> 00:06:53,640
+paper points to its own
+individual protocol and
+
+118
+00:06:53,640 --> 00:06:56,580
+protocols to it. And we always
+have the journal article link in
+
+119
+00:06:56,580 --> 00:06:59,160
+there as well. So the two things
+are really well interlinked with
+
+120
+00:06:59,160 --> 00:07:04,050
+one another are 42 individual
+ones is a lot, a better way of
+
+121
+00:07:04,050 --> 00:07:07,590
+doing that might have been to
+create a collection. So this is
+
+122
+00:07:07,590 --> 00:07:12,330
+another example, for a plus
+biology paper, where the authors
+
+123
+00:07:12,330 --> 00:07:15,210
+did exactly that they made a
+collection of protocols, and at
+
+124
+00:07:15,210 --> 00:07:17,910
+the top of their materials and
+methods, they link to the
+
+125
+00:07:17,910 --> 00:07:22,740
+collection goi in protocols.io.
+And when you follow that link,
+
+126
+00:07:22,890 --> 00:07:26,940
+you get taken to this screenshot
+that's on the right, which is
+
+127
+00:07:26,940 --> 00:07:29,970
+telling you exactly what I
+mentioned is possible before
+
+128
+00:07:30,000 --> 00:07:33,390
+that there's a newer version of
+the collection available. So
+
+129
+00:07:33,390 --> 00:07:37,500
+that means the authors have made
+some changes and updated it. And
+
+130
+00:07:37,500 --> 00:07:41,010
+if you click through, you can
+see the newer version. What's
+
+131
+00:07:41,010 --> 00:07:44,610
+also really nice is that you
+have very easy ability to
+
+132
+00:07:44,610 --> 00:07:47,970
+compare versions. So if you want
+to see what it was that they
+
+133
+00:07:47,970 --> 00:07:51,420
+changed, you'll be able to do
+that. And it works just like
+
+134
+00:07:51,450 --> 00:07:55,470
+really a word track change,
+where you can see the two side
+
+135
+00:07:55,470 --> 00:07:58,890
+by side, and highlighted text of
+the pieces that have been
+
+136
+00:07:58,890 --> 00:08:03,450
+updated and changed. So I call
+this dynamic permanence because
+
+137
+00:08:03,450 --> 00:08:06,720
+you can have your published
+paper in a journal with the link
+
+138
+00:08:06,720 --> 00:08:10,560
+to the protocol. But because you
+can update the protocol really
+
+139
+00:08:10,560 --> 00:08:15,240
+easily. The di gives you this
+permanent link out to a much
+
+140
+00:08:15,240 --> 00:08:18,720
+more dynamic document that can
+be really a living document and
+
+141
+00:08:18,720 --> 00:08:22,350
+you can update it. But also
+means you don't have to go to
+
+142
+00:08:22,350 --> 00:08:25,620
+the publisher for a correction.
+If you realize there's a mistake
+
+143
+00:08:25,620 --> 00:08:27,900
+in the method after you've
+published it, you can simply
+
+144
+00:08:27,900 --> 00:08:30,240
+layer on a new version in
+protocols IO.
+
+145
+00:08:32,760 --> 00:08:36,090
+And why they would you do it
+this way, rather than having a
+
+146
+00:08:36,090 --> 00:08:39,060
+you know much more detailed
+materials and methods. I think
+
+147
+00:08:39,060 --> 00:08:43,890
+it's just it's so much richer to
+use an online tool that's more
+
+148
+00:08:43,890 --> 00:08:47,370
+dynamic. So another user can
+come in once you've published
+
+149
+00:08:47,370 --> 00:08:50,160
+your protocol, and run it
+actually run through the
+
+150
+00:08:50,160 --> 00:08:52,680
+protocol in a step by step
+manner, which is what this
+
+151
+00:08:52,680 --> 00:08:56,730
+little movie shows here. You can
+add figures and photos and
+
+152
+00:08:56,730 --> 00:09:01,020
+videos kind of how too much more
+of a step by step guide on how
+
+153
+00:09:01,020 --> 00:09:03,390
+to run the protocol, the kinds
+of things that you'd never be,
+
+154
+00:09:03,630 --> 00:09:06,360
+you wouldn't even be allowed to
+put them into a research paper,
+
+155
+00:09:06,660 --> 00:09:11,250
+you can make this much more of a
+how to guide. And it's just has
+
+156
+00:09:11,250 --> 00:09:14,070
+the capacity to hold a lot more
+granular information about
+
+157
+00:09:14,070 --> 00:09:17,820
+reagents, equipment, specific
+tips and tricks on how you made
+
+158
+00:09:17,820 --> 00:09:21,420
+it work. Maybe it took you a
+really long time to work out the
+
+159
+00:09:21,420 --> 00:09:24,510
+method of kind of shaking and
+temperature change and things to
+
+160
+00:09:24,510 --> 00:09:28,200
+do to make a step of a protocol
+work. And there's the
+
+161
+00:09:28,200 --> 00:09:31,740
+versioning. And it's really just
+much better suited than writing
+
+162
+00:09:31,800 --> 00:09:34,710
+a narrative paragraph that you
+would have as materials and
+
+163
+00:09:34,710 --> 00:09:38,760
+methods in the paper. But also
+it's always open access. So I
+
+164
+00:09:38,790 --> 00:09:42,060
+mean, we are moving towards a
+more open access world for
+
+165
+00:09:42,060 --> 00:09:45,330
+manuscripts, but right now
+they're not all open. But if
+
+166
+00:09:45,330 --> 00:09:48,240
+you've chosen to make the
+methods open, at least if the
+
+167
+00:09:48,240 --> 00:09:51,480
+paper ends up paywalled people
+will still be able to get to the
+
+168
+00:09:51,480 --> 00:09:54,360
+method details without having to
+worry about accessing a journal
+
+169
+00:09:54,360 --> 00:10:01,020
+article. And we have done some
+really good kind of community
+
+170
+00:10:01,020 --> 00:10:03,390
+workspaces which are amazing
+actually. And this one was
+
+171
+00:10:03,390 --> 00:10:07,620
+really organic and it was a neat
+idea to create this Coronavirus
+
+172
+00:10:07,620 --> 00:10:11,340
+method development community,
+right at the start of 2020 when
+
+173
+00:10:11,340 --> 00:10:15,690
+we started receiving submissions
+about Coronavirus, various
+
+174
+00:10:15,690 --> 00:10:20,370
+different techniques, sequencing
+or viral load on all sorts of
+
+175
+00:10:20,370 --> 00:10:23,370
+different things. And we created
+this community is probably the
+
+176
+00:10:23,370 --> 00:10:27,180
+largest growing one and fastest
+growing one we've had very
+
+177
+00:10:27,180 --> 00:10:32,430
+organically so. So it's amazing
+to see how thin kind of find
+
+178
+00:10:32,430 --> 00:10:34,950
+like minded scientists working
+on similar things and create
+
+179
+00:10:34,950 --> 00:10:40,440
+really a huge resource in this
+open way. That's really I mean,
+
+180
+00:10:40,560 --> 00:10:44,370
+the pandemic is, at least the
+silver lining is shining a huge
+
+181
+00:10:44,370 --> 00:10:47,640
+spotlight on the need for more
+open science and understanding
+
+182
+00:10:47,640 --> 00:10:50,490
+and sharing of information as we
+make advances as quickly as
+
+183
+00:10:50,490 --> 00:10:53,010
+possible. And so we were
+thrilled to be able to support
+
+184
+00:10:53,010 --> 00:10:55,800
+these efforts and had our
+editorial team helped pull in
+
+185
+00:10:55,800 --> 00:10:59,610
+protocols when scientists didn't
+perhaps have time to do that.
+
+186
+00:11:03,360 --> 00:11:08,760
+And making the methods protocols
+open on their own, makes them a
+
+187
+00:11:08,760 --> 00:11:12,030
+lot more discoverable
+independently of the manuscript.
+
+188
+00:11:12,030 --> 00:11:15,270
+So the example I'm showing here,
+the top left tweet was someone
+
+189
+00:11:15,300 --> 00:11:20,430
+looking for a protocol to do
+with RNA extraction from primary
+
+190
+00:11:20,430 --> 00:11:24,240
+cortical neuron cultures. So
+neuron cells, brain cells, after
+
+191
+00:11:24,270 --> 00:11:28,830
+several tweets, a UCSF postdoc,
+I think it was suggested a
+
+192
+00:11:28,830 --> 00:11:31,110
+protocol that was on
+protocols.io. And actually, when
+
+193
+00:11:31,110 --> 00:11:34,920
+you click through, you see that
+that protocol came from a Giga
+
+194
+00:11:34,920 --> 00:11:38,250
+science paper, and it was a
+paper on three spined
+
+195
+00:11:38,250 --> 00:11:42,990
+stickleback parasites. So it's
+pretty unlikely that a
+
+196
+00:11:42,990 --> 00:11:47,220
+connection would have been made
+between neuron cultures, brain
+
+197
+00:11:47,220 --> 00:11:51,060
+cells, and someone's work on
+stickleback parasites, fish
+
+198
+00:11:51,060 --> 00:11:54,810
+parasites, without that method
+being pulled apart in a modular
+
+199
+00:11:54,810 --> 00:11:59,250
+way outside of the paper itself.
+So sort of this, this modular
+
+200
+00:11:59,250 --> 00:12:03,060
+approach to open science has
+really facilitated discovery and
+
+201
+00:12:03,060 --> 00:12:05,610
+also research connections with
+people who use similar
+
+202
+00:12:05,610 --> 00:12:09,360
+methodologies, but in completely
+different contexts. So having
+
+203
+00:12:09,360 --> 00:12:12,450
+that as an open piece of
+research on its own as a
+
+204
+00:12:12,450 --> 00:12:15,330
+research output that's
+important, independently of
+
+205
+00:12:15,330 --> 00:12:18,480
+everything else, has made a big
+difference in some instances for
+
+206
+00:12:18,480 --> 00:12:21,930
+people getting the right
+feedback on what they should do,
+
+207
+00:12:21,930 --> 00:12:28,380
+basically. So yeah, I mean, I'm
+a huge Open Science advocate all
+
+208
+00:12:28,380 --> 00:12:31,500
+around. And really, anything you
+share, like this can accelerate
+
+209
+00:12:31,500 --> 00:12:33,300
+science, increase
+discoverability,
+
+210
+00:12:33,300 --> 00:12:37,260
+reproducibility, help you make
+good research connections,
+
+211
+00:12:37,290 --> 00:12:40,980
+enables the reuse. And it really
+does enhance the value of the
+
+212
+00:12:40,980 --> 00:12:44,850
+research, there's really not a
+negative reason, I think or
+
+213
+00:12:44,850 --> 00:12:49,200
+negative outcome from sharing
+methods this way. And it's and
+
+214
+00:12:49,200 --> 00:12:52,110
+it helps with the stewardship of
+research output too. So within a
+
+215
+00:12:52,110 --> 00:12:55,410
+lab, often, it's said that your,
+your most likely future
+
+216
+00:12:55,410 --> 00:12:59,130
+collaborator will be you in six
+months time. So if you store the
+
+217
+00:12:59,130 --> 00:13:02,610
+details in a much better format
+than your own scribbled lab
+
+218
+00:13:02,610 --> 00:13:05,550
+notebook, you're actually making
+life easier for yourself in the
+
+219
+00:13:05,550 --> 00:13:09,390
+future, too. We have a lot of
+support, I realize I'm running
+
+220
+00:13:09,390 --> 00:13:12,090
+out of time from journals and
+publishers and funders, and also
+
+221
+00:13:12,090 --> 00:13:16,650
+institutions, who also recommend
+people use protocols that I owe.
+
+222
+00:13:16,650 --> 00:13:21,390
+So we're very happy to help
+people if they're interested in
+
+223
+00:13:21,390 --> 00:13:24,660
+using the tool. And it's only a
+small company, Lenny, who people
+
+224
+00:13:24,660 --> 00:13:28,170
+may or may not know is our
+founder. And Anita has been
+
+225
+00:13:28,170 --> 00:13:29,280
+there for a while too. And it's
+
+226
+00:13:34,290 --> 00:13:41,160
+Thank you very much. Now, many,
+many questions I'm getting at,
+
+227
+00:13:41,430 --> 00:13:45,270
+I'm quite aware of time, but
+that is that folks are really,
+
+228
+00:13:45,270 --> 00:13:50,670
+really enthusiastic about what
+you've said. And there are
+
+229
+00:13:50,700 --> 00:13:56,010
+questions about integration
+about DUIs. versioning. So if
+
+230
+00:13:56,010 --> 00:13:58,590
+you if you could take a bit of
+time, sorry, I have to ask this.
+
+231
+00:13:58,590 --> 00:14:00,900
+But yeah, if you could take a
+bit of time on the hacker days
+
+232
+00:14:00,900 --> 00:14:03,120
+and maybe put some answers
+there. That would be really,
+
+233
+00:14:03,120 --> 00:14:04,680
+really helpful for us.
+
+234
+00:14:08,160 --> 00:14:11,490
+We don't have to go ahead and do
+that after this. That's an
+
+235
+00:14:11,490 --> 00:14:17,970
+impromptu so much. Thank you.
+Yeah, so I'm gonna pass to y'all
+
+236
+00:14:17,970 --> 00:14:19,260
+for the closing.
+
+237
+00:14:22,200 --> 00:14:27,030
+I've managed to find the unmute
+button in time. Okay, so this
+
+238
+00:14:27,030 --> 00:14:31,350
+has been jam packed full, but
+really, really quite an exciting
+
+239
+00:14:31,350 --> 00:14:35,430
+call. I'm in love with how on
+fire the questions were also for
+
+240
+00:14:35,430 --> 00:14:40,170
+this last talk. So for now, we
+did have a fourth speaker
+
+241
+00:14:40,170 --> 00:14:43,470
+planned, we wouldn't have had
+time for them even if they had
+
+242
+00:14:43,470 --> 00:14:47,700
+been able to make it. But
+thankfully, we have a video so
+
+243
+00:14:47,700 --> 00:14:52,500
+right now online for four five
+of the hack MD. We suggest just
+
+244
+00:14:52,500 --> 00:14:55,470
+hop over when you have some time
+that doesn't have to be now and
+
+245
+00:14:55,470 --> 00:14:58,770
+just have a look at bastions
+talk about citizen science which
+
+246
+00:14:58,770 --> 00:15:02,190
+is another open The science
+method that's really important.
+
+247
+00:15:03,510 --> 00:15:07,980
+And apart from that, we actually
+have a an optional cohort course
+
+248
+00:15:08,010 --> 00:15:11,850
+next week for self care and ally
+skills. I know we normally have
+
+249
+00:15:11,850 --> 00:15:15,510
+a week off in between. But next
+week, we have another call. We
+
+250
+00:15:15,510 --> 00:15:17,490
+will send out more info about
+that. But you should have
+
+251
+00:15:17,490 --> 00:15:22,740
+received the calendar invite the
+heck MD has been a pain in the
+
+252
+00:15:22,740 --> 00:15:27,120
+rear today. I'm really sorry
+about that. We are going to
+
+253
+00:15:27,120 --> 00:15:29,400
+evaluate what's going on and
+figure out whether it's still
+
+254
+00:15:29,400 --> 00:15:33,390
+the best option. And there is
+more room for any other feedback
+
+255
+00:15:33,390 --> 00:15:35,850
+if you want to throw any
+feedback right at the very, very
+
+256
+00:15:35,850 --> 00:15:38,070
+bottom of the document if
+there's any feedback you'd like
+
+257
+00:15:38,070 --> 00:15:41,730
+to share, but we are four
+minutes over so I am going to
+
+258
+00:15:41,730 --> 00:15:45,090
+say thank you very much. It's
+been delightful, and we will see
+
+259
+00:15:45,090 --> 00:15:51,540
+you again later. Bye. Oh and
+thanks so much. Thank you
+

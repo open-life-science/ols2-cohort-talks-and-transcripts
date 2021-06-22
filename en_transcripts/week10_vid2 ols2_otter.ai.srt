@@ -1,0 +1,1074 @@
+1
+00:00:00,000 --> 00:00:03,660
+Unknown: Hi, everyone. I'm
+Melissa. I'm now a training and
+
+2
+00:00:03,660 --> 00:00:06,120
+communications officer with
+Australian buyer comments, but I
+
+3
+00:00:06,120 --> 00:00:09,960
+used to be at the FBI. But the
+reason I'm here today is that I
+
+4
+00:00:09,960 --> 00:00:13,470
+have been quite heavily involved
+with an alexian working group on
+
+5
+00:00:13,710 --> 00:00:17,250
+making training materials fair.
+And some of the other people on
+
+6
+00:00:17,250 --> 00:00:23,730
+the call have also been involved
+in that. So to begin with the
+
+7
+00:00:23,730 --> 00:00:28,020
+end, this project that I'm going
+to talk you through has been a
+
+8
+00:00:28,020 --> 00:00:31,980
+massive collaborative effort.
+It's started as a legacy of by a
+
+9
+00:00:31,980 --> 00:00:36,060
+hackathon project in 2018. And
+then it was taken on by the
+
+10
+00:00:36,060 --> 00:00:39,780
+Alexia working group for making
+for making training materials
+
+11
+00:00:39,780 --> 00:00:44,700
+fair, which led to the
+publication of 10 simple rules
+
+12
+00:00:44,700 --> 00:00:47,160
+for making training materials
+fair and plus computational
+
+13
+00:00:47,160 --> 00:00:51,030
+biology. And I'll share the link
+to that with you in in the chat
+
+14
+00:00:51,030 --> 00:00:58,980
+and in the documents later on.
+So I think Philips talk was
+
+15
+00:00:58,980 --> 00:01:01,590
+quite a nice segue into this
+because he's already started to
+
+16
+00:01:01,590 --> 00:01:05,580
+talk about some of the types of
+training materials. And when we
+
+17
+00:01:05,580 --> 00:01:08,760
+said about doing this work, we
+first had to define really, what
+
+18
+00:01:08,760 --> 00:01:10,620
+are we talking about when we're
+talking about training
+
+19
+00:01:10,620 --> 00:01:14,310
+materials. And we took a really
+broad view of this of it being
+
+20
+00:01:14,340 --> 00:01:18,960
+any digital object that you use
+in training. So this can be
+
+21
+00:01:18,960 --> 00:01:22,230
+PowerPoint slides, it can be
+data sets, it can be PDF,
+
+22
+00:01:22,230 --> 00:01:26,250
+handouts, it can be whatever you
+think of that you can use in
+
+23
+00:01:26,250 --> 00:01:31,950
+training, we excluded physical
+things that you might use for as
+
+24
+00:01:31,950 --> 00:01:38,490
+fer is directed towards a
+digital environment. Okay, so
+
+25
+00:01:38,550 --> 00:01:42,060
+why do we need to be fair when
+we're thinking about training
+
+26
+00:01:42,060 --> 00:01:47,760
+materials. So the key thing that
+you do as a trainer, when you
+
+27
+00:01:47,760 --> 00:01:51,300
+start to plan for your event is
+to develop the materials that
+
+28
+00:01:51,300 --> 00:01:55,020
+you're going to present. And
+when you do this, then some of
+
+29
+00:01:55,020 --> 00:01:57,570
+the common things that people do
+is to go and look at what's
+
+30
+00:01:57,570 --> 00:02:01,200
+already out there for
+inspiration. Once you've done
+
+31
+00:02:01,200 --> 00:02:04,470
+that, you might decide to build
+your own materials. And you
+
+32
+00:02:04,470 --> 00:02:07,710
+might, or you might completely
+reuse somebody else's materials
+
+33
+00:02:07,740 --> 00:02:10,440
+are just bits and pieces from
+other China ours China's
+
+34
+00:02:10,500 --> 00:02:14,310
+material as well, because it
+makes it faster. But it also
+
+35
+00:02:14,310 --> 00:02:17,670
+means that what you are teaching
+is consistent with what other
+
+36
+00:02:17,670 --> 00:02:20,340
+people are teaching within your
+field. And it makes it more
+
+37
+00:02:20,340 --> 00:02:25,860
+efficient. But what we've all
+found as trainers as that this
+
+38
+00:02:25,860 --> 00:02:29,310
+can be quite hard. And in
+particular, it's really hard to
+
+39
+00:02:29,310 --> 00:02:32,940
+find training materials. But
+then it's also really hard to
+
+40
+00:02:32,940 --> 00:02:36,390
+understand what people have done
+with those training materials
+
+41
+00:02:36,390 --> 00:02:40,920
+because there isn't enough
+metadata to describe them. We've
+
+42
+00:02:40,920 --> 00:02:43,890
+also found that once you find
+the materials, they can be
+
+43
+00:02:43,920 --> 00:02:47,310
+inaccessible. So you know, it's
+there that you can't get access
+
+44
+00:02:47,310 --> 00:02:53,310
+to it, or they're not licensed
+for reuse as well. Now, we
+
+45
+00:02:53,310 --> 00:02:56,820
+realized that these are
+challenges that are also
+
+46
+00:02:56,940 --> 00:03:00,390
+apparent with data. And we knew
+about the principles that
+
+47
+00:03:00,390 --> 00:03:04,830
+Philips just told us about. So
+we decided to try and repurpose
+
+48
+00:03:04,830 --> 00:03:08,070
+those principles for the
+purposes of training materials.
+
+49
+00:03:09,810 --> 00:03:12,960
+And this theory, lots and lots
+of conversation and lots of
+
+50
+00:03:12,960 --> 00:03:16,680
+discussion has led us to
+building these these 10 simple
+
+51
+00:03:16,680 --> 00:03:20,160
+rules or 10 simple steps towards
+making training materials fit.
+
+52
+00:03:20,940 --> 00:03:23,640
+And they're really they're not
+hard and fast rules, they're
+
+53
+00:03:23,640 --> 00:03:26,820
+more like guidelines to get you
+thinking about what you need to
+
+54
+00:03:26,820 --> 00:03:30,540
+do. So what I'm going to do is
+I'm going to walk through each
+
+55
+00:03:30,540 --> 00:03:33,300
+of these 10 steps at quite a
+high level. And then if you want
+
+56
+00:03:33,300 --> 00:03:35,970
+to know about any of the
+particular steps in more detail,
+
+57
+00:03:35,970 --> 00:03:42,210
+we can talk about that more as
+well. So number one is to share
+
+58
+00:03:42,210 --> 00:03:46,380
+your materials, this is going to
+sound really obvious, but it is
+
+59
+00:03:46,380 --> 00:03:48,960
+one thing that people don't
+think about. And of course, if
+
+60
+00:03:48,960 --> 00:03:51,690
+you don't share your materials,
+nobody else is going to be able
+
+61
+00:03:51,690 --> 00:03:58,050
+to find them. It's also really
+important to to plan for sharing
+
+62
+00:03:58,050 --> 00:04:01,140
+your materials. So as you're
+creating them think about
+
+63
+00:04:01,470 --> 00:04:03,750
+writing down those bits of
+metadata and things that you
+
+64
+00:04:03,750 --> 00:04:07,890
+need in order to explain it to
+other material. But also think
+
+65
+00:04:07,890 --> 00:04:09,630
+about where you're going to
+share them and how that
+
+66
+00:04:09,630 --> 00:04:13,530
+influences the fairness of your
+materials. And there are lots of
+
+67
+00:04:13,530 --> 00:04:16,170
+different places that you can
+share your materials and denodo
+
+68
+00:04:16,170 --> 00:04:19,920
+as we just saw is one of those
+places. GitHub is also a popular
+
+69
+00:04:19,920 --> 00:04:25,080
+place that lots of people have
+been using recently. Okay, so
+
+70
+00:04:25,080 --> 00:04:28,050
+second step on the road to
+fairness is to describe the
+
+71
+00:04:28,050 --> 00:04:33,330
+training materials properly. So
+for this particular step, we
+
+72
+00:04:33,330 --> 00:04:36,480
+were more thinking about
+structuring the metadata rather
+
+73
+00:04:36,480 --> 00:04:39,720
+than what goes into the
+metadata. And this is really to
+
+74
+00:04:39,720 --> 00:04:44,970
+make it easier for search
+engines to find and to index,
+
+75
+00:04:45,330 --> 00:04:46,920
+the content of your materials.
+
+76
+00:04:48,180 --> 00:04:52,380
+So one of the ways you can do
+this is to use bio schemas. So
+
+77
+00:04:52,380 --> 00:04:56,460
+bio schemas have specifications
+that have certain categories
+
+78
+00:04:56,460 --> 00:04:59,850
+that are associated with
+training materials. The other
+
+79
+00:04:59,850 --> 00:05:04,230
+thing You can do is to use an
+keywords from an ontology to
+
+80
+00:05:04,230 --> 00:05:07,740
+describe your materials more
+consistently. So that within
+
+81
+00:05:07,740 --> 00:05:11,730
+your field, so say, I'm training
+here in Australia and somebody
+
+82
+00:05:11,730 --> 00:05:15,060
+else's training over in the UK,
+we're both describing training
+
+83
+00:05:15,060 --> 00:05:19,770
+materials on the same topic with
+the same words. Within the
+
+84
+00:05:19,770 --> 00:05:22,650
+bioinformatics community, quite
+a lot of people are using terms
+
+85
+00:05:22,650 --> 00:05:26,430
+from the EDM ontology. And you
+can go and look that up on the
+
+86
+00:05:26,580 --> 00:05:29,880
+MLS ontology lookup service, if
+you're more interested to know
+
+87
+00:05:29,880 --> 00:05:36,510
+what's in that. So So step
+three, and this is going to be
+
+88
+00:05:36,510 --> 00:05:39,210
+sounding quite familiar from
+what we've just heard is to give
+
+89
+00:05:39,210 --> 00:05:43,380
+your training materials a unique
+identity. So one of the identity
+
+90
+00:05:43,410 --> 00:05:46,920
+persistent identifiers you can
+use here is a do II. And often
+
+91
+00:05:46,920 --> 00:05:49,470
+if you're sharing through things
+like zenodo, it will
+
+92
+00:05:49,470 --> 00:05:53,580
+automatically be given into your
+line. Again, you can also
+
+93
+00:05:53,610 --> 00:05:59,910
+encourage the use of P IDs for
+authors by using orchids. And by
+
+94
+00:05:59,910 --> 00:06:02,520
+doing this, you're making sure
+that you get credit for the work
+
+95
+00:06:02,520 --> 00:06:05,070
+that you've done, and any
+contributors are also getting
+
+96
+00:06:05,070 --> 00:06:08,520
+credit. And this helps build
+your reputation as a trainer as
+
+97
+00:06:08,520 --> 00:06:15,810
+well. Okay, so step four is to
+register your materials online.
+
+98
+00:06:16,350 --> 00:06:19,440
+Now, this might sound like the
+same thing as step one that is
+
+99
+00:06:19,440 --> 00:06:22,620
+actually slightly different. So
+in step one, we're talking about
+
+100
+00:06:22,650 --> 00:06:25,380
+getting your materials out as
+uploading them somewhere.
+
+101
+00:06:25,770 --> 00:06:29,550
+Whereas this one is more about
+collecting materials from the
+
+102
+00:06:29,550 --> 00:06:33,150
+same topic together into a
+registry. So you're telling a
+
+103
+00:06:33,150 --> 00:06:36,270
+website that I have materials
+out there, this is where you can
+
+104
+00:06:36,270 --> 00:06:40,170
+find them. So for
+Bioinformatics, there's a couple
+
+105
+00:06:40,170 --> 00:06:43,050
+of different examples of this,
+there's elixirs tests, and there
+
+106
+00:06:43,050 --> 00:06:46,920
+is also the goblet portal for
+training materials. And they're
+
+107
+00:06:46,920 --> 00:06:49,530
+kind of aggregating all those
+different training materials
+
+108
+00:06:49,530 --> 00:06:53,100
+together into one place so that
+they're easier to find. And then
+
+109
+00:06:53,100 --> 00:07:00,510
+they will link out to where they
+are stored. Number five is to
+
+110
+00:07:00,510 --> 00:07:05,100
+define the access rules. So the
+level of accessibility of
+
+111
+00:07:05,100 --> 00:07:08,610
+different materials can vary for
+many different reasons. It may
+
+112
+00:07:08,610 --> 00:07:12,030
+be that your materials are, for
+example, only accessible to
+
+113
+00:07:12,030 --> 00:07:15,240
+people who've paid for that
+course. Now, that's completely
+
+114
+00:07:15,240 --> 00:07:19,620
+fine. As Phillip was saying, the
+level of accessibility can vary,
+
+115
+00:07:19,650 --> 00:07:22,980
+you just have to be very clear
+about how it varies and what the
+
+116
+00:07:22,980 --> 00:07:27,600
+rules for access are. And what
+we recommend that you do is to
+
+117
+00:07:27,600 --> 00:07:30,780
+to write this in the metadata or
+to even include it in a readme
+
+118
+00:07:30,780 --> 00:07:33,780
+file that goes alongside your
+training materials. So people
+
+119
+00:07:33,780 --> 00:07:36,840
+can very clearly see whether or
+not they can access the
+
+120
+00:07:36,840 --> 00:07:44,190
+materials and how they can do
+it. Next step is to use an
+
+121
+00:07:44,190 --> 00:07:48,360
+interoperable format. This one I
+think, was one of the most
+
+122
+00:07:48,360 --> 00:07:51,330
+controversial things that we
+discussed when we tried to think
+
+123
+00:07:51,330 --> 00:07:54,540
+about what these are also, they
+can see photos grinning, because
+
+124
+00:07:54,540 --> 00:07:58,110
+he was there for these
+discussions. For training
+
+125
+00:07:58,110 --> 00:08:01,920
+materials, I think the format
+that you choose really depends
+
+126
+00:08:01,920 --> 00:08:06,240
+on your context and what you
+intend to use it for. However,
+
+127
+00:08:06,240 --> 00:08:09,090
+you should be aiming to use a
+format that can be used in
+
+128
+00:08:09,090 --> 00:08:12,870
+different contexts and on
+different operating systems. And
+
+129
+00:08:12,900 --> 00:08:16,710
+use a format that is editable if
+you want to enable it to be
+
+130
+00:08:16,710 --> 00:08:21,240
+fair. So there's lots of
+different formats out there. For
+
+131
+00:08:21,240 --> 00:08:24,960
+example, just for presentations,
+you've got PDFs, PowerPoints,
+
+132
+00:08:24,960 --> 00:08:28,500
+and latex. And each of these
+have different advantages and
+
+133
+00:08:28,500 --> 00:08:33,270
+different disadvantages, and
+some are more adaptable than
+
+134
+00:08:33,270 --> 00:08:37,350
+others. If you want to have a
+closer look at the advantages
+
+135
+00:08:37,350 --> 00:08:40,650
+and disadvantages of those types
+of formats, then we have a nice
+
+136
+00:08:40,650 --> 00:08:45,060
+table in the paper that looks at
+those in detail. also noted here
+
+137
+00:08:45,060 --> 00:08:47,550
+that there is now a trend
+towards providing training
+
+138
+00:08:47,550 --> 00:08:51,240
+materials in markdown. It's
+becoming very popular, and it
+
+139
+00:08:51,240 --> 00:08:59,430
+does have great uses in certain
+contexts. Okay, so number seven,
+
+140
+00:08:59,940 --> 00:09:04,590
+is making the materials reusable
+for trainers. And in contrast
+
+141
+00:09:04,590 --> 00:09:08,010
+the data what we're actually
+doing it here is targeting
+
+142
+00:09:08,040 --> 00:09:13,260
+people rather than machines. So
+for a trainer to be able to take
+
+143
+00:09:13,260 --> 00:09:17,040
+somebody else's materials and
+reuse them, they need to be able
+
+144
+00:09:17,040 --> 00:09:23,130
+to understand what that material
+was trying to deliver, why, and
+
+145
+00:09:23,130 --> 00:09:28,080
+how. And all of this information
+needs to be included in the
+
+146
+00:09:28,080 --> 00:09:32,190
+metadata. And ideally, that
+metadata could be structured as
+
+147
+00:09:32,190 --> 00:09:34,350
+well, we'd make it even easier
+to find.
+
+148
+00:09:36,780 --> 00:09:40,050
+In order for trainers to be able
+to reuse the materials as we saw
+
+149
+00:09:40,050 --> 00:09:42,870
+earlier as well, you need to
+give it a license that allows
+
+150
+00:09:42,870 --> 00:09:46,050
+that reuse. So the Creative
+Commons licenses are great for
+
+151
+00:09:46,050 --> 00:09:49,260
+this. And there are different
+levels of licensing that you can
+
+152
+00:09:49,260 --> 00:09:55,650
+apply depending on your own
+situation. So number eight,
+
+153
+00:09:55,710 --> 00:09:59,430
+there is another group of people
+who might want to reuse training
+
+154
+00:09:59,430 --> 00:10:03,030
+materials and This is the
+Chinese themselves. So when you
+
+155
+00:10:03,030 --> 00:10:05,220
+want to learn something for
+yourself, but you don't have
+
+156
+00:10:05,220 --> 00:10:08,820
+time to go on a course, one
+thing you might do is go out
+
+157
+00:10:08,820 --> 00:10:11,880
+onto the internet and look for
+things that are already out
+
+158
+00:10:11,880 --> 00:10:15,390
+there. So that you can teach
+yourself. I just saw your
+
+159
+00:10:15,390 --> 00:10:18,030
+stretching, I thought she was
+very excited about that. That's
+
+160
+00:10:18,030 --> 00:10:23,370
+just stretching. Right? So for
+trainees, they're coming at it
+
+161
+00:10:23,370 --> 00:10:26,460
+from a slightly different angle,
+and they want to know as well
+
+162
+00:10:26,460 --> 00:10:29,850
+what the training is about. But
+they want to know, specifically,
+
+163
+00:10:29,880 --> 00:10:32,790
+what are they going to get out
+of this training, and what do
+
+164
+00:10:32,790 --> 00:10:36,720
+they need to know in advance, in
+order for them for it to be the
+
+165
+00:10:36,720 --> 00:10:40,680
+right training for them. So in
+your metadata of with your
+
+166
+00:10:40,680 --> 00:10:43,740
+training materials, you should
+always be including learning
+
+167
+00:10:43,740 --> 00:10:48,540
+outcomes and prerequisites. And
+as we're saying, again, again,
+
+168
+00:10:48,570 --> 00:10:51,960
+the way you write this is really
+important, and you should aim to
+
+169
+00:10:51,960 --> 00:10:56,310
+be using a consistent format.
+What's being recommended in the
+
+170
+00:10:56,310 --> 00:10:59,790
+training sphere, and in the
+education world as well is to
+
+171
+00:10:59,790 --> 00:11:03,570
+use the format of an active
+verb, ideally, from a Bloom's
+
+172
+00:11:03,570 --> 00:11:08,580
+ontology, or taxonomy rather,
+plus a behavior, knowledge,
+
+173
+00:11:08,580 --> 00:11:12,510
+skill or ability. So for
+example, if we were to apply
+
+174
+00:11:12,510 --> 00:11:15,300
+that to this presentation, we'd
+say by the end of this
+
+175
+00:11:15,300 --> 00:11:19,590
+presentation, you should be able
+to list which is your verb, the
+
+176
+00:11:19,590 --> 00:11:23,700
+10 simple steps to making
+training materials fair, which
+
+177
+00:11:23,700 --> 00:11:29,910
+is the knowledge part of that
+equation. Nine, so number nine
+
+178
+00:11:29,910 --> 00:11:33,660
+is training doesn't occur in a
+bubble. When you're developing
+
+179
+00:11:33,660 --> 00:11:37,320
+training materials, you always
+seek feedback from others, and
+
+180
+00:11:37,320 --> 00:11:40,020
+you always can welcome
+contributions as well, it's
+
+181
+00:11:40,020 --> 00:11:44,250
+always very helpful, that there
+are steps that you can take to
+
+182
+00:11:44,250 --> 00:11:48,720
+make this more open. So you can
+start by telling people how they
+
+183
+00:11:48,720 --> 00:11:51,810
+can contribute to your
+materials. And when you're doing
+
+184
+00:11:51,810 --> 00:11:56,970
+this to use a warm tone.
+alongside your metadata you can
+
+185
+00:11:56,970 --> 00:12:00,720
+can include a contribution file,
+and I'm pretty sure you learned
+
+186
+00:12:00,720 --> 00:12:04,230
+about this in one of the past
+sessions. And in this year,
+
+187
+00:12:04,230 --> 00:12:07,110
+you're stating the rules for
+participation and contribution.
+
+188
+00:12:07,110 --> 00:12:09,630
+So you're telling people how
+they contribute what you want
+
+189
+00:12:09,630 --> 00:12:12,630
+control contributions on and
+what they're going to get out of
+
+190
+00:12:12,630 --> 00:12:16,920
+it as well. Of course, if other
+people are contributing to you
+
+191
+00:12:16,920 --> 00:12:20,070
+materials, you want to give
+credit where credit's due, that
+
+192
+00:12:20,220 --> 00:12:27,090
+is only the fair thing in
+another context. Okay, so I feel
+
+193
+00:12:27,090 --> 00:12:30,270
+like I'm speaking quite fast.
+And we've come to number 10,
+
+194
+00:12:30,960 --> 00:12:34,920
+which is very important, as
+well, and often forgotten is to
+
+195
+00:12:34,920 --> 00:12:39,270
+keep your materials out tonight.
+It's great. If you're sharing
+
+196
+00:12:39,270 --> 00:12:42,390
+materials, and you're putting
+them out there. However, the
+
+197
+00:12:42,390 --> 00:12:45,930
+materials go out of date. And
+this is okay, if your materials
+
+198
+00:12:45,930 --> 00:12:48,870
+are out of date, and you don't
+have time to update them, that's
+
+199
+00:12:48,870 --> 00:12:52,500
+fine. Just add a note to the
+metadata saying that they've
+
+200
+00:12:52,500 --> 00:12:55,080
+been retired and there shouldn't
+be used anymore for these
+
+201
+00:12:55,080 --> 00:12:59,220
+reasons. However, if you want to
+continue to use your materials,
+
+202
+00:12:59,220 --> 00:13:02,670
+and you're updating them, make
+sure that you're keeping track
+
+203
+00:13:02,670 --> 00:13:05,760
+of the versions and that it's
+easy for people to identify,
+
+204
+00:13:05,790 --> 00:13:10,680
+which is the most recent version
+as well. There's different ways
+
+205
+00:13:10,680 --> 00:13:14,250
+that you can do this and it's
+some level it depends on where
+
+206
+00:13:14,250 --> 00:13:18,630
+you're sharing your materials as
+well. And many people on the
+
+207
+00:13:18,630 --> 00:13:22,530
+call are going to be great
+champions of GitHub for this as
+
+208
+00:13:22,530 --> 00:13:29,130
+well but there are other options
+too. Okay, so that was quite a
+
+209
+00:13:29,130 --> 00:13:32,340
+quick whistlestop tour of the
+kind of thinking that this the
+
+210
+00:13:32,340 --> 00:13:34,950
+elixir working group came to
+when we put together the 10
+
+211
+00:13:35,370 --> 00:13:39,090
+simple rules 10 simple steps
+towards making training
+
+212
+00:13:39,090 --> 00:13:43,170
+materials fair. If you have any
+questions and we'll come to take
+
+213
+00:13:43,170 --> 00:13:45,750
+them happy to take them now.
+Okay, talk about them in the
+
+214
+00:13:45,750 --> 00:13:49,530
+breakout rooms as well. Also pop
+a link to the slide into the
+
+215
+00:13:49,530 --> 00:13:52,800
+paper in into the chat and to
+the document in a moment.
+

@@ -1,0 +1,994 @@
+1
+00:00:00,000 --> 00:00:03,570
+Unknown: Hi, everyone, and
+thanks for the very kind
+
+2
+00:00:03,600 --> 00:00:10,920
+patient. So as Amy said, The
+plan is to give some insights
+
+3
+00:00:10,920 --> 00:00:15,990
+about first software. And I'll
+try to be more specific about
+
+4
+00:00:15,990 --> 00:00:20,190
+various software. Because in my
+mind, sort of, let's, let's go a
+
+5
+00:00:20,190 --> 00:00:27,420
+bit deeper. And before we start,
+I want to highlight the sort of
+
+6
+00:00:27,420 --> 00:00:32,430
+a comment that I I really take
+to heart. I, there's a lot of
+
+7
+00:00:32,430 --> 00:00:36,360
+focus on on for data, especially
+if you look at different funding
+
+8
+00:00:36,360 --> 00:00:42,240
+opportunities in recent years,
+policies as well. But I'm very
+
+9
+00:00:42,240 --> 00:00:45,450
+in favor of the of this quote
+that says that data implies
+
+10
+00:00:45,450 --> 00:00:48,600
+software, because it doesn't
+make sense to, to sit around a
+
+11
+00:00:48,600 --> 00:00:53,040
+hoard of really well done data,
+but don't really have anything
+
+12
+00:00:53,040 --> 00:00:56,400
+to do with them. So not lacking
+the tools to actually do
+
+13
+00:00:56,400 --> 00:01:02,700
+something with this really
+awesome data. So this leads me
+
+14
+00:01:02,700 --> 00:01:06,990
+to a point that if you look at
+software, especially over the
+
+15
+00:01:06,990 --> 00:01:13,800
+past 1015 years, even possibly
+more research really relies on
+
+16
+00:01:13,800 --> 00:01:19,320
+software, and I'm using here, a
+study done by SSI, just a few
+
+17
+00:01:19,320 --> 00:01:22,260
+years ago, the software
+synthesis, they will Institute
+
+18
+00:01:22,350 --> 00:01:27,150
+in UK, about the relies on
+software. So you can see that
+
+19
+00:01:27,150 --> 00:01:32,610
+92% of various community and
+regularly uses research software
+
+20
+00:01:32,610 --> 00:01:37,500
+and almost 70% would not be
+possible to do their actual work
+
+21
+00:01:37,500 --> 00:01:39,990
+without the software if the
+software is not available. So
+
+22
+00:01:40,770 --> 00:01:46,050
+software is actually a key part.
+At the same time, if you look at
+
+23
+00:01:46,050 --> 00:01:50,070
+the researcher, as an
+individual, at this state of
+
+24
+00:01:50,070 --> 00:01:54,000
+pleased, they need to worry
+about how to deal with data, how
+
+25
+00:01:54,000 --> 00:01:57,120
+to ensure that their data is
+collected, collected properly,
+
+26
+00:01:57,120 --> 00:02:01,650
+it's fair to actually do the
+analysis. Occasionally, if not
+
+27
+00:02:01,650 --> 00:02:05,010
+always developed the software do
+that, ensure that the software
+
+28
+00:02:05,070 --> 00:02:08,280
+and all the research is
+reproducible, and sort of this
+
+29
+00:02:08,280 --> 00:02:11,070
+can be done in fruitful
+operations. And this is just the
+
+30
+00:02:11,070 --> 00:02:13,890
+tip of the iceberg if you don't
+want to go more into depth. So,
+
+31
+00:02:14,400 --> 00:02:18,720
+the idea here is to remove
+basically one of the things to
+
+32
+00:02:18,720 --> 00:02:23,100
+worry about, and in my mind
+would be to resolve the software
+
+33
+00:02:23,100 --> 00:02:27,180
+aspects. So, as I said, this
+software is pretty much
+
+34
+00:02:27,180 --> 00:02:29,760
+everywhere. So if you look at
+any particular point in this
+
+35
+00:02:29,760 --> 00:02:34,440
+lifecycle, you have software
+there from the lead generation
+
+36
+00:02:34,470 --> 00:02:38,640
+to how to the net analysis, how
+to the application to do the
+
+37
+00:02:38,640 --> 00:02:42,840
+resource planning, all those
+imply in some sense, some
+
+38
+00:02:42,840 --> 00:02:48,330
+software, but that takes place.
+But and here where the fair
+
+39
+00:02:48,330 --> 00:02:55,020
+aspects come in, and research
+software cannot be as easily
+
+40
+00:02:55,740 --> 00:03:00,750
+addressed as data. So if you
+take a few principles, you
+
+41
+00:03:00,750 --> 00:03:04,320
+cannot consider that software is
+basically there and sort of
+
+42
+00:03:04,320 --> 00:03:08,490
+apply them as they are. They do
+have some similarities. And one
+
+43
+00:03:08,490 --> 00:03:12,690
+of them being that either,
+neither are commonly cited. So
+
+44
+00:03:12,720 --> 00:03:16,860
+this is one thing to bear in
+mind. But both teams have have
+
+45
+00:03:16,890 --> 00:03:20,010
+multiple versions both have
+licenses, I have a question mark
+
+46
+00:03:20,010 --> 00:03:23,100
+there, because I will be
+addressing this shortly in terms
+
+47
+00:03:23,100 --> 00:03:26,610
+of similarities. And they have
+something that they are sort of
+
+48
+00:03:27,300 --> 00:03:31,890
+fairly similar in the sense that
+both can be used as the basis
+
+49
+00:03:31,890 --> 00:03:35,730
+for several other things to to
+be built on top. And they have
+
+50
+00:03:35,730 --> 00:03:40,890
+some big reliance on existing
+hardware, software and so forth.
+
+51
+00:03:41,580 --> 00:03:44,760
+But there we have also a lot of
+differences. So if you look at
+
+52
+00:03:44,760 --> 00:03:49,290
+the at the at the dependency,
+it's only beta is much more
+
+53
+00:03:49,290 --> 00:03:52,440
+straightforward in terms of
+dependencies and software
+
+54
+00:03:52,530 --> 00:03:57,270
+usually have a much larger and
+more complex set of dependencies
+
+55
+00:03:57,270 --> 00:04:02,370
+to deal with. And, and when you
+talk about reuse. And if you
+
+56
+00:04:02,400 --> 00:04:05,940
+start addressing this for
+software, then we have a whole
+
+57
+00:04:05,940 --> 00:04:09,120
+different set of ours to deal
+with like rerun, reuse, re
+
+58
+00:04:09,120 --> 00:04:12,660
+execute, repeat, reproduce,
+extend. So all those are
+
+59
+00:04:12,660 --> 00:04:16,440
+different parts of the reuse
+term, if you want to go that
+
+60
+00:04:16,440 --> 00:04:22,560
+way. And finally, as opposed to
+the data, and research software
+
+61
+00:04:22,590 --> 00:04:25,320
+tends to be used more
+efficiently in terms of
+
+62
+00:04:25,320 --> 00:04:28,980
+workflows. So you have piece of
+software that sort of for one
+
+63
+00:04:28,980 --> 00:04:36,030
+after the other. So what we did
+is just a year ago or a couple
+
+64
+00:04:36,030 --> 00:04:40,950
+of years ago, we started working
+on how to re investigate or re
+
+65
+00:04:40,950 --> 00:04:44,010
+identify the first principle for
+for software.
+
+66
+00:04:45,270 --> 00:04:50,010
+We started with a definition of
+software being something that is
+
+67
+00:04:50,010 --> 00:04:52,500
+used generate process or analyze
+the results that you intend to
+
+68
+00:04:52,500 --> 00:04:56,130
+have in rotation, which in my
+mind has a big question mark on
+
+69
+00:04:56,130 --> 00:04:59,280
+the side but well, it's
+something that basically
+
+70
+00:04:59,280 --> 00:05:03,120
+everyone can see. Sort of agree
+with as a baseline. But then we
+
+71
+00:05:03,120 --> 00:05:06,030
+have many for many purposes of
+indecision tunnels. So there's a
+
+72
+00:05:06,030 --> 00:05:10,200
+whole different set of things to
+discuss. But and now we'll
+
+73
+00:05:10,200 --> 00:05:13,560
+connect also to one of the
+earlier points of was raised in
+
+74
+00:05:13,560 --> 00:05:17,730
+today's call. Traditional
+research software is often
+
+75
+00:05:17,730 --> 00:05:22,140
+created as a open source
+software. So it's, it has a very
+
+76
+00:05:22,560 --> 00:05:29,070
+clear overlap with F OSS, but
+the same time, when you're
+
+77
+00:05:29,070 --> 00:05:33,420
+dealing with fair, you don't
+necessarily imply that it's,
+
+78
+00:05:33,510 --> 00:05:37,590
+it's, it's it's free and open
+source. And so there is one
+
+79
+00:05:37,590 --> 00:05:40,620
+decision to to bear in mind.
+Ideally, we want everything to
+
+80
+00:05:40,620 --> 00:05:43,020
+be free and open source. But at
+the same time, the four
+
+81
+00:05:43,020 --> 00:05:48,120
+principles per se, do not imply
+This is pretty glass. So for the
+
+82
+00:05:48,120 --> 00:05:52,800
+next couple of slides, I'll
+really, really go fast through
+
+83
+00:05:52,800 --> 00:05:58,530
+the different principles s, the
+suggestion is to re assess them
+
+84
+00:05:58,530 --> 00:06:02,880
+for for use of software. So if
+you go find the ability, on the
+
+85
+00:06:02,880 --> 00:06:05,580
+top, I have the original
+principles, and if you look them
+
+86
+00:06:05,580 --> 00:06:08,580
+up, and then you have what is
+happening to the software case.
+
+87
+00:06:08,580 --> 00:06:12,570
+So when you're talking about to
+find the ability, the metadata
+
+88
+00:06:12,570 --> 00:06:15,990
+are mainly applicable to
+themselves. It's it's in that
+
+89
+00:06:15,990 --> 00:06:19,080
+context, but the subject that is
+identification can be both
+
+90
+00:06:19,560 --> 00:06:23,790
+intrinsic and external. So how
+to connect them with with
+
+91
+00:06:23,790 --> 00:06:28,290
+external databases and
+registries. And again, when
+
+92
+00:06:28,290 --> 00:06:32,010
+dealing with registries and how
+you want your insert to be
+
+93
+00:06:32,010 --> 00:06:36,120
+finable, and I will move away
+from the GitHub and only focus
+
+94
+00:06:36,120 --> 00:06:41,610
+on on the metadata themselves.
+You need to considered how there
+
+95
+00:06:41,610 --> 00:06:44,850
+are specialized registry. So
+there are some that are very
+
+96
+00:06:44,850 --> 00:06:47,610
+specific for use of software
+enabled for particular domains.
+
+97
+00:06:47,850 --> 00:06:52,200
+And there is no one cut all
+register that you can we can use
+
+98
+00:06:52,200 --> 00:06:55,980
+in this context, and you need to
+be aware of that. And also
+
+99
+00:06:55,980 --> 00:07:02,070
+should talk about describing
+with Rick's metadata you're in
+
+100
+00:07:02,070 --> 00:07:08,160
+software, usually, you often use
+semantic versioning. So there is
+
+101
+00:07:08,160 --> 00:07:14,160
+an intrinsic description of how
+this is described. And the
+
+102
+00:07:14,160 --> 00:07:18,810
+accessibility part is roughly
+the same. For both data and vs
+
+103
+00:07:18,810 --> 00:07:23,280
+software, there are minor
+technicalities to be addressed.
+
+104
+00:07:23,280 --> 00:07:27,780
+But largely because the
+accessibility is relying on the
+
+105
+00:07:27,780 --> 00:07:32,550
+metadata. In particular, it's
+easy enough to to implement and
+
+106
+00:07:32,550 --> 00:07:37,290
+to completely transfer to
+software and moving to the
+
+107
+00:07:37,290 --> 00:07:41,040
+interoperability, visibly
+rejigger reusability. Sorry.
+
+108
+00:07:42,450 --> 00:07:45,780
+This is where things come a bit
+more complex for
+
+109
+00:07:45,780 --> 00:07:52,920
+interoperability for data, then
+the main concept is to use to
+
+110
+00:07:52,920 --> 00:07:56,310
+use the common vocabularies and
+have the references standard
+
+111
+00:07:56,310 --> 00:08:01,140
+metadata. However, when we are
+talking about interoperability
+
+112
+00:08:01,140 --> 00:08:05,520
+for software, and these points
+can be easily addressed. But
+
+113
+00:08:06,330 --> 00:08:08,730
+when you're talking about
+interoperable software software
+
+114
+00:08:08,730 --> 00:08:12,930
+that can sort of interoperate,
+what does it imply? Are we
+
+115
+00:08:12,930 --> 00:08:15,660
+talking about how to connect
+different pieces of software to
+
+116
+00:08:15,660 --> 00:08:20,220
+each other? Or are we talking on
+how the data goes into a suffer?
+
+117
+00:08:20,640 --> 00:08:24,240
+reflect on that? Are we talking
+about Sandra for Beethoven? So
+
+118
+00:08:24,240 --> 00:08:28,530
+there is a a bit of a gray area
+there on how you need to define
+
+119
+00:08:28,620 --> 00:08:31,950
+Mitra bevelled. And we had some
+suggestions in that context as
+
+120
+00:08:31,950 --> 00:08:34,560
+well. Same with regions
+available. So we are talking
+
+121
+00:08:34,560 --> 00:08:41,160
+about having rich weather data
+for data and licensing and
+
+122
+00:08:41,220 --> 00:08:45,300
+detailed provenance. So for
+sure, we're talking about
+
+123
+00:08:45,300 --> 00:08:48,150
+dependencies and licenses for
+software, this is absolutely
+
+124
+00:08:48,660 --> 00:08:54,360
+critical to to include in order
+to be reusable. But at the same
+
+125
+00:08:54,360 --> 00:08:57,540
+time, you might also need
+documentation. What are the use
+
+126
+00:08:57,540 --> 00:09:00,720
+cases that do exist? How, how
+can we ensure that you can
+
+127
+00:09:00,720 --> 00:09:03,420
+actually use something it's not
+just a piece of code that has a
+
+128
+00:09:03,420 --> 00:09:08,820
+license and a reasoning of the
+dependencies. And finally, as I
+
+129
+00:09:08,820 --> 00:09:13,590
+said before, reusability is a
+rather broad term, when we talk
+
+130
+00:09:13,590 --> 00:09:17,310
+about software, we talk about
+rerun or reuse or produce. So
+
+131
+00:09:17,310 --> 00:09:19,350
+what is the art part and
+occasionally, you might have
+
+132
+00:09:19,350 --> 00:09:25,440
+come across fair rrrr or
+different ranges so far in
+
+133
+00:09:25,440 --> 00:09:27,990
+literature trying to address
+exactly this particular case.
+
+134
+00:09:29,250 --> 00:09:33,600
+And so this is sort of a first
+attempt that happened. Again, as
+
+135
+00:09:33,600 --> 00:09:36,510
+I said about a year ago, it was
+an attempt to interpret the four
+
+136
+00:09:36,510 --> 00:09:41,430
+principles as they are right
+now, but for software, but I'm
+
+137
+00:09:41,430 --> 00:09:44,850
+very happy to say that there is
+a very strong drive across
+
+138
+00:09:44,850 --> 00:09:47,460
+multiple different organizations
+initiatives at all different
+
+139
+00:09:47,460 --> 00:09:50,580
+levels of ensuring that software
+is of making a first class
+
+140
+00:09:50,580 --> 00:09:54,210
+citizen research and apply all
+those principles in practice and
+
+141
+00:09:54,210 --> 00:09:58,140
+through policies and listening
+to us the couple of the most
+
+142
+00:09:58,440 --> 00:10:02,850
+relevant ones. It's I want to
+particular highlight two
+
+143
+00:10:02,850 --> 00:10:07,260
+efforts. One is that was done in
+the context of our da, through
+
+144
+00:10:07,260 --> 00:10:10,620
+this pandemic, and the
+particular recommendations and
+
+145
+00:10:10,620 --> 00:10:13,770
+guidelines that came out through
+the research software setting
+
+146
+00:10:13,770 --> 00:10:17,310
+subgroup. And they have a clear
+alignment of the four
+
+147
+00:10:17,310 --> 00:10:21,090
+principles. But mostly, they aim
+to give very practical and very
+
+148
+00:10:21,090 --> 00:10:25,410
+precise instructions on how you
+can ensure that research
+
+149
+00:10:25,410 --> 00:10:29,820
+software can be shared
+effectively, and with ideally
+
+150
+00:10:29,820 --> 00:10:33,060
+minimal effort from the
+researchers. And the second
+
+151
+00:10:33,060 --> 00:10:38,250
+point is that just a few days
+ago, the EU publish this sort of
+
+152
+00:10:38,250 --> 00:10:41,010
+sixth accommodation for
+invitation for practice, which
+
+153
+00:10:41,010 --> 00:10:44,430
+actually did include all those,
+both the four principles that I
+
+154
+00:10:44,430 --> 00:10:47,910
+mentioned before, the best
+practices the lecture is working
+
+155
+00:10:47,910 --> 00:10:51,660
+on and software, release
+software guidelines that are
+
+156
+00:10:51,660 --> 00:10:58,110
+produced by the RBA. I have one
+last point to raise so all is
+
+157
+00:10:58,110 --> 00:11:04,320
+well. So we have about we know
+about the principles. We kind of
+
+158
+00:11:04,320 --> 00:11:09,330
+know more somehow, if we put
+really effort on them how to
+
+159
+00:11:09,330 --> 00:11:12,690
+apply them, hopefully. But if
+you look at the individual
+
+160
+00:11:12,720 --> 00:11:17,280
+level, so what I can do to help
+the this is where we go with the
+
+161
+00:11:17,280 --> 00:11:20,910
+best practices. So in most
+cases, as I said, at the
+
+162
+00:11:20,910 --> 00:11:24,690
+beginning, researchers tend to
+develop their own software. And
+
+163
+00:11:24,690 --> 00:11:27,720
+the reason is that they have
+clear knowledge of what we're
+
+164
+00:11:27,720 --> 00:11:31,200
+trying to do, they are basically
+the experts in their domain. And
+
+165
+00:11:31,470 --> 00:11:34,710
+if you if you would like to have
+a max production writing
+
+166
+00:11:34,740 --> 00:11:38,250
+software software engineer, it's
+not easy to find. And even if
+
+167
+00:11:38,280 --> 00:11:42,300
+you find them, it's not really
+affordable, especially for small
+
+168
+00:11:42,300 --> 00:11:47,340
+groups. So basically 90% of the
+people, oh, researchers are
+
+169
+00:11:47,340 --> 00:11:50,820
+actually self taught in writing
+their own software, because this
+
+170
+00:11:50,820 --> 00:11:54,450
+is what they need to do, which
+led to the loss of quality, and
+
+171
+00:11:54,540 --> 00:11:58,260
+not really good sustainability
+of the software itself. So the
+
+172
+00:11:58,260 --> 00:12:01,260
+best practices and again, an
+example here is from elixir,
+
+173
+00:12:01,260 --> 00:12:04,770
+where I was involved in a sort
+of recommending that sense, and
+
+174
+00:12:04,800 --> 00:12:08,820
+are some really straightforward
+ideas that you can apply at all
+
+175
+00:12:08,820 --> 00:12:14,910
+times to ensure that both your
+software aligns fairly well to
+
+176
+00:12:14,910 --> 00:12:17,970
+the Supreme process were
+identified before as well as the
+
+177
+00:12:18,000 --> 00:12:21,210
+Open Science principle. So
+there's the the aim to record
+
+178
+00:12:21,240 --> 00:12:26,640
+these particular overlap between
+fair and assess. So one step at
+
+179
+00:12:26,640 --> 00:12:31,890
+a time, what can each of us do
+to, like aim for that? As I
+
+180
+00:12:31,890 --> 00:12:36,270
+said, before, assess these are
+actually the four principles
+
+181
+00:12:36,300 --> 00:12:40,050
+make the source code public
+available from day one, make the
+
+182
+00:12:40,050 --> 00:12:45,210
+source the software easy to
+find, by offering metadata and
+
+183
+00:12:45,240 --> 00:12:48,660
+registering to something that
+you know, people are knowledge
+
+184
+00:12:48,690 --> 00:12:51,990
+of, they have knowledge of, and
+we can find, always find a
+
+185
+00:12:51,990 --> 00:12:57,540
+license and adopt one that is
+ideally permissive. And always
+
+186
+00:12:57,570 --> 00:12:59,790
+in line with any third party
+dependencies that we have for
+
+187
+00:12:59,790 --> 00:13:03,960
+your software. And if you want
+to build a community around it,
+
+188
+00:13:04,410 --> 00:13:08,310
+defined how people can actually
+help you with the software and
+
+189
+00:13:08,370 --> 00:13:11,460
+sort of engage with them. A
+second point is to utilize
+
+190
+00:13:11,460 --> 00:13:15,420
+software models plan, which is
+something that is emerging. And
+
+191
+00:13:15,480 --> 00:13:18,990
+in some cases, like in the UK,
+they are sort of establishing in
+
+192
+00:13:18,990 --> 00:13:23,040
+funding schemes, which is mostly
+an awareness tool. So how to
+
+193
+00:13:23,040 --> 00:13:25,980
+ensure that all those aspects
+are covered. And you sort of
+
+194
+00:13:26,190 --> 00:13:28,620
+give some effort in thinking
+about them in the first place.
+
+195
+00:13:29,250 --> 00:13:32,310
+And finally, of course, be part
+of the community and sort of be
+
+196
+00:13:32,310 --> 00:13:36,180
+part of the discussion. And by
+just being here. I think you're
+
+197
+00:13:36,660 --> 00:13:41,010
+sort of doing that already. And
+without I really thank you I
+
+198
+00:13:41,010 --> 00:13:44,400
+hope I've not take too much
+time, any questions, I'm more
+
+199
+00:13:44,400 --> 00:13:45,180
+than happy to address them.
+
