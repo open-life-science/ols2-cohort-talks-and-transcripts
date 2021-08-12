@@ -1,9 +1,24 @@
 # OLS2 Cohort Talks and Transcripts
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
+[![Crowdin](https://badges.crowdin.net/ols3/localized.svg)](https://crowdin.com/project/ols3)
 
+This repository aims to make the Open Life Science (OLS-3) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners. 
 
-This repository aims to make the Open Life Science (OLS-2) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners.
+> **You can you to explore important Open Science concepts and topics in no more than 10-15 minutes.**
+
+## Contributing :gift_heart:
+
+We welcome all contributions to improve this project especially first timers to expand the translation! 
+
+You don't need to know git to start contributing, we use [Crowdin localisation](https://crowdin.com/project/ols3), which enables you translate strings of SRT file while watching video and adding contect to your translation. More details are added to our [Contribution Guide](CONTRIBUTING.md).
+
+![](imgs/crowdin-gif.gif)
+
+Maintainers will do their best to help you if you have any
+questions, concerns, or experience any difficulties along the way.
+
+### The table below show the list of the talks and their speakers:
 
 |                                Title                               	|                                                      YouTube                                                     	|        Speaker       	| English Transcript 	|  Arabic Transcript 	|
 |:------------------------------------------------------------------:	|:----------------------------------------------------------------------------------------------------------------:	|:--------------------:	|:------------------:	|:------------------:	|
@@ -31,22 +46,17 @@ This repository aims to make the Open Life Science (OLS-2) videos and captions a
 |         [Mountain of Engagements: Community Interactions]()        	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|     Tania Allard     	| :heavy_check_mark: 	|                    	|
 |          [Using Persona and Pathways to Build Community]()         	| [<img src ='https://www.online-tech-tips.com/wp-content/uploads/2019/07/youtube-1.png'  width=35 height=15 />]() 	|      Ben Krikler     	| :heavy_check_mark: 	|                    	|
 
->You can also find the videos and captions associated with [cohort 1 (OLS-1)](https://github.com/open-life-science/ols1-cohort-talks-and-transcripts) and [cohort 3 (OLS-3)](https://github.com/open-life-science/ols3-cohort-talks-and-transcripts) in their respective repositories.
-
-## Contributing :gift_heart:
-
-We welcome all contributions to improve this project and to expand/improve the translation! Maintainers will do their best to help you if you have any
-questions, concerns, or experience any difficulties along the way. We'd like to ask you to familiarize yourself with our [Contribution Guide](CONTRIBUTING.md).
-
 ## Maintainer(s)
 
 Current maintainer of this project is:
 
 * [Batool Almarzouq](https://github.com/BatoolMM)
+* [Anelda van der Walt](https://github.com/anelda)
 
 ## Citation
 
-To cite any of these videos, please consult with [CITATION](CITATION)
+To cite any of these videos, please consult with [CITATION](CITATION) or use:
+> Malvika Sharan, Yo Yehudi, Emmy Tsang, Carlos Martinez, Helena Rasche, Esther Plomp, … Anelda van der Walt. (2021). OLS-3 Cohort Talks and Transcripts (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.5071349
 
 ## License
 
