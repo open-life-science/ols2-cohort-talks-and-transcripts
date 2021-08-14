@@ -1,0 +1,96 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Malvika
+    given-names: Sharan
+    orcid: https://orcid.org/0000-0001-6619-7369
+  - family-names: Emmy 
+    given-names: Tsang
+    orcid: https://orcid.org/0000-0002-9248-1280
+  - family-names: Bérénice 
+    given-names: Batut
+    orcid: https://orcid.org/0000-0001-9852-1987
+  - family-names: Malvika
+    given-names: Sharan
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Malvika
+    given-names: Sharan
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Yo 
+    given-names: Yehudi
+    orcid: https://orcid.org/0000-0003-2705-1724
+  - family-names: Hao 
+    given-names: Ye
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Christine 
+    given-names: Rogers
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Mateusz 
+    given-names: Kuzak
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Lilly 
+    given-names: Winfree
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Remalto 
+    given-names: Alves
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Aleksandra 
+    given-names: Nenadic
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Paula 
+    given-names: Martinez
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Batool 
+    given-names: Almarzouq
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Julieta 
+    given-names: Arancio
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Laura 
+    given-names: Acion
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Umar
+    given-names: Umar
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Nelsy 
+    given-names: Mtsweni
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Emma
+    given-names: Ganley
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Philippe 
+    given-names: Rocca-Serra
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Mellisa 
+    given-names: Burke
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Fotis 
+    given-names: Psomopoulos
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Natasha
+    given-names: Natasha
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Andrew 
+    given-names: Stewart
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Ekin 
+    given-names: Bolukbasi
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: David
+    given-names: Selassie Opoku
+    orcid: https://orcid.org/0000-0000-0000-0000
+   - family-names: Alex
+    given-names: Chan
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Tania
+    given-names: Allard
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Ben
+    given-names: Krikler
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Anelda
+    given-names: van der Walt
+    orcid: https://orcid.org/0000-0003-4245-8119
+title: open-life-science/ols2-cohort-talks-and-transcripts: OLS-2 Cohort Talks and Transcripts
+version: v1.0
+date-released: 2017-12-18
