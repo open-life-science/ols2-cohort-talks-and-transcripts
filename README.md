@@ -1,6 +1,7 @@
 # OLS2 Cohort Talks and Transcripts
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
+[![DOI](https://zenodo.org/badge/378213391.svg)](https://zenodo.org/badge/latestdoi/378213391)
 [![Crowdin](https://badges.crowdin.net/ols2/localized.svg)](https://crowdin.com/project/ols2)
 
 This repository aims to make the Open Life Science (OLS-2) videos and captions accessible, re-useable, and encourage further translation in other languages beyond English and Arabic. All original videos are available in [Open LifeSci YouTube channel](https://www.youtube.com/channel/UCs12-ZgnDJOWIWN3Vo1XHXA). This project was initiated by [Talarify](https://twitter.com/talarify?lang=en) and [Open Science Community in Saudi Arabia](https://twitter.com/OpenSciSaudi) to facilitate learning of Open science practices to novice learners. 
@@ -52,6 +53,10 @@ Current maintainer of this project is:
 
 * [Batool Almarzouq](https://github.com/BatoolMM)
 * [Anelda van der Walt](https://github.com/anelda)
+
+## Citation
+
+> Malvika Sharan, Emmy Tsang, Bérénice Batut, Yo Yehudi, Christine Rogers, Mateusz Kuzak, Lilly Winfree, Remalto Alves, Aleksandra Nenadic, Paula Martinez, Batool Almarzouq, Julieta Arancio, Laura Acion, Umar, Nelsy Mtsweni, Emma Ganley, Philippe Rocca-Serra, Mellisa Burke, Fotis Psomopoulos, … Anelda van der Walt. (2021, August 14). Mini Talks about Open Science from OLS-2 Cohort (v1.0). Zenodo. https://doi.org/10.5281/zenodo.5201730
 
 
 ## License
